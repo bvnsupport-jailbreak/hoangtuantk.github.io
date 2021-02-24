@@ -1,0 +1,19 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Ủng hộ tôi - PayPal</name>
+			<url>https://www.paypal.me/hoangtuan09</url>
+			<iconclass>fa fa-paypal</iconclass>
+		</link>
+		<link>
+			<name>Ủng hộ tôi - Tài khoản ngân hàng</name>
+			<url>https://sites.google.com/view/hoangtuan98/info_share</url>
+			<iconclass>fa fa-bank</iconclass>
+		</link>
+		<link>
+			<name>Facebook</name>
+			<url>https://www.facebook.com/qq.robert/</url>
+			<iconclass>fa fa-facebook</iconclass>
+		</link>
+	</footerlinks>
+</repo>
