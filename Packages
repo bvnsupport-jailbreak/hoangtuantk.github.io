@@ -15,7 +15,7 @@ Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.cydowntieng
 Icon: file:///Applications/Cydia.app/Sections/HTR-phattrien.png
 Name: CyDown (Thêm tiếng Việt)
 
-Package: com.hoangtuan.cputoolttv
+Package: com.hoangtuan.cputooltiengviet
 Version: 1.2
 Author: Hoàng Tuân
 Architecture: iphoneos-arm
