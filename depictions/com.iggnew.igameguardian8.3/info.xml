@@ -1,0 +1,21 @@
+<package>
+	<id>com.iggnew.igameguardian</id>
+	<name>Hoàng Tuân Repo</name>
+	<version>8.9</version>
+
+	<descriptionlist>
+
+		<description>File việt hoá:
+			<a href= " https:gg.gg/iggvh1 " > Link 1 </a>
+			<a href= " https:gg.gg/iggvh2 " > Link 2 </a>
+		</description>
+		<description><![CDATA[ Hướng Dẫn <br/>
+			1. Tải việt hoá về và giải nén <br/>
+			2. Sao chép "Base.lproj" và "vi.lproj" <br/>
+			3. Dán vào /Applications/iGameGuardian.app <br/>
+			4. Hiện ghi đè ấn đồng ý
+				 ]]>
+		</description>
+	</descriptionlist>
+
+</package>
