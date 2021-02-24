@@ -1,13 +1,20 @@
 <package>
 	<id>com.iggnew.igameguardian</id>
 	<name>Hoàng Tuân Repo</name>
-	<version>8.9</version>
-
+	<version>8.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.3</miniOS>
+		</firmware>
+	</compatibility>
 	<descriptionlist>
-
-		<description>File việt hoá:
-			<a href= " https:gg.gg/iggvh1 " > Link 1 </a>
-			<a href= " https:gg.gg/iggvh2 " > Link 2 </a>
+		
+	
+		<description><![CDATA[
+			Link tải file việt hoá <br/>
+			http://gg.gg/iggvh1 (link1)<br/>
+			http://gg.gg/iggvh2	(link2)
+				 ]]>
 		</description>
 		<description><![CDATA[ Hướng Dẫn <br/>
 			1. Tải việt hoá về và giải nén <br/>
