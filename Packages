@@ -128,7 +128,6 @@ Name: Hoàng Tuân - Icon Repo
 
 Package: com.iggnew.iGameGuardian8.3
 Version: 8.3
-Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
 Maintainer: Hoàng Tuân
@@ -148,7 +147,6 @@ Name: iGameGuardian 8.3
 
 Package: com.iggnew.iGameGuardian.iOS12
 Version: 12.0.4
-Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
 Maintainer: Hoàng Tuân
@@ -168,7 +166,6 @@ Name: iGG 12 Stable
 
 Package: com.iggnew.iGameGuardian.iOS12.speed
 Version: 12.0.4
-Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
 Maintainer: Hoàng Tuân
@@ -188,7 +185,6 @@ Name: iGG 12 Speed
 
 Package: com.iggnew.iGameGuardian.iOS12.speed.fireThree
 Version: 12.0.4
-Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
 Maintainer: Hoàng Tuân
@@ -208,7 +204,6 @@ Name: iGG 12 Speed [FireThree]
 
 Package: com.iggnew.iGameGuardian.iOS12.speed.fireTwo
 Version: 12.0.4
-Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
 Maintainer: Hoàng Tuân
@@ -228,7 +223,6 @@ Name: iGG 12 Speed [FireTwo]
 
 Package: com.iggnew.iGameGuardian.iOS12.speed.FireOne
 Version: 12.0.4
-Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
 Maintainer: Hoàng Tuân
@@ -248,7 +242,6 @@ Name: iGG 12 Speed [fireOne]
 
 Package: com.iggnew.iGameGuardian.iOS12.speed.fireFour
 Version: 12.0.4
-Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
 Maintainer: Hoàng Tuân
