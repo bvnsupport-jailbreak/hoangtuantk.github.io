@@ -1,0 +1,13 @@
+<package>
+	<id>com.hoangtuan.cydowntiengviet</id>
+	<name>Hoàng Tuân Repo</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description>Thêm tiếng Việt cho Cydown</description>
+	</descriptionlist>
+</package>
