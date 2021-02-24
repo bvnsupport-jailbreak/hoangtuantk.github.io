@@ -1,0 +1,8 @@
+Origin: Hoàng Tuân Repo
+Label: Hoàng Tuân Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Kho lưu trữ Cydia của Hoàng Tuân
