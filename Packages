@@ -132,7 +132,6 @@ Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
 Maintainer: Hoàng Tuân
-Depends: mobilesubstrate
 Filename: ./debs/iGG/com.iggnew.igameguardian8.3_8.3_iphoneos-arm.deb
 Installed-Size: 15000
 Size: 1127318
@@ -144,7 +143,7 @@ Description: iGG Stable
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian8.3
 Icon: file:///Applications/Cydia.app/Sections/HTR-tinhchinh.png
-Name: iGameGuardian 正版8.3 免费
+Name: iGameGuardian 8.3
 
 Package: com.iggnew.iGameGuardian.iOS12
 Version: 12.0.4
@@ -152,9 +151,7 @@ Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
 Maintainer: Hoàng Tuân
-Depends: mobilesubstrate
 Filename: ./debs/iGG/com.iggnew.igameguardian.ios12_12.0.4_iphoneos-arm.deb
-Installed-Size: 1372
 Size: 1164512
 MD5sum: fbe2abe3bfff118b2414e794c2ad193d
 SHA1: 6f8ec728269bf4f29bd68da3ddd3947191855695
@@ -164,7 +161,7 @@ Description: iGG Stable
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian
 Icon: file:///Applications/Cydia.app/Sections/HTR-tinhchinh.png
-Name: iGG 12 Stable 免费
+Name: iGG 12 Stable
 
 Package: com.iggnew.iGameGuardian.iOS12.speed
 Version: 12.0.4
@@ -172,7 +169,6 @@ Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
 Maintainer: Hoàng Tuân
-Depends: mobilesubstrate
 Filename: ./debs/iGG/com.iggnew.igameguardian.ios12.speed_12.0.4_iphoneos-arm.deb
 Installed-Size: 1372
 Size: 1164936
@@ -184,7 +180,7 @@ Description: iGG Stable
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian
 Icon: file:///Applications/Cydia.app/Sections/HTR-tinhchinh.png
-Name: iGG 12 Speed 免费
+Name: iGG 12 Speed
 
 Package: com.iggnew.iGameGuardian.iOS12.speed.fireThree
 Version: 12.0.4
@@ -192,7 +188,6 @@ Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
 Maintainer: Hoàng Tuân
-Depends: mobilesubstrate
 Filename: ./debs/iGG/com.iggnew.igameguardian.ios12.speed.firethree_12.0.4_iphoneos-arm.deb
 Installed-Size: 1372
 Size: 1090726
@@ -204,7 +199,7 @@ Description: iGG Stable
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian
 Icon: file:///Applications/Cydia.app/Sections/HTR-tinhchinh.png
-Name: iGG 12 Speed [FireThree] 免费
+Name: iGG 12 Speed [FireThree]
 
 Package: com.iggnew.iGameGuardian.iOS12.speed.fireTwo
 Version: 12.0.4
@@ -212,7 +207,6 @@ Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
 Maintainer: Hoàng Tuân
-Depends: mobilesubstrate
 Filename: ./debs/iGG/com.iggnew.igameguardian.ios12.speed.firetwo_12.0.4_iphoneos-arm.deb
 Installed-Size: 1372
 Size: 1090580
@@ -224,7 +218,7 @@ Description: iGG Stable
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian
 Icon: file:///Applications/Cydia.app/Sections/HTR-tinhchinh.png
-Name: iGG 12 Speed [FireTwo] 免费
+Name: iGG 12 Speed [FireTwo]
 
 Package: com.iggnew.iGameGuardian.iOS12.speed.FireOne
 Version: 12.0.4
@@ -232,7 +226,6 @@ Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
 Maintainer: Hoàng Tuân
-Depends: mobilesubstrate
 Filename: ./debs/iGG/com.iggnew.igameguardian.ios12.speed.fireone_12.0.4_iphoneos-arm.deb
 Installed-Size: 1372
 Size: 1090572
@@ -244,7 +237,7 @@ Description: iGG Stable
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian
 Icon: file:///Applications/Cydia.app/Sections/HTR-tinhchinh.png
-Name: iGG 12 Speed [fireOne] 免费
+Name: iGG 12 Speed [fireOne]
 
 Package: com.iggnew.iGameGuardian.iOS12.speed.fireFour
 Version: 12.0.4
@@ -252,7 +245,6 @@ Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
 Maintainer: Hoàng Tuân
-Depends: mobilesubstrate
 Filename: ./debs/iGG/com.iggnew.igameguardian.ios12.speed.firefour_12.0.4_iphoneos-arm.deb
 Installed-Size: 1372
 Size: 1090628
@@ -264,4 +256,4 @@ Description: iGG Stable
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian
 Icon: file:///Applications/Cydia.app/Sections/HTR-tinhchinh.png
-Name: iGG 12 Speed [FireFour] 免费
+Name: iGG 12 Speed [FireFour]
