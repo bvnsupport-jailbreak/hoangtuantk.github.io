@@ -128,6 +128,7 @@ Name: Hoàng Tuân - Icon Repo
 
 Package: com.iggnew.iGameGuardian8.3
 Version: 8.3
+Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
 Maintainer: Hoàng Tuân
@@ -143,10 +144,11 @@ Description: iGG Stable
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian8.3
 Icon: file:///Applications/Cydia.app/Sections/HTR-tinhchinh.png
-Name: iGameGuardian 8.3
+Name: iGameGuardian 正版8.3 免费
 
 Package: com.iggnew.iGameGuardian.iOS12
 Version: 12.0.4
+Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
 Maintainer: Hoàng Tuân
@@ -162,10 +164,11 @@ Description: iGG Stable
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian
 Icon: file:///Applications/Cydia.app/Sections/HTR-tinhchinh.png
-Name: iGG 12 Stable
+Name: iGG 12 Stable 免费
 
 Package: com.iggnew.iGameGuardian.iOS12.speed
 Version: 12.0.4
+Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
 Maintainer: Hoàng Tuân
@@ -181,10 +184,11 @@ Description: iGG Stable
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian
 Icon: file:///Applications/Cydia.app/Sections/HTR-tinhchinh.png
-Name: iGG 12 Speed
+Name: iGG 12 Speed 免费
 
 Package: com.iggnew.iGameGuardian.iOS12.speed.fireThree
 Version: 12.0.4
+Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
 Maintainer: Hoàng Tuân
@@ -200,10 +204,11 @@ Description: iGG Stable
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian
 Icon: file:///Applications/Cydia.app/Sections/HTR-tinhchinh.png
-Name: iGG 12 Speed [FireThree]
+Name: iGG 12 Speed [FireThree] 免费
 
 Package: com.iggnew.iGameGuardian.iOS12.speed.fireTwo
 Version: 12.0.4
+Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
 Maintainer: Hoàng Tuân
@@ -219,10 +224,11 @@ Description: iGG Stable
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian
 Icon: file:///Applications/Cydia.app/Sections/HTR-tinhchinh.png
-Name: iGG 12 Speed [FireTwo]
+Name: iGG 12 Speed [FireTwo] 免费
 
 Package: com.iggnew.iGameGuardian.iOS12.speed.FireOne
 Version: 12.0.4
+Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
 Maintainer: Hoàng Tuân
@@ -238,10 +244,11 @@ Description: iGG Stable
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian
 Icon: file:///Applications/Cydia.app/Sections/HTR-tinhchinh.png
-Name: iGG 12 Speed [fireOne]
+Name: iGG 12 Speed [fireOne] 免费
 
 Package: com.iggnew.iGameGuardian.iOS12.speed.fireFour
 Version: 12.0.4
+Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
 Maintainer: Hoàng Tuân
@@ -257,4 +264,4 @@ Description: iGG Stable
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian
 Icon: file:///Applications/Cydia.app/Sections/HTR-tinhchinh.png
-Name: iGG 12 Speed [FireFour]
+Name: iGG 12 Speed [FireFour] 免费
