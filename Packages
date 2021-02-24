@@ -145,7 +145,7 @@ Icon: file:///Applications/Cydia.app/Sections/HTR-tinhchinh.png
 Name: iGameGuardian 8.3
 
 Package: com.iggnew.iGameGuardian.iOS12
-Version: 12.0.3-4
+Version: 12.0.4
 Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
