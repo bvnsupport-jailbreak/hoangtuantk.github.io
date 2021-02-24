@@ -1,5 +1,5 @@
 Package: com.hoangtuan.cydowntiengviet
-Version: 1.0
+Version: 1.3
 Author: Hoàng Tuân
 Architecture: iphoneos-arm
 Description: Thêm ngôn ngữ tiếng Việt cho Cydown
@@ -131,7 +131,7 @@ Version: 8.3
 Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
-Maintainer: Hoàng Tuân
+Maintainer: iggnew
 Filename: ./debs/iGG/com.iggnew.igameguardian8.3_8.3_iphoneos-arm.deb
 Installed-Size: 15000
 Size: 1127318
@@ -139,7 +139,6 @@ MD5sum: 353cbab3890e846d1154cd94e1601bc5
 SHA1: a4c52c3b6a74041559030df658f0b808788ace54
 SHA256: 8c8a96517f7d407f965dec150fbfe9384797e6a93acf7e47bb2d0381dd506b99
 SHA512: faa490939b133e2f1230a4a7f09108c720d5994ddd88108ee41b8405ad5afdbb81b1a8cfe3cc7b2c098599a724bf0a7528fbb92f86c72f7b199e6fec2c4f445a
-Description: iGG Stable
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian8.3
 Icon: file:///Applications/Cydia.app/Sections/HTR-tinhchinh.png
@@ -150,14 +149,13 @@ Version: 12.0.4
 Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
-Maintainer: Hoàng Tuân
+Maintainer: iggnew
 Filename: ./debs/iGG/com.iggnew.igameguardian.ios12_12.0.4_iphoneos-arm.deb
 Size: 1164512
 MD5sum: fbe2abe3bfff118b2414e794c2ad193d
 SHA1: 6f8ec728269bf4f29bd68da3ddd3947191855695
 SHA256: 4fc1ba14b6d80cfbe8bd3682090e97f950d3e0d3f8d1da67b924feda02c38d79
 SHA512: c6cf3fe3220af3e54af561dccf0823dd406a757f36cdc04f0414015aa53443c7dd070f0fd168b10a277d8d552d6c37ff03055ee52d65b1c8a22aee75dc23eb10
-Description: iGG Stable
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian
 Icon: file:///Applications/Cydia.app/Sections/HTR-tinhchinh.png
@@ -168,7 +166,7 @@ Version: 12.0.4
 Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
-Maintainer: Hoàng Tuân
+Maintainer: iggnew
 Filename: ./debs/iGG/com.iggnew.igameguardian.ios12.speed_12.0.4_iphoneos-arm.deb
 Installed-Size: 1372
 Size: 1164936
@@ -176,7 +174,6 @@ MD5sum: c3253a369718cb3dc75c37ed670c5944
 SHA1: baba4acf69ed66b319c85865404fd99663c28459
 SHA256: 9ed9d15db0140c2a12a60e935962d40c8b3c352a5353648783aabff8e1029bc3
 SHA512: 0e63df887c067f7ada8675837dacdd490e00b9ada2bcf80843f5b1f9b6aa27a6e9620ccd0782083fed5a55f905126fa7ab0892d609219ca3ed6534256c5e62ec
-Description: iGG Stable
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian
 Icon: file:///Applications/Cydia.app/Sections/HTR-tinhchinh.png
@@ -187,7 +184,7 @@ Version: 12.0.4
 Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
-Maintainer: Hoàng Tuân
+Maintainer: iggnew
 Filename: ./debs/iGG/com.iggnew.igameguardian.ios12.speed.firethree_12.0.4_iphoneos-arm.deb
 Installed-Size: 1372
 Size: 1090726
@@ -195,7 +192,6 @@ MD5sum: a5ce2276d47129d0a425ff6b9cae72fb
 SHA1: 46e001887164611d68fb3075512f6a01655811e4
 SHA256: 8c261201d23ee652353a5ebb3a23968d9dd10ef7fe5af021104330aa9b8a9125
 SHA512: f902d517fca854cda5526d0cef59a55493b77854f27d878a93a9b0f2e38f9cf4264886e397693fc219c42ce73ec5b204b4a50f58f54e05e7d78ae8cbc3c8ddca
-Description: iGG Stable
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian
 Icon: file:///Applications/Cydia.app/Sections/HTR-tinhchinh.png
@@ -206,7 +202,7 @@ Version: 12.0.4
 Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
-Maintainer: Hoàng Tuân
+Maintainer: iggnew
 Filename: ./debs/iGG/com.iggnew.igameguardian.ios12.speed.firetwo_12.0.4_iphoneos-arm.deb
 Installed-Size: 1372
 Size: 1090580
@@ -214,7 +210,6 @@ MD5sum: 0eea7df0a7360b71756133febe78a186
 SHA1: 96eb9c892e553e90892352e6673337e1b0a04a76
 SHA256: 0314de54ecfc953cd176607b7b26847dea7b22f56f950cf364de5f5c73056dee
 SHA512: 57bf710f7733447000c92c8601e0aba1f3365ff13f2eac411c34b6267b6071fa0d92c851a59dbab62e68ca90b054d61d80f5036f508669ba8dc40bffe68f035b
-Description: iGG Stable
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian
 Icon: file:///Applications/Cydia.app/Sections/HTR-tinhchinh.png
@@ -225,7 +220,7 @@ Version: 12.0.4
 Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
-Maintainer: Hoàng Tuân
+Maintainer: iggnew
 Filename: ./debs/iGG/com.iggnew.igameguardian.ios12.speed.fireone_12.0.4_iphoneos-arm.deb
 Installed-Size: 1372
 Size: 1090572
@@ -233,7 +228,6 @@ MD5sum: 1c3a293a59d68a5b5f787214e26d19a5
 SHA1: 9a87c31b0c572d710a628ec51930cc9707135653
 SHA256: 13358dee86b674804e9c720bb49e23ec739a2176480e7b6ccaf22a4df2b03855
 SHA512: 4ac0854a1b71763b81356a57db827325383ef426d4f0f2e2425bc3ff79a5c14ac60d5fb844bd44b33f3fb7d2b26fdcb24f1e424f9194948ad9de2e74dc535563
-Description: iGG Stable
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian
 Icon: file:///Applications/Cydia.app/Sections/HTR-tinhchinh.png
@@ -244,7 +238,7 @@ Version: 12.0.4
 Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
-Maintainer: Hoàng Tuân
+Maintainer: iggnew
 Filename: ./debs/iGG/com.iggnew.igameguardian.ios12.speed.firefour_12.0.4_iphoneos-arm.deb
 Installed-Size: 1372
 Size: 1090628
@@ -252,7 +246,6 @@ MD5sum: 3cb7b8be7cc52cf1a0720f91fee8e4b8
 SHA1: fb2d37f73b0ae6b2abbe1600c8bb62e2ee3970cb
 SHA256: 7722ece27b701523f01d9de1d445f09ee3d44039d6d93207d0c41ff245bece05
 SHA512: 3e3872d687e9c5c0bae8443c90a5d7169e1cbb35e4818804ef35d54b7ba3f03773f8c95584d82de37ee91f2a144eecea57d4efbab3e86fe72f648d121779a932
-Description: iGG Stable
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian
 Icon: file:///Applications/Cydia.app/Sections/HTR-tinhchinh.png
