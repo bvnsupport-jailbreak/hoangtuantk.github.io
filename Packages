@@ -2,7 +2,7 @@ Package: com.hoangtuan.cydowntiengviet
 Version: 1.0
 Author: Hoàng Tuân
 Architecture: iphoneos-arm
-Description: Thêm Tiếng Việt cho Cydown
+Description: Thêm ngôn ngữ tiếng Việt cho Cydown
 Maintainer: Hoàng Tuân
 Section: Localization
 Filename: ./debs/com.hoangtuan.cydowntiengviet_1.0_iphoneos-arm.deb
@@ -13,13 +13,13 @@ SHA256: 64af98df7f13f99bf8cffcb9b8274818b50dbf623b53612f01722ebf6a445e90
 SHA512: 657478d308fd3a9e1d32fd9ff4964878dcc9528533427d54239051bbc186ebf984aac32e36e73c3a7e067361eefc4394af9291de9e1a5bee0e9c22495bf6aa8a
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.cydowntiengviet
 Icon: file:///Applications/Cydia.app/Sections/HTR-phattrien.png
-Name: CyDown (Thêm Tiếng Việt)
+Name: CyDown (Thêm tiếng Việt)
 
 Package: com.hoangtuan.cputoolttv
 Version: 1.2
 Author: Hoàng Tuân
 Architecture: iphoneos-arm
-Description: Thêm Tiếng Việt cho CPUTool
+Description: Thêm ngôn ngữ tiếng Việt cho CPUTool
 Maintainer: Hoàng Tuân
 Section: Localization
 Depends: mobilesubstrate
@@ -31,7 +31,7 @@ SHA256: 508cd295ec39c6ccbcaa2179c327d7f97b8c164cbe8d18c03140d6aca87f4001
 SHA512: d692063747871d6759ce125f7f11da91caff6687dc556d4f74627e88caafb04e28dbb20dd56fb33db15bccd7c08fb423e90ab54f65c13010825362aa181f5ad5
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.cputoolttv
 Icon: file:///Applications/Cydia.app/Sections/HTR-phattrien.png
-Name: CPUTool (Thêm Tiếng Việt)
+Name: CPUTool (Thêm tiếng Việt)
 
 Package: com.hoangtuan.videoswipes
 Version: 1.4-2
@@ -124,4 +124,4 @@ Description: Biểu tượng Cydia cho kho lưu trữ Hoàng Tuân Repo
 Author: Hoàng Tuân
 Depiction: Biểu tượng Cydia cho kho lưu trữ Hoàng Tuân Repo
 Icon: file:///Applications/Cydia.app/Sections/HTR-hethong.png
-Name: Icon Repo Hoàng Tuân
+Name: Hoàng Tuân - Icon Repo
