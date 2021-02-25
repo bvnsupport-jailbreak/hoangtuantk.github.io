@@ -1,5 +1,5 @@
 <package>
-	<id>com.hoangtuan.videoswipes</id>
+	<id>com.michael.substrated</id>
 	<name>Hoàng Tuân Repo</name>
 	<version>0.9.7111</version>
 	<compatibility>
@@ -9,7 +9,10 @@
 	</compatibility>
 	<descriptionlist>
 		<description>Hỗ trợ iOS >=12.3</description>
-		<description><![CDATA[Tiện ích đơn giản cho phép chuyển đổi từ Unc0ver sang Checkra1n mà không phải cài thủ công Cydia Substrate<br/>Việc cài đặt sẽ hoàn toàn tự động]]>
+		<description><![CDATA[
+			Tiện ích đơn giản cho phép chuyển đổi từ Unc0ver sang Checkra1n mà không phải cài thủ công Cydia Substrate <br/>
+			Việc cài đặt sẽ hoàn toàn tự động
+			]]>
 		</description>
 	</descriptionlist>
 	<links></links>

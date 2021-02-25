@@ -10,7 +10,8 @@
 	</compatibility>
 	<descriptionlist>
 		<description>Hỗ trợ iOS 11.0 - 13.7</description>
-		<description><![CDATA[Thêm cử chỉ vuốt cho trình phát video<br/>
+		<description><![CDATA[
+	-Thêm cử chỉ vuốt cho trình phát video<br/>
 	- Vuốt sang trái/phải: tua đi/tua lại video 15 giây (bạn có thể thay đổi số giây trong cài đặt)<br/>
 	- Vuốt lên/xuống bên trái màn hình: tăng/giảm âm lượng (các bước có thể cấu hình)<br/>
 	- Vuốt lên/xuống bên phải màn hình: tăng/giảm độ sáng (các bước có thể cấu hình)<br/>
