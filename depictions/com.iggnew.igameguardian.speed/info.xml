@@ -7,25 +7,29 @@
 			<maxiOS>12.9</maxiOS>
 		</firmware>
 	</compatibility>
+	
 	<descriptionlist>
-		<description><![CDATA[
+		<description>
+			<![CDATA[
 			iOS 13 cài bản iGG Stable <br/>
 			iOS thấp hơn cài bản iGG Speed
-			 	]]>	
+			]]>	
 		</description>
 	
-		<description><![CDATA[
+		<description>
+			<![CDATA[
 			Link tải file việt hoá <br/>
-			http://gg.gg/iggvh1 (link1)<br/>
-			http://gg.gg/iggvh2	(link2)
-				 ]]>
+			gg.gg/iggvh1 <br/>
+			gg.gg/iggvh2
+			]]>
 		</description>
-		<description><![CDATA[ Hướng Dẫn <br/>
-			1. Tải việt hoá về và giải nén <br/>
+		<description>
+			<![CDATA[ Hướng Dẫn <br/>
+			1. Tải file việt hoá về và giải nén <br/>
 			2. Sao chép "Base.lproj" và "vi.lproj" <br/>
 			3. Dán vào /Applications/iGameGuardian.app <br/>
 			4. Hiện ghi đè ấn đồng ý
-				 ]]>
+			]]>
 		</description>
 	</descriptionlist>
 
