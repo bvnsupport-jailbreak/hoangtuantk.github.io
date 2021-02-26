@@ -329,6 +329,6 @@ Multi-Arch: foreign
 Maintainer: Samuel Bingner
 Homepage: https://hoangtuantk.github.io/
 Author: Samuel Bingner
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.videoswipes
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.plutil
 Icon: file:///Applications/Cydia.app/Sections/HTR-2.png
 Name: plutil
