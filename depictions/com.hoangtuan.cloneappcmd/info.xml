@@ -16,9 +16,9 @@
 			Thực hiện: <br/>
 			- Mở tw gõ lệnh termial và gõ <br/>
 			su<br/>
-			ấn enter<br/>
+				ấn enter<br/>
 			alpine<br/>
-			ấn enter<br/>
+				ấn enter<br/>
 			cloneapp Tên App, Hoặc Package tên định danh <br/>
 			VD: cloneapp Facebook hoặc cloneapp com.facebook.Facebook <br/>
 			- Tên định danh (Package) xem bằng cách vào Filza > Quản lý ứng dụng > biểu tượng (i)
@@ -26,9 +26,9 @@
 		</description>
 				<description>
 			<![CDATA[
-			Gõ xong nó sẽ hiện phần Tên ứng dụng <br/>
-			Đây là tên của app khi nhân bản xong, bạn có thể đặt tuỳ ý <br/>
-			Giờ chỉ việc đợi thôi. Lưu ý không được thoát ra ngoài hay tắt màn hình
+			- Gõ xong nó sẽ hiện phần Tên ứng dụng <br/>
+			- Đây là tên của app khi nhân bản xong, bạn có thể đặt tuỳ ý <br/>
+			- Giờ chỉ việc đợi thôi. Lưu ý không được thoát ra ngoài hay tắt màn hình
 				]]>
 		</description>
 	</descriptionlist>
