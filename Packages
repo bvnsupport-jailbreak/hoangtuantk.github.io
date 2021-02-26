@@ -282,7 +282,7 @@ MD5sum: c4f5eb928a3b0ec5e69b0688aa79d692
 SHA1: c52ce1b580a38a650db2a39b7a9edc0112d2e7a2
 SHA256: e611bf8ac5d4fe8e934b578eab20f6d195a01db49860ceac080716f7f8d040f5
 SHA512: 3011b3cbb42c2bc24fd8d394cbf1e61162408994af8eeef0671dda97c192ccbc1804a6fd251a600e5087ab27875edf498bdb691e178771c695b6a6913d58e804
-Description: Lệnh nhập trong terminal. cloneapp <CFBundleDisplayName | CFBundleIdent | CFBundleName>
+Description: Nhân bản ứng dụng
 Maintainer: shin-chan
 Homepage: https://hoangtuantk.github.io/
 Sponsor: shin-chan
@@ -335,3 +335,4 @@ Author: Samuel Bingner
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.plutil
 Icon: file:///Applications/Cydia.app/Sections/HTR-2.png
 Name: plutil
+ 
