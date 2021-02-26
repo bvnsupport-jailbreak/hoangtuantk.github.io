@@ -19,10 +19,9 @@
 			ấn enter<br/>
 			alpine<br/>
 			ấn enter<br/>
-			cloneapp <Tên App, Hoặc Package tên định danh> <br/>
-			ấn enter <br/>
+			cloneapp Tên App, Hoặc Package tên định danh <br/>
 			VD: cloneapp Facebook hoặc cloneapp com.facebook.Facebook <br/>
-			Tên định danh (Package) xem bằng cách vào Filza > Quản lý ứng dụng > biểu tượng (i)
+			- Tên định danh (Package) xem bằng cách vào Filza > Quản lý ứng dụng > biểu tượng (i)
 			]]>
 		</description>
 	</descriptionlist>
