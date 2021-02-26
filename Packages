@@ -42,7 +42,7 @@ Description: Thêm ngôn ngữ tiếng Việt cho CPUTool
 Maintainer: Hoàng Tuân
 Section: Localization
 Depends: mobilesubstrate
-Filename: ./debs/com.hoangtuan.cputoolttv_1.2_iphoneos-arm.deb
+Filename: ./debs/com.hoangtuan.cputool.tv_1.2_iphoneos-arm.deb
 Size: 2538
 MD5sum: 51ce63e5aedc5962bfdb76786903c3ac
 SHA1: ab6d927d21df9d9e9057f25196fa9dcc26823265
