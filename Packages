@@ -294,6 +294,8 @@ Package: com.hoangtuan.myinst
 Version: 5.6.0.3
 Architecture: iphoneos-arm
 Section: Archiving
+Priority: important
+Pre-Depends: firmware (>= 7.0)
 Depends: mobilesubstrate, net.angelxwind.appsyncunified
 Filename: ./debs/com.hoangtuan.myinst_5.6.0.3_iphoneos-arm.deb
 Size: 91994
