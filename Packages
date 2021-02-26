@@ -5,7 +5,7 @@ Section: System
 Essential: yes
 Maintainer: Hoàng Tuân
 Sileodepiction: http://hoangtuantk.github.io/sileo-depiction/icon
-Filename: ./debs/icon.cydia_2.0_iphoneos-arm.deb
+Filename: ./debs/icon.cydia.ht_2.0_iphoneos-arm.deb
 Size: 152322
 MD5sum: e2aa96acd82a792b7ea7636115e2544d
 SHA1: e47a5d86ad681e456e1924069f95dbe83da443b4
