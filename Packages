@@ -14,7 +14,7 @@ SHA512: 72a0941269820002f56f168698ca90d91338a58a3210b84b0fdce4cb24460b11e001e2dd
 Description: Biểu tượng Cydia cho kho lưu trữ Hoàng Tuân Repo
 Author: Hoàng Tuân
 Depiction: Biểu tượng Cydia cho kho lưu trữ Hoàng Tuân Repo
-Icon: file:///Applications/Cydia.app/Sections/HTR-7.png
+Icon: http://hoangtuantk.github.io/iconrepo/HTR-7.png
 Name: Icon - Hoàng Tuân Repo
 
 Package: com.hoangtuan.cydown.tv
@@ -31,7 +31,7 @@ SHA1: 623776074684d9138f09be92b032111b300a1212
 SHA256: ef62ed62326d1f1891038186f26f13fbb05b16adf5a60e3590542548b1ad98b8
 SHA512: d89831ca9323a9c7ca8ade40631513048111b7605e7f8a82229417e1c45104d036546d8eee51f781adcf51bea070158b7996393bea73f6b8db44eae422b605fb
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.cydown.tv
-Icon: file:///Applications/Cydia.app/Sections/HTR-4.png
+Icon: http://hoangtuantk.github.io/iconrepo/HTR-4.png
 Name: CyDown (Thêm tiếng Việt)
 
 Package: com.hoangtuan.cputool.tv
@@ -49,7 +49,7 @@ SHA1: ab6d927d21df9d9e9057f25196fa9dcc26823265
 SHA256: f09db51188121e4d801ae3a3fcd10f0e6eeb0baf35999278834077cb94eb319d
 SHA512: f13266367aa04c05bd664d27e8b99a2ae63a45033932ed69f030df621930598029346cab0115e19588de43c0d7b76ce464c71008e25d45663fd3b1814ca1bc8a
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.cputool.tv
-Icon: file:///Applications/Cydia.app/Sections/HTR-4.png
+Icon: http://hoangtuantk.github.io/iconrepo/HTR-4.png
 Name: CPUTool (Thêm tiếng Việt)
 
 Package: com.hoangtuan.videoswipes
@@ -67,7 +67,7 @@ SHA512: 0a032dac7b19883ef4ecc56c3551febadc1d38cd2b7ae61860393c63b75bab7532aa871f
 Description: Thêm thao tác vuốt trình phát video
 Author: AnthoPak <anthococagne@hotmail.fr>
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.videoswipes
-Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Icon: http://hoangtuantk.github.io/iconrepo/HTR-6.png
 Name: VideoSwipes (Việt hoá)
 
 Package: com.foxfort.translomatic
@@ -142,7 +142,7 @@ SHA512: 5f21cea38bdfd4d106112501d4919bf188c682d69b5bc114ad3e966efbea83b6b6587b8c
 Description: Tiện ích đơn giản cho phép chuyển từ unc0ver sang checkra1n mà không cần phải cài đặt lại Cydia Substrate theo cách thủ công.
 Author: Halo_Michael <yc992147156@me.com>
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.michael.substrated
-Icon: file:///Applications/Cydia.app/Sections/HTR-2.png
+Icon: http://hoangtuantk.github.io/iconrepo/HTR-2.png
 Name: Unc0ver Support Package
 
 Package: com.iggnew.iGameGuardian8.3
@@ -160,7 +160,7 @@ SHA256: 8c8a96517f7d407f965dec150fbfe9384797e6a93acf7e47bb2d0381dd506b99
 SHA512: faa490939b133e2f1230a4a7f09108c720d5994ddd88108ee41b8405ad5afdbb81b1a8cfe3cc7b2c098599a724bf0a7528fbb92f86c72f7b199e6fec2c4f445a
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian8.3
-Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Icon: http://hoangtuantk.github.io/iconrepo/HTR-6.png
 Name: iGameGuardian 8.3
 
 Package: com.iggnew.iGameGuardian.iOS12
@@ -178,7 +178,7 @@ SHA256: 4fc1ba14b6d80cfbe8bd3682090e97f950d3e0d3f8d1da67b924feda02c38d79
 SHA512: c6cf3fe3220af3e54af561dccf0823dd406a757f36cdc04f0414015aa53443c7dd070f0fd168b10a277d8d552d6c37ff03055ee52d65b1c8a22aee75dc23eb10
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian
-Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Icon: http://hoangtuantk.github.io/iconrepo/HTR-6.png
 Name: iGG 12 Stable
 
 Package: com.iggnew.iGameGuardian.iOS12.speed
@@ -196,7 +196,7 @@ SHA256: 9ed9d15db0140c2a12a60e935962d40c8b3c352a5353648783aabff8e1029bc3
 SHA512: 0e63df887c067f7ada8675837dacdd490e00b9ada2bcf80843f5b1f9b6aa27a6e9620ccd0782083fed5a55f905126fa7ab0892d609219ca3ed6534256c5e62ec
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian.speed
-Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Icon: http://hoangtuantk.github.io/iconrepo/HTR-6.png
 Name: iGG 12 Speed
 
 Package: com.iggnew.iGameGuardian.iOS12.speed.fireThree
@@ -214,7 +214,7 @@ SHA256: 8c261201d23ee652353a5ebb3a23968d9dd10ef7fe5af021104330aa9b8a9125
 SHA512: f902d517fca854cda5526d0cef59a55493b77854f27d878a93a9b0f2e38f9cf4264886e397693fc219c42ce73ec5b204b4a50f58f54e05e7d78ae8cbc3c8ddca
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian.speed
-Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Icon: http://hoangtuantk.github.io/iconrepo/HTR-6.png
 Name: iGG 12 Speed [FireThree]
 
 Package: com.iggnew.iGameGuardian.iOS12.speed.fireTwo
@@ -232,7 +232,7 @@ SHA256: 0314de54ecfc953cd176607b7b26847dea7b22f56f950cf364de5f5c73056dee
 SHA512: 57bf710f7733447000c92c8601e0aba1f3365ff13f2eac411c34b6267b6071fa0d92c851a59dbab62e68ca90b054d61d80f5036f508669ba8dc40bffe68f035b
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian.speed
-Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Icon: http://hoangtuantk.github.io/iconrepo/HTR-6.png
 Name: iGG 12 Speed [FireTwo]
 
 Package: com.iggnew.iGameGuardian.iOS12.speed.FireOne
@@ -250,7 +250,7 @@ SHA256: 13358dee86b674804e9c720bb49e23ec739a2176480e7b6ccaf22a4df2b03855
 SHA512: 4ac0854a1b71763b81356a57db827325383ef426d4f0f2e2425bc3ff79a5c14ac60d5fb844bd44b33f3fb7d2b26fdcb24f1e424f9194948ad9de2e74dc535563
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian.speed
-Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Icon: http://hoangtuantk.github.io/iconrepo/HTR-6.png
 Name: iGG 12 Speed [fireOne]
 
 Package: com.iggnew.iGameGuardian.iOS12.speed.fireFour
@@ -268,7 +268,7 @@ SHA256: 7722ece27b701523f01d9de1d445f09ee3d44039d6d93207d0c41ff245bece05
 SHA512: 3e3872d687e9c5c0bae8443c90a5d7169e1cbb35e4818804ef35d54b7ba3f03773f8c95584d82de37ee91f2a144eecea57d4efbab3e86fe72f648d121779a932
 Author: iggnew
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian.speed
-Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Icon: http://hoangtuantk.github.io/iconrepo/HTR-6.png
 Name: iGG 12 Speed [FireFour]
 
 Package: com.hoangtuan.cloneappcmd
@@ -288,7 +288,7 @@ Homepage: https://hoangtuantk.github.io/
 Sponsor: shin-chan
 Author: shin-chan
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.cloneappcmd
-Icon: file:///Applications/Cydia.app/Sections/HTR-5.png
+Icon: http://hoangtuantk.github.io/iconrepo/HTR-5.png
 Name: Clone App Command
 
 Package: com.hoangtuan.myinst
@@ -310,7 +310,7 @@ Homepage: https://hoangtuantk.github.io/
 Sponsor: shin-chan
 Author: shin-chan
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.myinst
-Icon: file:///Applications/Cydia.app/Sections/HTR-3.png
+Icon: http://hoangtuantk.github.io/iconrepo/HTR-3.png
 Name: myinst
 
 Package: com.hoangtuan.plutil
@@ -333,5 +333,24 @@ Maintainer: Samuel Bingner
 Homepage: https://hoangtuantk.github.io/
 Author: Samuel Bingner
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.plutil
-Icon: file:///Applications/Cydia.app/Sections/HTR-2.png
+Icon: http://hoangtuantk.github.io/iconrepo/HTR-2.png
 Name: plutil
+
+Package: com.hoangtuan.bakgrunnur
+Version: 1.5.10
+Architecture: iphoneos-arm
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.3), com.opa334.ccsupport, firmware(>=13.0), applist
+Filename: ./debs/com.hoangtuan.bakgrunnur_1.5.10_iphoneos-arm.deb
+Size: 494958
+Installed-Size: 1880
+MD5sum: 0143fd536280fa4c37ca84338b37f43f
+SHA1: 67860d512e4f3c1bf4a248ebbc802d823d595c68
+SHA256: 8a245a0dccb6be19f87a5f878352d286a9c7f72f482cbbe36af976b7aa66fc3b
+SHA512: 16104c99fd53809cadca2d43b1001bf646d958cd6f33fada753f868074fb3c41344877f596e7c07f88e72791918ea4dd41c9b94eeca87247529c19b11685feea
+Description: Chạy ứng dụng dưới nền
+Maintainer: Hoàng Tuân
+Author: udevs
+Icon: https://hoangtuantk.github.io/depictions/com.hoangtuan.bakgrunnur/icon/icon.png
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.bakgrunnur
+Name: Bakgrunnur
