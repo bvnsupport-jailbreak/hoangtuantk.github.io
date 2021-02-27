@@ -61,6 +61,7 @@ Maintainer: Hoàng Tuân
 Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 11.0), preferenceloader, ws.hbang.common (>= 1.11)
 Filename: ./debs/com.hoangtuan.videoswipes_1.4-2_iphoneos-arm.deb
 Size: 636866
+Installed-Size: 1059
 MD5sum: 7df397a51b22bec3e3e1e2055ed35b00
 SHA1: 842b5a4717fb576f8c412e106603a058517fed6a
 SHA256: 05399162f981f105140b5ec3dddda045f5cb61985a7491dec0fba7184e01f624
