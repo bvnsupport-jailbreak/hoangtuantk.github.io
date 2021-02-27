@@ -72,7 +72,7 @@ Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: VideoSwipes (Việt hoá)
 
 Package: com.foxfort.translomatic
-Version: 2.6.7.8-ht
+Version: 2.6.8-ht
 Architecture: iphoneos-arm
 Section: Tweaks
 Maintainer: Hoàng Tuân
