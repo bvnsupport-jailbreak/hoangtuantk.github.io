@@ -374,3 +374,42 @@ Installed-Size: 9216
 Icon: file:///Applications/Cydia.app/Sections/HTR-9.png
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.hackArchero
 Name: Archero Cheats
+
+Package: com.hoangtuan.localiapstore
+Version: 1.4-5b
+Section: Tweaks
+Maintainer: Hoàng Tuân
+Description: Mua in-app trong ứng dụng miễn phí
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.hoangtuan.localiapstore_1.4-5b_iphoneos-arm.deb
+Size: 70898
+MD5sum: f514d5abcd87890cb9cee9dfed37ef27
+SHA1: 8757d18df3381b0f3261ea0beba16af3f81e2172
+SHA256: 5d44d0973ac69193bce738ee3a97185765584e119efd7634c26be272577e0edd
+SHA512: 889f743bf487a88382be51e6328fa7cac7b9d64df609de13ceb7cd00653bf8f097179e1ad30d64db02eb221d0b228d58b9d53c83398f481eccfb63210230297a
+Author: Anondev
+Sileodepiction: https://hoangtuantk.github.io/sileo-depictions/?p=com.hoangtuan.localiapstore
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.localiapstore
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: LocaliAPStore
+
+Package: com.hoangtuan.localiapstore13
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Hoàng Tuân
+Description: Mua in-app trong ứng dụng miễn phí
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Installed-Size: 136
+Filename: ./debs/com.hoangtuan.localiapstore13_0.0.2_iphoneos-arm.deb
+Size: 3764
+MD5sum: 0446dabcf27f2960c1a6d4979f5e3ef9
+SHA1: 430550996cf82ae414a942495e8f38dc14b7bc2c
+SHA256: 5b18802e7eea7b04b7102aa3e0dc881b02e354dbf3713961a243b1271e63b69a
+SHA512: ab8349f01e6c41183de7805b47526c73da5959b794c21395b975e58b1da5aa409dd829576c213f4c31a321398a9c6e44767985a6163ed7e95663d055e0f54cf9
+Author: pxcex
+Sileodepiction: https://hoangtuantk.github.io/sileo-depictions/?p=com.hoangtuan.localiapstore13
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.localiapstore13
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: LocaliAPStore13

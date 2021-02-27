@@ -1,0 +1,18 @@
+<package>
+	<id>com.hoangtuan.localiapstore13</id>
+	<name>Hoàng Tuân Repo</name>
+	<version>0.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS>13.7</maxiOS>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description>
+			<![CDATA[
+			Mua in-app trong ứng dụng miễn phí
+			]]>
+		</description>
+	</descriptionlist>
+</package>
