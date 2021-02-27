@@ -7,6 +7,7 @@ Maintainer: Hoàng Tuân
 Sileodepiction: http://hoangtuantk.github.io/sileo-depiction/icon
 Filename: ./debs/com.hoangtuantk.github.io.icon_2.1_iphoneos-arm.deb
 Size: 150274
+Installed-Size: 159
 MD5sum: df39638e996abbab5d598cfcfe8ce3c5
 SHA1: 8b7734587d27be88fc59be94515e11a0647f95a6
 SHA256: 1d0def0b16233d5aabcc7a1dc3e13dc76a0333ac8801634e89ade70641c199a7
