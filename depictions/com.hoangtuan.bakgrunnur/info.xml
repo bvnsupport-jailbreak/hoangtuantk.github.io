@@ -11,5 +11,15 @@
 	<descriptionlist>
 		<description>Tweak giúp ứng dụng luôn chạy kể cả khi tắt màn hình</description>
 	</descriptionlist>
+
+	<changelog>	
+		<change>
+			<![CDATA[
+
+			 ]]>
+		</change>
+	</changelog>
+
+
 	<links></links>
 </package>
