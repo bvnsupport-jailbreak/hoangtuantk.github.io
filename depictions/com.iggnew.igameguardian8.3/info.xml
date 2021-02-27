@@ -19,13 +19,16 @@
 	
 		<description>
 			<![CDATA[
-			Link tải file việt hoá <br/>
-			gg.gg/iggvh1 <br/>
-			gg.gg/iggvh2
+			<b>Link tải file việt hoá</b><br/>
+			</ul>
+			<li>gg.gg/iggvh1</li> <br/>
+			<li>gg.gg/iggvh2</li>
+			</ul>
 			]]>
 		</description>
 		<description>
-			<![CDATA[ Hướng Dẫn <br/>
+			<![CDATA[
+			<b>Hướng Dẫn</b> <br/>
 			1. Tải file việt hoá về và giải nén <br/>
 			2. Sao chép "Base.lproj" và "vi.lproj" <br/>
 			3. Dán vào /Applications/iGameGuardian.app <br/>
