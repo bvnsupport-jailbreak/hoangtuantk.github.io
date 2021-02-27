@@ -1,5 +1,5 @@
 <package>
-	<id>com.foxfort.translomatic</id>
+	<id>com.hoangtuan.bakgrunnur</id>
 	<name>Hoàng Tuân Repo</name>
 	<version>1.5.10</version>
 	<compatibility>
@@ -9,7 +9,7 @@
 		</firmware>
 	</compatibility>
 	<descriptionlist>
-		<description>Tweak giúp ứng dụng luôn chạy dưới nền kể cả khi tắt màn hình</description>
+		<description>Tweak giúp ứng dụng luôn chạy kể cả khi tắt màn hình</description>
 	</descriptionlist>
 	<links></links>
 </package>
