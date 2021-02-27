@@ -4,35 +4,63 @@
   <title>Hình ảnh</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
   <link rel="stylesheet" href="style.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
  
   <script type="text/javascript" src="js/jquery.querystring.js"></script>
   <script type="text/javascript" src="js/data-loader-engine.js"></script>
   <script type="text/javascript" src="js/ios_version_check.js"></script>
-   <script type="text/javascript" src="js/content-blocks-screenshots.js"></script>
+  <style>
+	@media (max-width: 767px) {
+		body{background:#efeff4!important;margin:0;padding:0;border:0;outline:0;box-sizing:border-box}
+	}  
+  </style>
   <script type="text/javascript">
+  
+	bundleid = $.QueryString['p'];	
 
-	bundleid = $.QueryString['p'];
-
-	var contentBlocks = getContentBlocks();
-
-    $( document ).ready(function() {
-		//return;
-		populateContentBlocks(
-			(bundleid+"/info.xml"),
-			contentBlocks,
-			() => {
-                $("#packageError").show();
-				$("#packageInformation").hide();				
-			},
-			(xml) => {
-				document.title = $(xml).find("package>name").text();
+    var contentBlocks = 	{
+        "#screenshotsList"	: 
+			{"type":"custom"  
+				,"source" :"package>screenshots>screenshot"
+				,"render" : function(element,source){
+				console.log($(source).size());
+					if ($(source).size()==0) {
+						$(element).append( $("<div class='alert alert-danger'>The aren't any screenshots for this package</div>") ); 
+						return;
+					}
+					$.each(source, function(index,data) {
+						var th = $("<div class='thumbnail'>");
+						th.append($("<p>")
+							.text($(data).find('description').text())
+						)
+						th.append($("<img>")
+							.attr("src",bundleid+'/screenshots/'+$(data).find('image').text())
+						)
+						$(element).append(th);
+					});
+					
+				}
 			}
-		)
-
+	}
+    $( document ).ready(function() {
+        $.ajax({
+            type    : "GET",
+            dataType: "xml",
+            url     : (bundleid+"/info.xml"),
+            success : function(xml){
+				document.title = $(xml).find("package>name").text();
+            	data_loader_engine(contentBlocks,xml)
+            },
+			cache   : false,
+            error: function() {
+                $("#packageError").show();
+				$("#packageInformation").hide();
+            }
+        }); //ajax
+		
     }); // ready
   </script>
 </head>
@@ -41,7 +69,7 @@
 
 <div id="packageInformation">
 	<div class="container">
-		<h6>HÌNH ẢNH</h6>
+		<h5>HÌNH ẢNH</h5>
 		<ul id="screenshotsList" class="list-group">
 		</ul>
 	</div>
@@ -49,7 +77,7 @@
 <div id="packageError" style="display:none">
 	<div class="container">
 	  <div class="alert alert-danger">
-		<strong>Xin lỗi!</strong> Trang bạn muốn xem không thể hiển thị vào lúc này.
+		<strong>Xin lỗi!</strong> Trang bạn muốn xem hiện không thể hiển thị. 
 	  </div>
 	</div>
 </div>
@@ -96,7 +124,7 @@
 
 <div id="contactInfo">
 	<div class="container">
-		<h6>LIÊN HỆ</h6>
+		<h5>LIÊN HỆ</h5>
 		<ul class="list-group" id="repoFooterLinks">
 		</ul>
 	</div>
