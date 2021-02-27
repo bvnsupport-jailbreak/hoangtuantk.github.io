@@ -1,0 +1,18 @@
+<package>
+	<id>com.foxfort.translomatic</id>
+	<name>Hoàng Tuân Repo</name>
+	<version>1.5.10</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>13.7</maxiOS>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description><h1>KHÔNG TƯƠNG THÍCH VỚI VOICECHANGER XS</h1></description>
+		<description><![CDATA[Đây là file deb chính thức từ nguồn Pakix chưa qua chỉnh sửa<br/>
+				Máy đã kích hoạt bản quyền sẵn mới có thể dùng được]]>
+		</description>
+	</descriptionlist>
+	<links></links>
+</package>
