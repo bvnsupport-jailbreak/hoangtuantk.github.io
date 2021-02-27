@@ -348,7 +348,7 @@ MD5sum: 0143fd536280fa4c37ca84338b37f43f
 SHA1: 67860d512e4f3c1bf4a248ebbc802d823d595c68
 SHA256: 8a245a0dccb6be19f87a5f878352d286a9c7f72f482cbbe36af976b7aa66fc3b
 SHA512: 16104c99fd53809cadca2d43b1001bf646d958cd6f33fada753f868074fb3c41344877f596e7c07f88e72791918ea4dd41c9b94eeca87247529c19b11685feea
-Description: Chạy ứng dụng dưới nền
+Description: Giúp ứng dụng luôn hoạt động cả khi khoá màn hình
 Maintainer: Hoàng Tuân
 Author: udevs
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
