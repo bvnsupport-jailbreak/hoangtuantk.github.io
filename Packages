@@ -104,8 +104,8 @@ SHA256: 0aa70b8b500a363da07f8bb30ea0380ae2a9ccff1370a2334eb47b69f614c04c
 SHA512: 52b8d778c9eac76716cf636b3902b35b531cc6cda857e91dbd744db2948e1024af7078854c6c74ce61130886dc4ca7e26f10aefe62748539cb9b271bc020570e
 Description: Dịch nhanh mọi văn bản.
 Author: FoxfortMobile
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.foxfort.translomatic
-Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
+Depiction: https://hoangtuantk.github.io/depictions/com.foxfort.translomatic
+Icon: https://hoangtuantk.github.io/depictions/com.foxfort.translomatic/icon/icon/png
 Name: Translomatic
 
 Package: com.foxfort.translomatic
@@ -124,7 +124,7 @@ SHA512: cf7dc6cd0b6917abefa3743dff0e6185183f402465086413bef855dd7ddf6873535195cf
 Description: Dịch nhanh mọi văn bản.
 Author: FoxfortMobile
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.foxfort.translomatic
-Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
+Icon: https://hoangtuantk.github.io/depictions/com.foxfort.translomatic/icon/icon/png
 Name: Translomatic
 
 Package: com.michael.substrated
@@ -335,3 +335,16 @@ Author: Samuel Bingner
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.plutil
 Icon: file:///Applications/Cydia.app/Sections/HTR-2.png
 Name: plutil
+
+Package: com.hoangtuan.bakgrunnur
+Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.3), com.opa334.ccsupport, firmware(>=13.0), applist
+Architecture: iphoneos-arm
+Description: Chạy ứng dụng dưới nền
+Maintainer: Hoàng Tuân
+Author: udevs
+Section: Tweaks
+Icon: https://hoangtuantk.github.io/depictions/com.hoangtuan.bakgrunnur/icon/icon.png
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.bakgrunnur
+Version: 1.5.10
+Installed-Size: 1880
+Name: Bakgrunnur
