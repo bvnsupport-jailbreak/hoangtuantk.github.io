@@ -8,11 +8,15 @@
 		</firmware>
 	</compatibility>
 	<descriptionlist>
-		<description><b>Hack Archero</b></description>
-				<description>
+		<description>
 			<![CDATA[
-			- Đây là bản hack của iosgods - Vì vậy cần phải có tải khoản iosgod để sử dụng hack <br/>
-			- Nếu bạn không có tải khoản thì có thể dùng tải khoản này <br/>
+			<b>Hack Archero</b>
+			]]>
+		</description>
+		<description>
+			<![CDATA[
+			- Đây là bản hack của iosgods - Vì vậy cần phải có tài khoản iosgods để sử dụng hack <br/>
+			- Nếu bạn không có thì có thể dùng tài khoản này <br/>
 			<ul>
 			<li>ttk: accgghtt3</li>
 			<li>mk: HoangTuan@123</li>
@@ -24,7 +28,7 @@
 			<b>Tính năng Hack</b> <br/>
 			<ul>
 			<li>Multiply Defense - Tăng phòng thủ (Nhập giá trị và bật)</li>
-			<li>Multiply Attack - Tăng tấn công (Nhập giá trị và bật)</li>
+			<li>Multiply Attack - Tăng sát thương (Nhập giá trị và bật)</li>
 			<li>God Mode - Bất tử</li>
 			<li>OHK (Phải sử dụng với God Mode hoặc sử dụng Multiply Attack để thay thế)</li>
 			<li>Freeze Enemies - Đóng băng kẻ thù</li>
