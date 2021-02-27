@@ -378,3 +378,21 @@ Sileodepiction: https://hoangtuantk.github.io/sileo-depictions/?p=com.hoangtuan.
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.localiapstore13
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: LocaliAPStore13
+
+package: com.hoangtuan.bypasstechcombank
+Version: 0.0.6
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Chặn phát Hiện Jailbreak cho App Ngân Hàng Techcombank - F@st Mobile.
+Depends: mobilesubstrate
+Maintainer: Hoàng Tuân
+Author: Kan
+Installed-Size: 67
+Filename: ./debs/com.hoangtuan.bypasstechcombank_0.0.6_iphoneos-arm.deb
+Size: 3334
+MD5sum: 452bb657e431f829c61ce4be3befae8b
+SHA1: dbd761b80cb1a693db47d49d9a933433fde75937
+SHA256: ad783c31ce87f73bbbd0e562482088e47252d9176397646d428c06c571e894fc
+SHA512: b16b2ff1438a78a7faf9ad9fecec8d170fa1314d29fc290adcf37e3a75a235faabb887c02723fe7f07aee540de4ff9031e4943e7fa797d56ca9ca3d1082d33aa
+Name: Bypass Techcombank
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
