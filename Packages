@@ -1,17 +1,17 @@
 Package: com.hoangtuantk.github.io.icon
-Version: 2.1
+Version: 2.2
 Architecture: iphoneos-arm
 Section: System
 Essential: yes
 Maintainer: Hoàng Tuân
 Sileodepiction: http://hoangtuantk.github.io/sileo-depiction/icon
-Filename: ./debs/com.hoangtuantk.github.io.icon_2.1_iphoneos-arm.deb
-Size: 150274
+Filename: ./debs/com.hoangtuantk.github.io.icon_2.2_iphoneos-arm.deb
+Size: 150286
 Installed-Size: 159
-MD5sum: df39638e996abbab5d598cfcfe8ce3c5
-SHA1: 8b7734587d27be88fc59be94515e11a0647f95a6
-SHA256: 1d0def0b16233d5aabcc7a1dc3e13dc76a0333ac8801634e89ade70641c199a7
-SHA512: 8b2aeaeefc541bbf47deb10575d1481558bc8a4108d69b74458d7715075046305bf85bb9957ef69dd912f860b472145bfb67242037449b2d24d702388efbcd86
+MD5sum: a9929199cfc04a3adc0aae0945cc09fd
+SHA1: e74d305ab1c8022dc7e5272ad154b017961cfbab
+SHA256: d38af58abd47a56ed04c38c047302997bbacc9ebc1f64923718ab61b2a0037f9
+SHA512: 17d927b57e6368950dea5860561dcf959ff716761424c99796f5a95600e2963f5426c229fe3fbc22e3de6232869c9e51ae07bf6c0e8b7c47d46e46938700b753
 Description: Biểu tượng Cydia cho kho lưu trữ Hoàng Tuân Repo
 Author: Hoàng Tuân
 Depiction: Biểu tượng Cydia cho kho lưu trữ Hoàng Tuân Repo
