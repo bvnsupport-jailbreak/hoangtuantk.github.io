@@ -1,20 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Tên gói</title>
+  <title>PackageName</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="style.css?rand=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="style.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
   <script type="text/javascript" src="js/jquery.querystring.js"></script>
   <script type="text/javascript" src="js/data-loader-engine.js"></script>
   <script type="text/javascript" src="js/ios_version_check.js"></script>
-  <script type="text/javascript" src="js/content-blocks-index.js"></script>
+  <style>
+  @media (max-width: 767px) {
+    body{background:#efeff4!important;margin:0;padding:0;border:0;outline:0;box-sizing:border-box}
+  }
+  .jumbotron-bg {
+    background: green
+  }
+  </style>
   <script type="text/javascript">
 
-	bundleid = $.QueryString['p'];
+  bundleid = $.QueryString['p'];
 
     var contentBlocks =   {
       "#packageName" :
@@ -56,7 +63,7 @@
       }
         ,"#screenshotsLink" :
       {"type":"custom"
-        ,"source" :"package>screenshots"
+        ,"source" :"package>screenshots>screenshot"
         ,"render":function(element, source){
           $("#screenshotsLink").remove();
           if ($(source).size() == 0) {
@@ -151,40 +158,44 @@
 
 <div id="packageInformation">
 
-<!-- Khung bên trên
-	<div id="packageHeader" class="container" style="display:block">
-		<div class="jumbotron">
-			<h1 id="packageName">&nbsp;</h1>
-			<p id="packageShortDesc">&nbsp;</p>
-		</div>
-	</div>
--->
+  <div id="packageHeader" class="container" style="display:none">
+    <div class="jumbotron">
+      <h1 id="packageName"></h1>
+      <p id="packageShortDesc">brought to you by Reposi3</p>
+    </div>
+  </div>
 
-	<div class="container">
-	  <div id="compatibilityCheck" class="alert">&nbsp;</div>
-	</div>
+  <div class="container">
+    <div id="compatibilityCheck" class="alert"></div>
+  </div>
 
-	<div class="container">
-		<h6>MÔ TẢ</h6>
-		<ul id="descriptionList" class="list-group">
-			<li id="screenshotsLink" class="link-item list-group-item">Hình ảnh</li>
-		</ul>
-	</div>
+  <div class="container">
+    <h5>MÔ TẢ</h5>
+    <ul id="descriptionList" class="list-group">
+      <li id="screenshotsLink" />
+    </ul>
+  </div>
 
-	<div class="container">
-		<h6>PHIÊN BẢN <span id="versionBadge" class="badge"></span></h6>
-		<ul id="changesList" class="list-group">
-			<li id="changelogLink"  class="link-item list-group-item">Nhật ký cập nhật</li>
-		</ul>
-	</div>
+  <div class="container">
+    <h5>PHIÊN BẢN <span id="versionBadge" class="badge" /></h5>
+    <ul id="changesList" class="list-group">
+      <li id="changelogLink" />
+    </ul>
+  </div>
+
+  <div class="container" id="externalLinksContainer">
+    <h5>LINKS</h5>
+    <ul id="externalLinksList" class="list-group">
+    </ul>
+  </div>
 
 </div>
 <div id="packageError" style="display:none">
-	<div class="container">
-	  <div class="alert alert-danger">
-		<strong>Xin lỗi!</strong> Trang bạn muốn xem không thể hiển thị vào lúc này.
-	  </div>
-	</div>
+  <div class="container">
+    <div class="alert alert-danger">
+    <strong>Xin lỗi!</strong> Trang bạn muốn xem hiện không thể hiển thị.
+    </div>
+  </div>
 </div>
 
 <script type="text/javascript">
@@ -220,9 +231,9 @@
     $( document ).ready(function() {
         $.ajax({type: "GET", dataType: "xml",url : ("../repo.xml"),cache: false,
             success : function(xml){
-				      data_loader_engine(repoContents,xml);
+              data_loader_engine(repoContents,xml);
               setAnchorTargets();
-			      },
+            },
             error: function() {
               $("#contactInfo").hide();
               setAnchorTargets();
@@ -232,23 +243,16 @@
 
     }); // ready
 
-</script> 
-
-<!--
-  <div class="container" id="externalLinksContainer">
-    <h5>LINKS</h5>
-    <ul id="externalLinksList" class="list-group">
-    </ul>
-  </div>
--->
+</script>
 
 <div id="contactInfo">
-	<div class="container">
-		<h6>LIÊN HỆ</h6>
-		<ul class="list-group" id="repoFooterLinks">
-		</ul>
-	</div>
+  <div class="container">
+    <h5>LIÊN HỆ</h5>
+    <ul class="list-group" id="repoFooterLinks">
+    </ul>
+  </div>
 </div>
+
 
 </body>
 </html>
