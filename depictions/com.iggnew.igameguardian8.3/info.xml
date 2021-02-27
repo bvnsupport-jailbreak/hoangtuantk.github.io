@@ -5,17 +5,11 @@
 	<compatibility>
 		<firmware>
 			<miniOS>8.3</miniOS>
-			<maxiOS>8.4</maxiOS>
+			<maxiOS>8.3</maxiOS>
 		</firmware>
 	</compatibility>
 
 	<descriptionlist>
-		<description>
-			<![CDATA[
-			iOS 13 cài bản iGG Stable <br/>
-			iOS thấp hơn cài bản iGG Speed
-			]]>	
-		</description>
 	
 		<description>
 			<![CDATA[
