@@ -1,7 +1,7 @@
 <package>
 	<id>com.foxfort.translomatic</id>
 	<name>Hoàng Tuân Repo</name>
-	<version><badge>1.5.10</badge></version>
+	<version>1.5.10</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
