@@ -67,7 +67,7 @@ SHA512: 0a032dac7b19883ef4ecc56c3551febadc1d38cd2b7ae61860393c63b75bab7532aa871f
 Description: Thêm thao tác vuốt trình phát video
 Author: AnthoPak <anthococagne@hotmail.fr>
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.videoswipes
-Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Icon: https://hoangtuantk.github.io/depictions/com.hoangtuan.videoswipes/icon/icon.png
 Name: VideoSwipes (Việt hoá)
 
 Package: com.foxfort.translomatic
@@ -335,3 +335,22 @@ Author: Samuel Bingner
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.plutil
 Icon: file:///Applications/Cydia.app/Sections/HTR-2.png
 Name: plutil
+
+Package: com.hoangtuan.bakgrunnur
+Version: 1.5.10
+Architecture: iphoneos-arm
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.3), com.opa334.ccsupport, firmware(>=13.0), applist
+Filename: ./debs/com.hoangtuan.bakgrunnur_1.5.10_iphoneos-arm.deb
+Size: 494958
+Installed-Size: 1880
+MD5sum: 0143fd536280fa4c37ca84338b37f43f
+SHA1: 67860d512e4f3c1bf4a248ebbc802d823d595c68
+SHA256: 8a245a0dccb6be19f87a5f878352d286a9c7f72f482cbbe36af976b7aa66fc3b
+SHA512: 16104c99fd53809cadca2d43b1001bf646d958cd6f33fada753f868074fb3c41344877f596e7c07f88e72791918ea4dd41c9b94eeca87247529c19b11685feea
+Description: Chạy ứng dụng dưới nền
+Maintainer: Hoàng Tuân
+Author: udevs
+Icon: https://hoangtuantk.github.io/depictions/com.hoangtuan.bakgrunnur/icon/icon.png
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.bakgrunnur
+Name: Bakgrunnur
