@@ -1,0 +1,38 @@
+<package>
+	<id>com.hoangtuan.hackArchero</id>
+	<name>Hoàng Tuân Repo</name>
+	<version>2.7.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description><b>Hack Archero</b></description>
+				<description>
+			<![CDATA[
+			- Đây là bản hack của iosgods - Vì vậy cần phải có tải khoản iosgod để sử dụng hack <br/>
+			- Nếu bạn không có tải khoản thì có thể dùng tải khoản này <br/>
+			<ul>
+			<li>ttk: accgghtt3</li> <br/>
+			<li>mk: HoangTuan@123</li>
+			</ul>
+			]]>
+		</description>
+		<description>
+			<![CDATA[
+			<b>Tính năng Hack</b> <br/>
+			<ul>
+			<li>Multiply Defense - Tăng phòng thủ (Nhập giá trị và bật)</li> <br/>
+			<li>Multiply Attack - Tăng tấn công (Nhập giá trị và bật)</li> <br/>
+			<li>God Mode - Bất tử</li> <br/>
+			<li>OHK (Phải sử dụng với God Mode hoặc sử dụng Multiply Attack để thay thế)</li> <br/>	
+			<li>Freeze Enemies - Đóng băng kẻ thù</li> <br/>	
+			<li>Nếu bạn muốn sử dụng chế độ God Mod và OHK hãy tắt tăng sát thương và phòng thủ trước để tránh bị ban</li>
+			</ul>
+
+			]]>
+		</description>
+	</descriptionlist>
+	<links></links>
+</package>

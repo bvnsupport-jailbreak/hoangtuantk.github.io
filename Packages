@@ -354,3 +354,23 @@ Author: udevs
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.bakgrunnur
 Name: Bakgrunnur
+
+Package: com.hoangtuan.hackArchero
+Version: 2.7.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Archero iGMM Cheats by Laxus for iOSGods.com!
+Filename: ./debs/com.hoangtuan.hackArchero_2.7.1_iphoneos-arm.deb
+Size: 2422540
+MD5sum: e1a88a41e0697f267a9b9be3db8984a5
+SHA1: 77fdc861f3079ff4b72e4bbc7ad534fcf4c93d7f
+SHA256: cd8b21fc5bf8cf9b380d256cd2ea94b45e933e778c61f8a746f6697f6a3928bc
+SHA512: 252c44ba92dbc9740fce99456654b1c365e24755aee4f58fb7629ebef6814171692baf9fc1960aebb183b9b4ab16cb0cd3c070f4a00b82a1f33da268efb72722
+Maintainer: iOSGods.com
+Author: Laxus
+Section: Hack Apps
+Homepage: https://iosgods.com
+Installed-Size: 9216
+Icon: file:///Applications/Cydia.app/Sections/HTR-9.png
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.hackArchero
+Name: Archero Cheats
