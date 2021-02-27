@@ -67,7 +67,7 @@ SHA512: 0a032dac7b19883ef4ecc56c3551febadc1d38cd2b7ae61860393c63b75bab7532aa871f
 Description: Thêm thao tác vuốt trình phát video
 Author: AnthoPak <anthococagne@hotmail.fr>
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.videoswipes
-Icon: https://hoangtuantk.github.io/depictions/com.hoangtuan.videoswipes/icon/icon.png
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: VideoSwipes (Việt hoá)
 
 Package: com.foxfort.translomatic
@@ -86,7 +86,7 @@ SHA512: 091e5024724a5e3dd2c667cf575b1730414479866eb2271063cf158834b11dbfeae87d86
 Description: Dịch nhanh mọi văn bản.
 Author: FoxfortMobile
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.foxfort.translomatic
-Icon: https://hoangtuantk.github.io/depictions/com.foxfort.translomatic/icon/icon.png
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: Translomatic
 
 Package: com.foxfort.translomatic
@@ -105,7 +105,7 @@ SHA512: 52b8d778c9eac76716cf636b3902b35b531cc6cda857e91dbd744db2948e1024af707885
 Description: Dịch nhanh mọi văn bản.
 Author: FoxfortMobile
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.foxfort.translomatic
-Icon: https://hoangtuantk.github.io/depictions/com.foxfort.translomatic/icon/icon.png
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: Translomatic
 
 Package: com.foxfort.translomatic
@@ -124,7 +124,7 @@ SHA512: cf7dc6cd0b6917abefa3743dff0e6185183f402465086413bef855dd7ddf6873535195cf
 Description: Dịch nhanh mọi văn bản.
 Author: FoxfortMobile
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.foxfort.translomatic
-Icon: https://hoangtuantk.github.io/depictions/com.foxfort.translomatic/icon/icon/png
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: Translomatic
 
 Package: com.michael.substrated
@@ -351,6 +351,6 @@ SHA512: 16104c99fd53809cadca2d43b1001bf646d958cd6f33fada753f868074fb3c41344877f5
 Description: Chạy ứng dụng dưới nền
 Maintainer: Hoàng Tuân
 Author: udevs
-Icon: https://hoangtuantk.github.io/depictions/com.hoangtuan.bakgrunnur/icon/icon.png
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.bakgrunnur
 Name: Bakgrunnur
