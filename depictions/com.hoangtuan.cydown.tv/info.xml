@@ -7,6 +7,9 @@
 			<miniOS>8.0</miniOS>
 		</firmware>
 	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
 	<descriptionlist>
 		<description>Thêm ngôn ngữ tiếng Việt cho Cydown</description>
 	</descriptionlist>
