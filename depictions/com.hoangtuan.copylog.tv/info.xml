@@ -1,7 +1,7 @@
 <package>
-	<id>com.hoangtuan.cputool.tv</id>
+	<id>com.hoangtuan.copylog.tv</id>
 	<name>Hoàng Tuân Repo</name>
-	<version>1.2</version>
+	<version>1.5.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
@@ -9,9 +9,9 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
-		<package>jp.soh.ct</package>
+		<package>me.tomt000.copylog</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Thêm ngôn ngữ tiếng Việt cho CPUTool.</description>
+		<description>Thêm ngôn ngữ tiếng Việt cho CopyLog.</description>
 	</descriptionlist>
 </package>
