@@ -1,17 +1,17 @@
 <package>
-	<id>com.hoangtuan.myinst</id>
+	<id>com.hoangtuan.plutil</id>
 	<name>Hoàng Tuân Repo</name>
-	<version>5.6.0.3</version>
+	<version>0.2.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>8.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
+		<package>firmware (>=2.0)</package>
 		<package>mobilesubstrate</package>
-		<package>net.angelxwind.appsyncunified</package>
 	</dependencies>	
 	<descriptionlist>
-		<description>Cài đặt iPA của bạn. Sử dụng lệnh myinst (đường dẫn đến .iPA) </description>
+		<description>plutil as from erica sadun</description>
 	</descriptionlist>
 </package>
