@@ -415,7 +415,7 @@ MD5sum: 756a66c9b11b2871bfc78868979ce6b9
 SHA1: a838d59213113fd0f35e9b67b3559e869c3701d4
 SHA256: a03c1cfb6992b665d4cd308964a725439e6c20768a104bc2f651e83aaee52d75
 SHA512: 5a3cd5c7a7e936a663abf14e8b179a9d8d326eead2b4fce9ba7bf132247ecfee9d17b8639e998b970ff669851aaab84cdc44db43fe4afddf3bc054195e76d254
-Depiction: https://hoangtuantk.github.io/depictions/1/?p=com.hoangtuan.wifipasswords
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.wifipasswords
 Homepage: https://hoangtuantk.github.io
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14,
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
