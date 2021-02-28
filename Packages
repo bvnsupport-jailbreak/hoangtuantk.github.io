@@ -421,7 +421,7 @@ Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compa
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
 Name: WiFi Passwords
 
-Package: ws.hoangtuan.newterm2
+Package: com.hoangtuan.newterm2
 Version: 2.4
 Section: Utilities
 Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.13), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
