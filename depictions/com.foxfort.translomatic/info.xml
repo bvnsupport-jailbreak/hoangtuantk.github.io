@@ -8,6 +8,12 @@
 			<maxiOS>14.5</maxiOS>
 		</firmware>
 	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>com.foxfort.foxforttools (>= 1.2.9)</package>
+		<package>applist</package>
+	</dependencies>
 	<descriptionlist>
 		<description>
 			<![CDATA[

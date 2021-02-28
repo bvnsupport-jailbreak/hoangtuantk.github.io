@@ -8,6 +8,12 @@
 			<maxiOS>13.7</maxiOS>
 		</firmware>
 	</compatibility>
+	<dependencies>
+		<package>firmware (>= 11.0)</package>
+		<package>mobilesubstrate(>= 0.9.5015)</package>
+		<package>preferenceloader</package>
+		<package>ws.hbang.common (>= 1.11)</package>
+	</dependencies>	
 	<descriptionlist>
 		<description>Hỗ trợ iOS 11.0 - 13.7</description>
 		<description>

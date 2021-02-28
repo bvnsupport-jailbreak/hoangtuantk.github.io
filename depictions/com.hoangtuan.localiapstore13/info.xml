@@ -8,6 +8,10 @@
 			<maxiOS>13.7</maxiOS>
 		</firmware>
 	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+	</dependencies>	
 	<descriptionlist>
 		<description>
 			<![CDATA[

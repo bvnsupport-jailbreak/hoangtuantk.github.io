@@ -7,6 +7,11 @@
 			<miniOS>12.3</miniOS>
 		</firmware>
 	</compatibility>
+	<dependencies>
+		<package>firmware(>=12.3)</package>
+		<package>dpkg</package>
+		<package>mobilesubstrate</package>
+	</dependencies>
 	<descriptionlist>
 		<description>Hỗ trợ iOS >=12.3</description>
 		<description>

@@ -4,10 +4,15 @@
 	<version>1.4-5b</version>
 	<compatibility>
 		<firmware>
-			<miniOS>8.0</miniOS>
+			<miniOS>5.1.1</miniOS>
 			<maxiOS>13.7</maxiOS>
 		</firmware>
 	</compatibility>
+	<dependencies>
+		<package>firmware (>= 5.1.1)</package>
+		<package>preferenceloader</package>
+		<package>mobilesubstrate</package>
+	</dependencies>	
 	<descriptionlist>
 		<description>
 			<![CDATA[

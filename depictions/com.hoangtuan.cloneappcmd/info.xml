@@ -1,8 +1,13 @@
 <package>
 	<id>com.hoangtuan.cloneappcmd</id>
-	<name>Hoàng Tuân Repo</name>
+	<name>Hoàng Tuân Repo</name>	
 	<version>1.0~b5</version>
-
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>com.hoangtuan.plutil</package>
+		<package>com.hoangtuan.myinst</package>	
+		<package>net.angelxwind.appsyncunified</package>			
+	</dependencies>
 	<descriptionlist>
 		<description>
 			<![CDATA[

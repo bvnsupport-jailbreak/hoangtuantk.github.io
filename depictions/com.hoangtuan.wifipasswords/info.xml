@@ -7,6 +7,10 @@
 			<miniOS>6.0</miniOS>
 		</firmware>
 	</compatibility>
+	<dependencies>
+		<package>firmware (>= 6.0)</package>
+		<package>mobilesubstrate</package>
+	</dependencies>	
 	<descriptionlist>
 		<description>Hiển thị mật khẩu wifi đã nhập trước đó</description>
 				<description>
