@@ -6,9 +6,7 @@ Essential: yes
 Description: Biểu tượng Cydia cho kho lưu trữ Hoàng Tuân Repo
 Author: Hoàng Tuân <trongtuan198@gmail.com>
 Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
-dev: Hoàng Tuân <trongtuan198@gmail.com>
-Sponsor: Hoàng Tuân <trongtuan198@gmail.com>
-Support: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
 Filename: ./debs/com.hoangtuantk.github.io.icon_2.2_iphoneos-arm.deb
 Size: 150292
 Installed-Size: 159
@@ -24,28 +22,31 @@ Name: Icon - Hoàng Tuân Repo
 
 Package: com.hoangtuan.cydown.tv
 Version: 1.0
-Author: Hoàng Tuân
 Architecture: iphoneos-arm
-Description: Thêm ngôn ngữ tiếng Việt cho Cydown
-Maintainer: Hoàng Tuân
 Section: Localization
+Description: Thêm ngôn ngữ tiếng Việt cho Cydown
+Author: Hoàng Tuân <trongtuan198@gmail.com>
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
 Filename: ./debs/com.hoangtuan.cydown.tv_1.0_iphoneos-arm.deb
 Size: 5994
 MD5sum: ba4cc913863b1649ce042e44fc6e758b
 SHA1: 623776074684d9138f09be92b032111b300a1212
 SHA256: ef62ed62326d1f1891038186f26f13fbb05b16adf5a60e3590542548b1ad98b8
 SHA512: d89831ca9323a9c7ca8ade40631513048111b7605e7f8a82229417e1c45104d036546d8eee51f781adcf51bea070158b7996393bea73f6b8db44eae422b605fb
+Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.cydown.tv
 Icon: file:///Applications/Cydia.app/Sections/HTR-4.png
 Name: CyDown (Thêm tiếng Việt)
 
 Package: com.hoangtuan.cputool.tv
 Version: 1.2
-Author: Hoàng Tuân
 Architecture: iphoneos-arm
-Description: Thêm ngôn ngữ tiếng Việt cho CPUTool
-Maintainer: Hoàng Tuân
 Section: Localization
+Description: Thêm ngôn ngữ tiếng Việt cho CPUTool
+Author: Hoàng Tuân <trongtuan198@gmail.com>
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
 Depends: mobilesubstrate
 Filename: ./debs/com.hoangtuan.cputool.tv_1.2_iphoneos-arm.deb
 Size: 2538
@@ -53,6 +54,7 @@ MD5sum: 51ce63e5aedc5962bfdb76786903c3ac
 SHA1: ab6d927d21df9d9e9057f25196fa9dcc26823265
 SHA256: f09db51188121e4d801ae3a3fcd10f0e6eeb0baf35999278834077cb94eb319d
 SHA512: f13266367aa04c05bd664d27e8b99a2ae63a45033932ed69f030df621930598029346cab0115e19588de43c0d7b76ce464c71008e25d45663fd3b1814ca1bc8a
+Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.cputool.tv
 Icon: file:///Applications/Cydia.app/Sections/HTR-4.png
 Name: CPUTool (Thêm tiếng Việt)
@@ -61,7 +63,10 @@ Package: com.hoangtuan.videoswipes
 Version: 1.4-2
 Architecture: iphoneos-arm
 Section: Tweaks
-Maintainer: Hoàng Tuân
+Description: Thêm thao tác vuốt trình phát video
+Author: AnthoPak <anthococagne@hotmail.fr>
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
 Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 11.0), preferenceloader, ws.hbang.common (>= 1.11)
 Filename: ./debs/com.hoangtuan.videoswipes_1.4-2_iphoneos-arm.deb
 Size: 636866
@@ -70,8 +75,7 @@ MD5sum: 7df397a51b22bec3e3e1e2055ed35b00
 SHA1: 842b5a4717fb576f8c412e106603a058517fed6a
 SHA256: 05399162f981f105140b5ec3dddda045f5cb61985a7491dec0fba7184e01f624
 SHA512: 0a032dac7b19883ef4ecc56c3551febadc1d38cd2b7ae61860393c63b75bab7532aa871f5caa1dc347c5360e7f8c77921609e9ecc4a1b003621ef3d889fc8d0d
-Description: Thêm thao tác vuốt trình phát video
-Author: AnthoPak <anthococagne@hotmail.fr>
+Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.videoswipes
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: VideoSwipes (Việt hoá)
@@ -80,7 +84,10 @@ Package: com.foxfort.translomatic
 Version: 2.6.8-ht
 Architecture: iphoneos-arm
 Section: Tweaks
-Maintainer: Hoàng Tuân
+Description: Dịch nhanh mọi văn bản.
+Author: Author: FoxfortMobile
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
 Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.9), applist
 Conflicts: me.pulandres.translomatic, me.pulandres.translomatice, co.xrepo.appletweakjailbreak.translomatic, net.kenhtao.translomatic, net.kenhtao.translomatic, sileoturkiye.translomatic, sileoturkiye.translomatic12, com.yourepo.mohadu31.translomatic, com.yourepo.mohadu31.translomatice, org.cydia.kiimo.translomatic, com.hackyouriphone.translomatic, com.hackyouriphone.translomatice, co.hurouftech.translomatic, me.sa3odka.translomatic
 Filename: ./debs/com.foxfort.translomatic_2.6.8_iphoneos-arm.deb
@@ -90,8 +97,7 @@ MD5sum: 9317a25fa3079986035e4a8fdb939dff
 SHA1: 07ceb16dcd31dd15e009cda137b0fd5410bb47e3
 SHA256: 997b684f3c0c850afb0d47d397992777d8d91939f1e28fcae2ab65c91f8f4da0
 SHA512: 091e5024724a5e3dd2c667cf575b1730414479866eb2271063cf158834b11dbfeae87d86259853d12d1349ad768e18302004137257a7439d1f80315f3a73e748
-Description: Dịch nhanh mọi văn bản.
-Author: FoxfortMobile
+Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.foxfort.translomatic
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: Translomatic
@@ -100,7 +106,10 @@ Package: com.hoangtuan.substrated
 Version: 0.9.7111
 Architecture: iphoneos-arm
 Section: System
-Maintainer: Hoàng Tuân
+Description: Tiện ích đơn giản cho phép chuyển từ unc0ver sang checkra1n mà không cần phải cài đặt lại Cydia Substrate theo cách thủ công.
+Author: Halo_Michael <yc992147156@me.com>
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
 Depends: dpkg, firmware(>=12.3)
 Filename: ./debs/com.hoangtuan.substrated_0.9.7111_iphoneos-arm.deb
 Size: 2534620
@@ -108,137 +117,73 @@ MD5sum: 5dc751faf48a132df4d552cc1c9a434b
 SHA1: b2bd28a113089a1d2365c7a96292b14d1fd40922
 SHA256: 44fd98fe8fa0aed2cb02335223b7a5831e9bd4ba819345d7f59f874341c58f07
 SHA512: 0588fe8c367f1e33eee39dc6d716f03e78e65375d264fd730e0335fc6ac8c7b92764a518321e1ceee26b2806d8076563a3259465b259efe09ba99529412052c2
-Description: Tiện ích đơn giản cho phép chuyển từ unc0ver sang checkra1n mà không cần phải cài đặt lại Cydia Substrate theo cách thủ công.
-Author: Halo_Michael <yc992147156@me.com>
+Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.substrated
 Icon: file:///Applications/Cydia.app/Sections/HTR-2.png
 Name: Unc0ver Support Package
 
 Package: com.iggnew.iGameGuardian8.3
 Version: 8.3
-Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
-Maintainer: iggnew
-Filename: ./debs/iGG/com.iggnew.igameguardian8.3_8.3_iphoneos-arm.deb
-Installed-Size: 15000
+Description: 
+Author: iggnew
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Priority: optional
+Filename: ./debs/com.iggnew.igameguardian8.3_8.3_iphoneos-arm.deb
 Size: 1127318
+Installed-Size: 15000
 MD5sum: 353cbab3890e846d1154cd94e1601bc5
 SHA1: a4c52c3b6a74041559030df658f0b808788ace54
 SHA256: 8c8a96517f7d407f965dec150fbfe9384797e6a93acf7e47bb2d0381dd506b99
 SHA512: faa490939b133e2f1230a4a7f09108c720d5994ddd88108ee41b8405ad5afdbb81b1a8cfe3cc7b2c098599a724bf0a7528fbb92f86c72f7b199e6fec2c4f445a
-Author: iggnew
+Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian8.3
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
 Name: iGameGuardian 8.3
 
 Package: com.iggnew.iGameGuardian.iOS12
 Version: 12.0.4
-Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
-Maintainer: iggnew
-Filename: ./debs/iGG/com.iggnew.igameguardian.ios12_12.0.4_iphoneos-arm.deb
-Installed-Size: 1372
+Author: iggnew
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Priority: optional
+Filename: ./debs/com.iggnew.igameguardian.ios12_12.0.4_iphoneos-arm.deb
 Size: 1164512
+Installed-Size: 1372
 MD5sum: fbe2abe3bfff118b2414e794c2ad193d
 SHA1: 6f8ec728269bf4f29bd68da3ddd3947191855695
 SHA256: 4fc1ba14b6d80cfbe8bd3682090e97f950d3e0d3f8d1da67b924feda02c38d79
 SHA512: c6cf3fe3220af3e54af561dccf0823dd406a757f36cdc04f0414015aa53443c7dd070f0fd168b10a277d8d552d6c37ff03055ee52d65b1c8a22aee75dc23eb10
-Author: iggnew
+Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
 Name: iGG 12 Stable
 
 Package: com.iggnew.iGameGuardian.iOS12.speed
 Version: 12.0.4
-Priority: optional
 Architecture: iphoneos-arm
 Section: iGG
-Maintainer: iggnew
-Filename: ./debs/iGG/com.iggnew.igameguardian.ios12.speed_12.0.4_iphoneos-arm.deb
-Installed-Size: 1372
+Author: iggnew
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: 
+Conflicts: 
+Priority: optional
+Filename: ./debs/com.iggnew.igameguardian.ios12.speed_12.0.4_iphoneos-arm.deb
 Size: 1164936
+Installed-Size: 1372
 MD5sum: c3253a369718cb3dc75c37ed670c5944
 SHA1: baba4acf69ed66b319c85865404fd99663c28459
 SHA256: 9ed9d15db0140c2a12a60e935962d40c8b3c352a5353648783aabff8e1029bc3
 SHA512: 0e63df887c067f7ada8675837dacdd490e00b9ada2bcf80843f5b1f9b6aa27a6e9620ccd0782083fed5a55f905126fa7ab0892d609219ca3ed6534256c5e62ec
-Author: iggnew
+Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian.speed
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
 Name: iGG 12 Speed
-
-Package: com.iggnew.iGameGuardian.iOS12.speed.fireThree
-Version: 12.0.4
-Priority: optional
-Architecture: iphoneos-arm
-Section: iGG
-Maintainer: iggnew
-Filename: ./debs/iGG/com.iggnew.igameguardian.ios12.speed.firethree_12.0.4_iphoneos-arm.deb
-Installed-Size: 1372
-Size: 1090726
-MD5sum: a5ce2276d47129d0a425ff6b9cae72fb
-SHA1: 46e001887164611d68fb3075512f6a01655811e4
-SHA256: 8c261201d23ee652353a5ebb3a23968d9dd10ef7fe5af021104330aa9b8a9125
-SHA512: f902d517fca854cda5526d0cef59a55493b77854f27d878a93a9b0f2e38f9cf4264886e397693fc219c42ce73ec5b204b4a50f58f54e05e7d78ae8cbc3c8ddca
-Author: iggnew
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian.speed
-Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
-Name: iGG 12 Speed [FireThree]
-
-Package: com.iggnew.iGameGuardian.iOS12.speed.fireTwo
-Version: 12.0.4
-Priority: optional
-Architecture: iphoneos-arm
-Section: iGG
-Maintainer: iggnew
-Filename: ./debs/iGG/com.iggnew.igameguardian.ios12.speed.firetwo_12.0.4_iphoneos-arm.deb
-Installed-Size: 1372
-Size: 1090580
-MD5sum: 0eea7df0a7360b71756133febe78a186
-SHA1: 96eb9c892e553e90892352e6673337e1b0a04a76
-SHA256: 0314de54ecfc953cd176607b7b26847dea7b22f56f950cf364de5f5c73056dee
-SHA512: 57bf710f7733447000c92c8601e0aba1f3365ff13f2eac411c34b6267b6071fa0d92c851a59dbab62e68ca90b054d61d80f5036f508669ba8dc40bffe68f035b
-Author: iggnew
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian.speed
-Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
-Name: iGG 12 Speed [FireTwo]
-
-Package: com.iggnew.iGameGuardian.iOS12.speed.FireOne
-Version: 12.0.4
-Priority: optional
-Architecture: iphoneos-arm
-Section: iGG
-Maintainer: iggnew
-Filename: ./debs/iGG/com.iggnew.igameguardian.ios12.speed.fireone_12.0.4_iphoneos-arm.deb
-Installed-Size: 1372
-Size: 1090572
-MD5sum: 1c3a293a59d68a5b5f787214e26d19a5
-SHA1: 9a87c31b0c572d710a628ec51930cc9707135653
-SHA256: 13358dee86b674804e9c720bb49e23ec739a2176480e7b6ccaf22a4df2b03855
-SHA512: 4ac0854a1b71763b81356a57db827325383ef426d4f0f2e2425bc3ff79a5c14ac60d5fb844bd44b33f3fb7d2b26fdcb24f1e424f9194948ad9de2e74dc535563
-Author: iggnew
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian.speed
-Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
-Name: iGG 12 Speed [fireOne]
-
-Package: com.iggnew.iGameGuardian.iOS12.speed.fireFour
-Version: 12.0.4
-Priority: optional
-Architecture: iphoneos-arm
-Section: iGG
-Maintainer: iggnew
-Filename: ./debs/iGG/com.iggnew.igameguardian.ios12.speed.firefour_12.0.4_iphoneos-arm.deb
-Installed-Size: 1372
-Size: 1090628
-MD5sum: 3cb7b8be7cc52cf1a0720f91fee8e4b8
-SHA1: fb2d37f73b0ae6b2abbe1600c8bb62e2ee3970cb
-SHA256: 7722ece27b701523f01d9de1d445f09ee3d44039d6d93207d0c41ff245bece05
-SHA512: 3e3872d687e9c5c0bae8443c90a5d7169e1cbb35e4818804ef35d54b7ba3f03773f8c95584d82de37ee91f2a144eecea57d4efbab3e86fe72f648d121779a932
-Author: iggnew
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.iggnew.igameguardian.speed
-Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
-Name: iGG 12 Speed [FireFour]
 
 Package: com.hoangtuan.cloneappcmd
 Version: 1.0~b5
