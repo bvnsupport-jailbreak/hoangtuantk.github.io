@@ -43,12 +43,22 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Ảnh 1</description>
 			<image>screenshots1.png</image>
 		</screenshot>
 		<screenshot>
-			<description>Ảnh 2</description>
 			<image>screenshots2.png</image>
-		</screenshot>		
+		</screenshot>
+		<screenshot>
+			<image>screenshots3.png</image>
+		</screenshot>
+		<screenshot>
+			<image>screenshots4.png</image>
+		</screenshot>
+		<screenshot>
+			<image>screenshots5.png</image>
+		</screenshot>
+		<screenshot>
+			<image>screenshots6.png</image>
+		</screenshot>	
 	</screenshots>
 </package>
