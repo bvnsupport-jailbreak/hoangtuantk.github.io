@@ -420,3 +420,66 @@ Homepage: https://hoangtuantk.github.io
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14,
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
 Name: WiFi Passwords
+
+Package: ws.hoangtuan.newterm2
+Version: 2.4
+Section: Utilities
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.13), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Replaces: ws.hbang.newterm, com.lint.ntarrows
+Architecture: iphoneos-arm
+Description: Một ứng dụng đầu cuối mạnh mẽ dành cho iOS
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Author: HASHBANG Productions <support@hbang.ws>
+Filename: ./debs/com.hoangtuan.newterm2_2.4_iphoneos-arm.deb
+Size: 3201850 
+MD5sum: fd3289f701248fc64ea683340fb2e3c7
+SHA1: b32bad25264788f252688aa150efc3d4721491a9
+SHA256: a1241c4855fed8ed0bfc902130158bd89788ce42331b8e6c938ba6e892387149
+SHA512: 0327ccbf133cad045faa11abb2e8699bb7e9d1241a3f6487c3c6012e20d71b231261ce50a71ace2040ff741e6b1be33d69f51dee8f80922426a7dae923c413ec
+Icon: file:///Applications/Cydia.app/Sections/HTR-5.png
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.newterm2
+Support: https://hashbang.productions/support/
+Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Installed-Size: 6792
+Name: NewTerm 2 (iOS 10 – 14)
+
+Package: com.hoangtuan.appstoreplusplus
+Version: 0.9.14-8
+Section: Tweaks
+Description: Cho phép bạn hạ cấp/nâng cấp ứng dụng trong AppStore trên iOS 11-14.
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Priority: optional
+Filename: ./debs/com.hoangtuan.appstoreplusplus_0.9.14-8_iphoneos-arm.deb
+Size: 2941722 
+MD5sum: 6e0641618b200920f50a7cf890ebe625
+SHA1: e35475143d9d71e43f9b05ae6a6e05ec9d1575b6
+SHA256: 3de50c9ea36c57bce699e7d324335d58ac70185d4c5f95e602b4a64609b65322
+SHA512: f08730bac7d24c20eafe450f39e339f27d80dc2e36b5f9a3c5361f09f98ffee476deb31e0c191fe4bcf0456107ccac5c096139fb0245797dbc2f267a1a08988b
+Architecture: iphoneos-arm
+Author: CokePokes
+Maintainer: Hoàng Tuân
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.appstoreplusplus
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: AppStore++
+
+Package: com.hoangtuan.bypassmbbank
+Version: 1.2.3
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Chặn phát hiện Jailbreak App Ngân Hàng MBBank
+Depends: mobilesubstrate
+Filename: ./debs/com.hoangtuan.bypassmbbank_1.2.3_iphoneos-arm.deb
+Size: 258208 
+MD5sum: c8701bd1c0151cf436acccac46e45a14
+SHA1: aa25fecf1e1ce51775e8358c302c735eb6648af9
+SHA256: fda67cc8e590fd1da53005c579e8ee837196c75656dd38e866980c653123fd19
+SHA512: e1bd56404171bc8160ac1d2dd09448bc7a1b4268c13fa1e5e2bd6d76fb31a472f1e3f18f5e2bed25ea6d201f4534657852854f875080be2c044f2e53a3a4d981
+Author: IPALibrary 
+Maintainer: Hoàng Tuân
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.bypassmbbank
+Homepage: https://hoangtuantk.github.io
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Installed-Size: 644
+Name: Bypass MBBank

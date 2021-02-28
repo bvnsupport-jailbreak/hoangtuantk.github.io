@@ -6,30 +6,41 @@
 	<descriptionlist>
 		<description>
 			<![CDATA[
-			Yêu cầu: <br/>
-			- Tải tw AppSync Unified nguồn cydia.akemi.ai <br/>
-			- Tw dùng để gõ lệnh Terminal. (VD: NewTerm)
-				]]>
-		</description>
-				<description>
-			<![CDATA[
-			Thực hiện: <br/>
-			- Mở tw gõ lệnh termial và gõ <br/>
-			su<br/>
-				ấn enter<br/>
-			alpine<br/>
-				ấn enter<br/>
-			cloneapp Tên App, Hoặc Package tên định danh <br/>
-			VD: cloneapp Facebook hoặc cloneapp com.facebook.Facebook <br/>
-			- Tên định danh (Package) xem bằng cách vào Filza > Quản lý ứng dụng > biểu tượng (i)
+			<b>Yêu cầu:</b><br/>
+			<ul>
+			<li>Cài Tweak AppSync Unified nguồn: cydia.akemi.ai</li>
+			<li>Tweak dùng để gõ lệnh Terminal. (VD: Tweak NewTerm)</li>
+			</ul>
 			]]>
 		</description>
-				<description>
+		<description>
 			<![CDATA[
-			- Gõ xong nó sẽ hiện phần Tên ứng dụng <br/>
+			<b>Thực hiện:</b><br/>
+			- Mở Tweal gõ lệnh Termial và gõ <br/>
+			<ul>
+			<li>su</li><br/>
+			<li>enter</li><br/>
+			<li>alpine</li><br/>
+			<li>enter</li><br/>
+			<li>cloneapp Tên App, Hoặc tên định danh</li><br/>
+			- Tên định danh xem bằng cách vào Filza > Quản lý ứng dụng > biểu tượng (i)
+			</ul>
+			]]>
+		</description>
+		<description>
+			<![CDATA[
+			<b>Ví Dụ:</b><br/>
+			cloneapp Facebook<br/>
+			<b>hoặc</b><br/>
+			cloneapp com.facebook.Facebook
+			]]>
+		</description>
+		<description>
+			<![CDATA[
+			- Nhập xong cloneapp sẽ hiện phần Tên ứng dụng <br/>
 			- Đây là tên của app khi nhân bản xong, bạn có thể đặt tuỳ ý <br/>
 			- Giờ chỉ việc đợi thôi. Lưu ý không được thoát ra ngoài hay tắt màn hình
-				]]>
+			]]>
 		</description>
 	</descriptionlist>
 	<links></links>

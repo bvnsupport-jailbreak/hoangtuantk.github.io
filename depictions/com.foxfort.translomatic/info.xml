@@ -5,13 +5,17 @@
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
-			<maxiOS>13.7</maxiOS>
+			<maxiOS>14.5</maxiOS>
 		</firmware>
 	</compatibility>
 	<descriptionlist>
-		<description>Hỗ trợ iOS 11.0 - 13.7</description>
-		<description><![CDATA[Đây là file deb chính thức từ nguồn Pakix chưa qua chỉnh sửa<br/>
-				Máy đã kích hoạt bản quyền sẵn mới có thể dùng được]]>
+		<description>
+			<![CDATA[
+			<ul>
+			<li>Đây là file deb chính thức từ nguồn Pakix</li>
+			<li>Máy đã kích hoạt bản quyền sẵn mới có thể dùng được</li>
+			</ul>
+			]]>
 		</description>
 	</descriptionlist>
 	<links></links>
