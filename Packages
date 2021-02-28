@@ -508,13 +508,13 @@ Support: Hoàng Tuân
 Depends: mobilesubstrate
 Conflicts: kr.xsf1re.flyjb
 Filename: ./debs/com.hoangtuan.flyjbx_1.1.11_iphoneos-arm.deb
-Size: 1777482
+Size: 1779346
 Installed-Size: 2796
-MD5sum: 4fe175bbfa5b0b7eb48e2b41b9926cdf
-SHA1: 2f8a307d8a9472f75b9506e847e06792d5909bc6
-SHA256: af90a5d3db9f39959c1e0945c0098f26adc76dca85275b61fe7faf0e986467fd
-SHA512:  307007ad0a23a3db86635c9cb4a45089c7b53d3a6cd98d5ab42997a04ece78d9cc1c651fde63525d82eed0dc994d2a8c57bdcfba51f509bce32fcb24865a0a3a
+MD5sum: 4aa0331d772df0956b5ebb5da2f6976c
+SHA1: 93be53657fae779d46b2bbd5601f33bb700726a4
+SHA256: 834db05ee35f0d828bce656ca3f4580f8e86c8cadc3c46885bebeb8f0fa7d36a
+SHA512:  b69f45bb69f8bced4156e7713a5861a7747449ddfb61a9e12c078ce3b265846acb3549e84924713e443ea37476e183b775ea10bc2bab9fda35657c6e1fb527a2
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.flyjbx
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
-Name: FlyJB X
+Name: FlyJB X (Việt Hoá)
