@@ -483,3 +483,29 @@ Homepage: https://hoangtuantk.github.io
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Installed-Size: 644
 Name: Bypass MBBank
+
+Package: com.hoangtuan.powerselector11
+Version: 1.3.0
+Section: Utilities
+Architecture: iphoneos-arm
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: ./debs/com.hoangtuan.powerselector11_1.3.0_iphoneos-arm.deb
+Installed-Size: 2292
+Size: 381802 
+MD5sum: 6780b8608d9bce505feed6fcddc26d10
+SHA1: 1bde1067a1931f240d254b0710b95f1d26ee9c80
+SHA256: f5861e383fc7ccd6cb94b88681de17340db2e85185774960264114fc09cff447
+SHA512: 409fce8a86c492b6ade113266ed84f276583b46f32a50b3a685876eeeea147d105070a171e6d3a600f88776b1abbad7b2cd398a0f1ba5482c155c984adaf9e15
+Description: The power supply relation of a device is operated.
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.powerselector11
+Homepage: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.powerselector11
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: ichitaso
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
+Name: PowerSelector (iOS 11 to 14)
