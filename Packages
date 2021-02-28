@@ -85,7 +85,7 @@ Version: 2.6.8-ht
 Architecture: iphoneos-arm
 Section: Tweaks
 Description: Dịch nhanh mọi văn bản.
-Author: Author: FoxfortMobile
+Author: FoxfortMobile
 Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.9), applist
