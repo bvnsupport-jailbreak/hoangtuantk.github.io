@@ -1,0 +1,29 @@
+<package>
+	<id>com.hoangtuan.appstoreplusplus</id>
+	<name>Hoàng Tuân Repo</name>
+	<version>0.9.14-8</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>14.5</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>firmware (>= 11.0)</package>
+	</dependencies>	
+	<descriptionlist>
+		<description>Hỗ trợ iOS 11.0 - 14.5</description>
+		<description>
+			<![CDATA[
+			<b>Các tính năng:</b><br/>
+			<ul>
+				<li>Cho phép bạn hạ cấp/nâng cấp ứng dụng trong AppStore,</li>
+				<li>Chặn cập nhật</li>
+				<li>Vượt qua giới hạn tải xuống 200MB</li>
+				<li>Tắt quảng cáo tìm kiếm và tắt tính năng làm mỏng ứng dụng</li>
+			</ul>
+			]]>
+		</description>
+	</descriptionlist>
+</package>
