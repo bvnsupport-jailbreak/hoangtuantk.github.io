@@ -518,3 +518,45 @@ Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.flyjbx
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
 Name: FlyJB X (Việt Hoá)
+
+Package: com.foxfort.portraitxi
+Version: 4.0.1-ht
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Single camera portrait mode
+Author: FoxfortMobile
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.9)
+Filename: ./debs/com.foxfort.portraitxi_4.0.1-ht_iphoneos-arm.deb
+Size: 14383124
+Installed-Size: 15328
+MD5sum: fa2319c8975084530ca6d7ccd6dacb1d
+SHA1: 99f95fdb8f41c3833d10b42f798beff275c7c211
+SHA256: 05332bafa8eaaedc256dff28023146627d0e53b1d89a14b026d3cebab76d9027
+SHA512:  58b13d7e443d78de8caceea8e34bc99b52878e0bad8ae6e887a1313af0b2e6aaaec569875bc590927da2c622bfb526f7fa878ddafcd53805a163bf103a0adf45
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.foxfort.portraitxi
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: PortraitXI
+
+Package: me.tomt000.copylog
+Version: 1.5.3-ht
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Clipboard history manager for iOS!
+Author: TomT000
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: mobilesubstrate, preferenceloader 
+Filename: ./debs/me.tomt000.copylog_1.5.3-ht_iphoneos-arm.deb
+Size: 2073842
+Installed-Size: 4392
+MD5sum: 92a8d463f0131c4df285266d1cee4648
+SHA1: 0d91a57a2dd9ab10e492b50aca569d156a097e50
+SHA256: 50ef2d9e828aafcbe050040f84d70f61ba3532da47d08c331e81e5a2f8592d0f
+SHA512:  61eb7c6c4df5020c92bbe4f5ed814fa12ca98e67e6032575143091a17369ab683faea54817b956a1599f46207199ead8e0ff33f7736bf9a2559cd4fbf4a34465
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=me.tomt000.copylog
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: CopyLog

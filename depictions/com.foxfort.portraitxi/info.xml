@@ -1,0 +1,25 @@
+<package>
+	<id>com.foxfort.portraitxi</id>
+	<name>Hoàng Tuân Repo</name>
+	<version>4.0.1-ht</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>14.5</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>com.foxfort.foxforttools (>= 1.2.9)</package>
+	</dependencies>
+	<descriptionlist>
+		<description>
+			<![CDATA[
+			- Đây là file deb chính thức từ nguồn Pakix </br>
+			- Thêm ký tự -ht và sau phần phiên bản để phân biệt </br>
+			- Máy đã kích hoạt bản quyền sẵn mới có thể dùng được
+			]]>
+		</description>
+	</descriptionlist>
+</package>
