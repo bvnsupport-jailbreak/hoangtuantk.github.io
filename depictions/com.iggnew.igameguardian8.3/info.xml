@@ -8,6 +8,9 @@
 			<maxiOS>8.3</maxiOS>
 		</firmware>
 	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>	
 	<descriptionlist>
 		<description>
 			<![CDATA[
