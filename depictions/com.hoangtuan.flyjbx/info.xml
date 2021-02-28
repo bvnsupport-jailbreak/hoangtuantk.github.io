@@ -1,0 +1,22 @@
+<package>
+	<id>com.hoangtuan.flyjbx</id>
+	<name>Hoàng Tuân Repo</name>
+	<version>1.1.11</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>14.5</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>	
+	<descriptionlist>
+		<description>Hỗ trợ iOS 11.0 - 14.5</description>
+		<description>
+			<![CDATA[
+			&emsp;&emsp;<b>Chặn phát hiện Jailbreak cho thiết bị</b> <br/>
+			]]>
+		</description>
+	</descriptionlist>
+</package>
