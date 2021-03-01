@@ -16,15 +16,15 @@
 		</description>
 		<description>
 			<![CDATA[
-			<b>Yêu cầu:</b><br/>
-			- Cài Tweak AppSync Unified nguồn: cydia.akemi.ai <br/>
+			<b>Yêu cầu:</b><br>
+			- Cài Tweak AppSync Unified nguồn: cydia.akemi.ai <br>
 			- Tweak dùng để gõ lệnh Terminal. (VD: Tweak NewTerm)
 			]]>
 		</description>
 		<description>
 			<![CDATA[
-			<b>Thực hiện:</b><br/>
-			- Mở Tweak gõ lệnh Termial và gõ <br/>
+			<b>Thực hiện:</b><br>
+			- Mở Tweak gõ lệnh Termial và gõ <br>
 			<ul>
 				<li>su</li>
 				<li>enter</li>
@@ -37,11 +37,11 @@
 		</description>
 		<description>
 			<![CDATA[
-			<b>Ví Dụ:</b><br/>
+			<b>Ví Dụ:</b><br>
 			<ul>
-			cloneapp Facebook<br/>
+			cloneapp Facebook<br>
 			</ul>
-			<b>Hoặc:</b><br/>
+			<b>Hoặc:</b><br>
 			<ul>
 			cloneapp com.facebook.Facebook
 			</ul>
@@ -49,9 +49,9 @@
 		</description>
 		<description>
 			<![CDATA[
-			- Nhập xong cloneapp sẽ hiện phần Tên ứng dụng <br/>
-			- Đây là tên của app khi nhân bản xong, bạn có thể đặt tuỳ ý <br/>
-			- Giờ chỉ việc đợi thôi <br/>
+			- Nhập xong cloneapp sẽ hiện phần Tên ứng dụng <br>
+			- Đây là tên của app khi nhân bản xong, bạn có thể đặt tuỳ ý <br>
+			- Giờ chỉ việc đợi thôi <br>
 			- Lưu ý không được thoát ra ngoài hay tắt màn hình trong quá trình nhân bản
 			]]>
 		</description>
