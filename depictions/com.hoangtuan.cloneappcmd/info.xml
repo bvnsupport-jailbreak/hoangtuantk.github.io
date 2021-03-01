@@ -16,32 +16,32 @@
 		</description>
 		<description>
 			<![CDATA[
-			<b>Yêu cầu:</b><br>
+			<b>Yêu cầu:</b> <br>
 			- Cài Tweak AppSync Unified nguồn: cydia.akemi.ai <br>
 			- Tweak dùng để gõ lệnh Terminal. (VD: Tweak NewTerm)
 			]]>
 		</description>
 		<description>
 			<![CDATA[
-			<b>Thực hiện:</b><br>
+			<b>Thực hiện:</b> <br>
 			- Mở Tweak gõ lệnh Termial và gõ <br>
 			<ul>
 				<li>su</li>
 				<li>enter</li>
 				<li>alpine</li>
 				<li>enter</li>
-				<li>cloneapp Tên App, Hoặc tên định danh</li><br/>
+				<li>cloneapp Tên App, Hoặc tên định danh</li> <br>
 			</ul>
 			- Tên định danh xem bằng cách vào Filza > Quản lý ứng dụng > biểu tượng (i)
 			]]>
 		</description>
 		<description>
 			<![CDATA[
-			<b>Ví Dụ:</b><br>
+			<b>Ví Dụ:</b> <br>
 			<ul>
-			cloneapp Facebook<br>
+			cloneapp Facebook <br>
 			</ul>
-			<b>Hoặc:</b><br>
+			<b>Hoặc:</b> <br>
 			<ul>
 			cloneapp com.facebook.Facebook
 			</ul>
