@@ -1,0 +1,569 @@
+Package: com.hoangtuantk.github.io.icon
+Version: 3.0
+Architecture: iphoneos-arm
+Section: System
+Essential: yes
+Description: Biểu tượng Cydia cho kho lưu trữ Hoàng Tuân Repo
+Author: Hoàng Tuân <trongtuan198@gmail.com>
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Filename: ./debs/com.hoangtuantk.github.io.icon_3.0_iphoneos-arm.deb
+Size: 190158
+Installed-Size: 199
+MD5sum: 0c5f61ed343b5bc5b8caaea91004dea8
+SHA1: 75cb41c1769046aac27f1bed5387b14c4eb9f390
+Homepage: https://hoangtuantk.github.io/
+Depiction: Biểu tượng Cydia cho kho lưu trữ Hoàng Tuân Repo
+Sileodepiction: http://hoangtuantk.github.io/sileo-depiction/icon
+Icon: file:///Applications/Cydia.app/Sections/HTR-7.png
+Name: Icon - Hoàng Tuân Repo
+
+Package: com.hoangtuan.cydown.tv
+Version: 1.0
+Architecture: iphoneos-arm
+Section: Localization
+Description: Thêm ngôn ngữ tiếng Việt cho Cydown
+Author: Hoàng Tuân <trongtuan198@gmail.com>
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Filename: ./debs/com.hoangtuan.cydown.tv_1.0_iphoneos-arm.deb
+Size: 6150
+MD5sum: 407ff0046d277aad66cd7a1361ad86c5
+SHA1: 9d2dbf501d2b6d1ce0a00c17dedfa8e63dbda762
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.cydown.tv
+Icon: file:///Applications/Cydia.app/Sections/HTR-4.png
+Name: CyDown (Thêm tiếng Việt)
+
+Package: com.hoangtuan.cputool.tv
+Version: 1.9
+Architecture: iphoneos-arm
+Section: Localization
+Description: Thêm ngôn ngữ tiếng Việt cho CPUTool
+Author: Hoàng Tuân <trongtuan198@gmail.com>
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Filename: ./debs/com.hoangtuan.cputool.tv_1.9_iphoneos-arm.deb
+Size: 2736
+Installed-Size: 3
+MD5sum: 174a85ff7224923f5f8f2f73b64a0509
+SHA1: 9cedd655476204149c15e303f26d0973ded4454e
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.cputool.tv
+Icon: file:///Applications/Cydia.app/Sections/HTR-4.png
+Name: CPUTool (Thêm tiếng Việt)
+
+Package: com.hoangtuan.copylog.tv
+Version: 1.5.3
+Architecture: iphoneos-arm
+Section: Localization
+Description: Thêm ngôn ngữ tiếng Việt cho Copylog.
+Author: Hoàng Tuân <trongtuan198@gmail.com>
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Filename: ./debs/com.hoangtuan.copylog.tv_1.5.3_iphoneos-arm.deb
+Size: 2888
+Installed-Size: 3
+MD5sum: f6af002d7b9ebd60e380036f98044a34
+SHA1: 5ae056e79d562f7f4e9c1638109ae4d4dcab2e20
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.copylog.tv
+Icon: file:///Applications/Cydia.app/Sections/HTR-4.png
+Name: CopyLog (Thêm tiếng Việt)
+
+Package: com.hoangtuan.videoswipes
+Version: 1.4-2
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Thêm thao tác vuốt trình phát video
+Author: AnthoPak <anthococagne@hotmail.fr>
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 11.0), preferenceloader, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.hoangtuan.videoswipes_1.4-2_iphoneos-arm.deb
+Size: 637098
+Installed-Size: 1059
+MD5sum: ce6b862367f0f952e2d6dca93b6581f3
+SHA1: 6734880fab09c15f7db798b52703a3c24f99ace6
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.videoswipes
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: VideoSwipes (Việt hoá)
+
+Package: com.foxfort.translomatic
+Version: 2.6.9-ht
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Dịch nhanh mọi văn bản.
+Author: FoxfortMobile
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.9), applist
+Conflicts: me.pulandres.translomatic, me.pulandres.translomatice, co.xrepo.appletweakjailbreak.translomatic, net.kenhtao.translomatic, net.kenhtao.translomatic, sileoturkiye.translomatic, sileoturkiye.translomatic12, com.yourepo.mohadu31.translomatic, com.yourepo.mohadu31.translomatice, org.cydia.kiimo.translomatic, com.hackyouriphone.translomatic, com.hackyouriphone.translomatice, co.hurouftech.translomatic, me.sa3odka.translomatic
+Filename: ./debs/com.foxfort.translomatic_2.6.9-ht_iphoneos-arm.deb
+Size: 2916214
+Installed-Size: 3080
+MD5sum: 5e7a9562477b6e09d3fe3f4f00a4bde0
+SHA1: a62ed6ab5ab82c22a0dd9e604c376ae0b3bfed9d
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.foxfort.translomatic
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: Translomatic
+
+Package: com.hoangtuan.substrated
+Version: 0.9.7111
+Architecture: iphoneos-arm
+Section: System
+Description: Tiện ích đơn giản cho phép chuyển từ unc0ver sang checkra1n mà không cần phải cài đặt lại Cydia Substrate theo cách thủ công.
+Author: Halo_Michael <yc992147156@me.com>
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: dpkg, firmware(>=12.3)
+Filename: ./debs/com.hoangtuan.substrated_0.9.7111_iphoneos-arm.deb
+Size: 2534784
+MD5sum: 0f4426921a8369540ef700406c442ed5
+SHA1: 66735cb5b2c9ed8c566d7781c8faeda9ef4c8c88
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.substrated
+Icon: file:///Applications/Cydia.app/Sections/HTR-2.png
+Name: Unc0ver Support Package
+
+Package: com.hoangtuan.iGG8.3
+Version: 8.3
+Architecture: iphoneos-arm
+Section: iGG
+Description: Công cụ cho phép bạn thay đổi bộ nhớ trong ứng dụng
+Author: iggnew
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Sponsor: iggnew
+Support: Hoàng Tuân
+Priority: optional
+Filename: ./debs/com.hoangtuan.iGG8.3_8.3_iphoneos-arm.deb
+Size: 1131994
+Installed-Size: 15000
+MD5sum: c0ef7b0c25377221e3fa1ad0fe460b63
+SHA1: 85d29b76a326ec12b1ce01b1469dbd0d36fe8e1c
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.iGG8.3
+Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
+Name: iGameGuardian 8.3
+
+Package: com.hoangtuan.iGG.Stable
+Version: 12.0.4
+Architecture: iphoneos-arm
+Section: iGG
+Description: Công cụ cho phép bạn thay đổi bộ nhớ trong ứng dụng
+Author: iggnew
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Priority: optional
+Filename: ./debs/com.hoangtuan.iGG.Stable_12.0.4_iphoneos-arm.deb
+Size: 1168272
+Installed-Size: 1372
+MD5sum: 414ab4079fcdc18e2de450223f5e6bd0
+SHA1: c23843d206fd8a3044113f0aa621a2fe7f56934c
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.iGG.Stable
+Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
+Name: iGG 12 Stable (Crack)
+
+Package: com.hoangtuan.iGG.Speed
+Version: 12.0.4
+Architecture: iphoneos-arm
+Section: iGG
+Description: Công cụ cho phép bạn thay đổi bộ nhớ trong ứng dụng
+Author: iggnew
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Priority: optional
+Filename: ./debs/com.hoangtuan.iGG.Speed_12.0.4_iphoneos-arm.deb
+Size: 1168846
+Installed-Size: 1372
+MD5sum: 243f0f630e58d33fb81ac61f596557f3
+SHA1: e8820a03edd905e256e0393c9ab9547df16c4bd7
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.iGG.Speed
+Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
+Name: iGG 12 Speed (Crack)
+
+Package: com.hoangtuan.newterm2
+Version: 2.4
+Architecture: iphoneos-arm
+Section: Utilities
+Description: Một ứng dụng đầu cuối mạnh mẽ dành cho iOS
+Author: HASHBANG Productions <support@hbang.ws>
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: https://hashbang.productions/support/
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.13), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Replaces: ws.hbang.newterm, com.lint.ntarrows
+Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Filename: ./debs/com.hoangtuan.newterm2_2.4_iphoneos-arm.deb
+Size: 3201990 
+Installed-Size: 6792
+MD5sum: cac8adf751215136228d4b523718d21d
+SHA1: 8990dfc221c12a125c303227cfc4fa3338d77f63
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.newterm2
+Icon: file:///Applications/Cydia.app/Sections/HTR-5.png
+Name: NewTerm 2 (iOS 10 – 14)
+
+Package: com.hoangtuan.cloneappcmd
+Version: 1.0~b5
+Architecture: iphoneos-arm
+Section: Development
+Description: Nhân bản ứng dụng
+Author: shin-chan
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Sponsor: shin-chan
+Support: Hoàng Tuân
+Depends: com.hoangtuan.plutil, com.hoangtuan.myinst
+Filename: ./debs/com.hoangtuan.cloneappcmd_1.0~b5_iphoneos-arm.deb
+Size: 2820
+MD5sum: a8f154fd06e3ff0287efb4d45a40fb76
+SHA1: 88d681d81afea3836cd6bc14b5b29c3eed2329bf
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.cloneappcmd
+Icon: file:///Applications/Cydia.app/Sections/HTR-5.png
+Name: Clone App Command
+
+Package: com.hoangtuan.plutil
+Version: 0.2.1
+Architecture: iphoneos-arm
+Section: System
+Description: plutil as from erica sadun
+Author: Samuel Bingner
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: firmware (>=2.0)
+Conflicts: com.ericasadun.utilities
+Tag: role::hacker
+Multi-Arch: foreign
+Filename: ./debs/com.hoangtuan.plutil_0.2.1_iphoneos-arm.deb
+Size: 34128
+Installed-Size: 144
+MD5sum: 744459d4b464f90f2e54bcb0f7f747f9
+SHA1: 383318d3304999de4e1392625e1a6b6f5268734a
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.plutil
+Icon: file:///Applications/Cydia.app/Sections/HTR-2.png
+Name: plutil
+
+Package: com.hoangtuan.myinst
+Version: 5.6.0.3
+Architecture: iphoneos-arm
+Section: Archiving
+Description: Install your iPA. Using command myinst <path to .iPA>
+Author: shin-chan
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Sponsor: shin-chan
+Support: Hoàng Tuân
+Depends: mobilesubstrate, net.angelxwind.appsyncunified
+Priority: important
+Pre-Depends: firmware (>= 7.0)
+Filename: ./debs/com.hoangtuan.myinst_5.6.0.3_iphoneos-arm.deb
+Size: 92164
+MD5sum: 5817289c0ac5ee83d535b74ddedca36f
+SHA1: 15fdd36c12f7b60a8759215f3de26fa9ceaa7464
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.myinst
+Icon: file:///Applications/Cydia.app/Sections/HTR-3.png
+Name: myinst
+
+Package: com.hoangtuan.bakgrunnur
+Version: 1.5.10
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Giúp ứng dụng luôn hoạt động cả khi khoá màn hình
+Author: udevs
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.3), com.opa334.ccsupport, firmware(>=13.0), applist
+Filename: ./debs/com.hoangtuan.bakgrunnur_1.5.10_iphoneos-arm.deb
+Size: 495028
+Installed-Size: 1880
+MD5sum: 12460835416142ce384a215e722bdde4
+SHA1: 6698e5d0c85e27ce14eb81f32723f65068db49f3
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.bakgrunnur
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: Bakgrunnur
+
+Package: com.hoangtuan.hackArchero
+Version: 2.7.1
+Architecture: iphoneos-arm
+Section: Hack Apps
+Description: Archero iGMM Cheats by Laxus for iOSGods.com!
+Author: Laxus
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: mobilesubstrate
+Filename: ./debs/com.hoangtuan.hackArchero_2.7.1_iphoneos-arm.deb
+Size: 2422710
+Installed-Size: 9216
+MD5sum: 5232055d42e7f4bbe6b8c2c271791d66
+SHA1: 88f662eb69ab77ca6c9130bb3ea8275e09f9bbdf
+Homepage: https://iosgods.com
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.hackArchero
+Icon: file:///Applications/Cydia.app/Sections/HTR-9.png
+Name: Archero Cheats
+
+Package: com.hoangtuan.localiapstore
+Version: 1.4-5b
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Mua in-app trong ứng dụng miễn phí
+Author: Anondev
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Filename: ./debs/com.hoangtuan.localiapstore_1.4-5b_iphoneos-arm.deb
+Size: 71058
+Installed-Size: 235
+MD5sum: 3353d03121bbb0570fb377a6ce315901
+SHA1: fc0a3cd9b41c9d799050a4e481c56af37eb62404
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.localiapstore
+Sileodepiction: https://hoangtuantk.github.io/sileo-depictions/?p=com.hoangtuan.localiapstore
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: LocaliAPStore
+
+Package: com.hoangtuan.localiapstore13
+Version: 0.0.2
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Mua in-app trong ứng dụng miễn phí
+Author: pxcex
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.hoangtuan.localiapstore13_0.0.2_iphoneos-arm.deb
+Size: 3920
+Installed-Size: 136
+MD5sum: 6ac0fb632fea47859a43904923d0da01
+SHA1: 4153d0642c0a8845a7c1fca46b205591fd30d76c
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.localiapstore13
+Sileodepiction: https://hoangtuantk.github.io/sileo-depictions/?p=com.hoangtuan.localiapstore13
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: LocaliAPStore13
+
+Package: com.hoangtuan.bypasstechcombank
+Version: 0.0.6
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Chặn phát Hiện Jailbreak cho App Ngân Hàng Techcombank - F@st Mobile.
+Author: Kan
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: mobilesubstrate
+Filename: ./debs/com.hoangtuan.bypasstechcombank_0.0.6_iphoneos-arm.deb
+Size: 3418
+Installed-Size: 67
+MD5sum: d4ea40e096a68f47ce92bc727477755c
+SHA1: 051cd5a0d0bbfd93d296b70a848ee392da68bc4d
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.bypasstechcombank
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: Bypass Techcombank
+
+Package: com.hoangtuan.bypassmbbank
+Version: 1.2.3
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Chặn phát hiện Jailbreak App Ngân Hàng MBBank
+Author: IPALibrary 
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: mobilesubstrate
+Filename: ./debs/com.hoangtuan.bypassmbbank_1.2.3_iphoneos-arm.deb
+Size: 258208 
+Installed-Size: 644
+MD5sum: c8701bd1c0151cf436acccac46e45a14
+SHA1: aa25fecf1e1ce51775e8358c302c735eb6648af9
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.bypassmbbank
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: Bypass MBBank
+
+Package: com.hoangtuan.wifipasswords
+Version: 3.0.1
+Architecture: iphoneos-arm
+Section: Utilities
+Description: hiển thị mật khẩu wifi đã nhập trước đó
+   Ứng dụng này hiển thị mọi mật khẩu WiFi bạn đã từng nhập.Rất tiện dụng nếu bạn quên mật khẩu và cần kết nối thiết bị khác, hoặc cho bạn bè biết mật khẩu của quán cà phê mà không cần hỏi lại câu hỏi đáng xấu hổ đó.Nhấn giữ vào mật khẩu để sao chép vào khay nhớ tạm.
+Author: Malcolm Hall <indiekiduk@gmail.com>
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+dev: malcolmhall
+Support: Hoàng Tuân
+Depends: firmware (>= 6.0)
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14,
+Filename: ./debs/com.hoangtuan.wifipasswords_3.0.1_iphoneos-arm.deb
+Size: 1270424
+Installed-Size: 4112
+MD5sum: 1fef3e1f092799f4c9b63d44727ff6fd
+SHA1: ce779072f4a4360033361df9334414c818a7ecdf
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.wifipasswords
+Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
+Name: WiFi Passwords
+
+Package: com.hoangtuan.appstoreplusplus
+Version: 0.9.14-8
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Cho phép bạn hạ cấp/nâng cấp ứng dụng trong AppStore trên iOS 11-14.
+Author: CokePokes
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Priority: optional
+Filename: ./debs/com.hoangtuan.appstoreplusplus_0.9.14-8_iphoneos-arm.deb
+Size: 2941722 
+MD5sum: 6e0641618b200920f50a7cf890ebe625
+SHA1: e35475143d9d71e43f9b05ae6a6e05ec9d1575b6
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.appstoreplusplus
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: AppStore++
+
+Package: com.hoangtuan.powerselector11
+Version: 1.3.0
+Architecture: iphoneos-arm
+Section: Utilities
+Description: The power supply relation of a device is operated.
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+dev: ichitaso
+Sponsor: thebigboss.org <http://thebigboss.org>
+Support: Hoàng Tuân
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Pre-Depends: firmware (>= 11.0)
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
+Filename: ./debs/com.hoangtuan.powerselector11_1.3.0_iphoneos-arm.deb
+Size: 381930 
+Installed-Size: 2292
+MD5sum: ef32bea6fc466254fe8d4f78ef6fa4d1
+SHA1: d19d63388524f7d0ee94b3ecc112d9ccbb107ddf
+Homepage: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.powerselector11
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.powerselector11
+Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
+Name: PowerSelector (iOS 11 to 14)
+
+Package: com.hoangtuan.spotilife
+Version: 1.3a
+Architecture: iphoneos-arm
+Section: Hack Apps
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Author: julioverne
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: mobilesubstrate
+Filename: ./debs/com.hoangtuan.spotilife_1.3a_iphoneos-arm.deb
+Size: 200560
+Installed-Size: 626
+MD5sum: 4448e0d49b98f1bedc038ac8704a5f83
+SHA1: bb8503be74dc607b9268d34baaff41ccb73c4b87
+Homepage: https://hoangtuantk.github.io
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.spotilife
+Icon: file:///Applications/Cydia.app/Sections/HTR-9.png
+Name: Spotify Premium
+
+Package: com.hoangtuan.flyjbx
+Version: 1.1.11
+Architecture: iphoneos-arm
+Section: Utilities
+Author: XsF1re
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: mobilesubstrate
+Conflicts: kr.xsf1re.flyjb
+Filename: ./debs/com.hoangtuan.flyjbx_1.1.11_iphoneos-arm.deb
+Size: 1779440
+Installed-Size: 2796
+MD5sum: 4e6446b8cc9a22267d73e3f575d12e0b
+SHA1: 9a3285748e656f232c156b88b11899569dd3ffc3
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.flyjbx
+Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
+Name: FlyJB X (Việt Hoá)
+
+Package: com.foxfort.portraitxi
+Version: 4.0.2-ht
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Single camera portrait mode
+Author: FoxfortMobile
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.9)
+Filename: ./debs/com.foxfort.portraitxi_4.0.2-ht_iphoneos-arm.deb
+Size: 14343324
+Installed-Size: 15312
+MD5sum: 1cd5aec1c9f46b4557fb5b9d76632679
+SHA1: 1eee8ffc23bcdf9239c8c0cedb9916b3379d894a
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.foxfort.portraitxi
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: PortraitXI
+
+Package: me.tomt000.copylog
+Version: 1.5.3-ht
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Clipboard history manager for iOS!
+Author: TomT000
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: mobilesubstrate, preferenceloader 
+Filename: ./debs/me.tomt000.copylog_1.5.3-ht_iphoneos-arm.deb
+Size: 2074014
+Installed-Size: 4392
+MD5sum: 57fe971fc1ff5ee5ce388ae933cda558
+SHA1: 5c1b91735a141137f196effc9ff92fd8aa3a3d60
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=me.tomt000.copylog
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: CopyLog
+
+Package: com.hoangtuan.dlgmemorinjected
+Version: 11.3.1
+Architecture: iphoneos-arm
+Section: Utilities
+Description: Cheat giá trị cho ứng dụng
+Author: AnonymousxiosdeV <aligamer889@gmail.com>
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.yourepo.ghacks.dlgmemorinjected
+Filename: ./debs/com.hoangtuan.dlgmemorinjected_11.3.1_iphoneos-arm.deb
+Size: 264438
+Installed-Size: 701
+MD5sum: b71872868f1f46e6d30730b162dedea6
+SHA1: e93f041c89205b98dacf4462349f74f637748ec4
+Homepage: https://hoangtuantk.github.io
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.dlgmemorinjected
+Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
+Name: DLGMemor Injected
+
+Package: com.hoangtuan.appshacks
+Version: 4.4
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Hack Vip cho các ứng dụng
+Author: hmodei96
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.hoangtuan.appshacks_4.4_iphoneos-arm.deb
+Size: 3143488
+Installed-Size: 5120
+MD5sum: 462540039376c0e233437b1850699cb8
+SHA1: a2242ed74f68152d5474a3a9e7d3bb226403a87d
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.appshacks
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: Apps Hacks
