@@ -1,0 +1,21 @@
+<package>
+	<id>com.hoangtuan.appshacks</id>
+	<name>Hoàng Tuân Repo</name>
+	<version>4.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>14.5</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>ws.hbang.common</package>
+	</dependencies>	
+	<descriptionlist>
+		<description>
+			<![CDATA[
+			<b>Hack VIP cho các ứng dụng</b>
+			]]>
+	</descriptionlist>
+</package>

@@ -546,3 +546,22 @@ Homepage: https://hoangtuantk.github.io
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.dlgmemorinjected
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
 Name: DLGMemor Injected
+
+Package: com.hoangtuan.appshacks
+Version: 4.4
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Hacks Vip cho ứng dụng
+Author: hmodei96
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.hoangtuan.appshacks_4.4_iphoneos-arm.deb
+Size: 3143404
+Installed-Size: 5120
+MD5sum: f0b1ee56f0f68f7e1f1da0fa63b90ee8
+SHA1: 904dbc22f97764553369abd3b6748af0c19a7a86
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.appshacks
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: Apps Hacks
