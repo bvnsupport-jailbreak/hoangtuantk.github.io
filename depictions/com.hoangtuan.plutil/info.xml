@@ -11,7 +11,5 @@
 		<package>firmware (>=2.0)</package>
 		<package>mobilesubstrate</package>
 	</dependencies>	
-	<descriptionlist>
-		<description>plutil as from erica sadun</description>
-	</descriptionlist>
+
 </package>
