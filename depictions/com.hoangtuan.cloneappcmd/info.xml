@@ -11,6 +11,10 @@
 	<descriptionlist>
 		<description>
 			<![CDATA[
+			<b>&emsp;&emsp;Nhân bản ứng dùng bằng Dấu nhắc lệnh/Command Prompt</b>
+			]]>
+		<description>
+			<![CDATA[
 			<b>Yêu cầu:</b><br/>
 			- Cài Tweak AppSync Unified nguồn: cydia.akemi.ai <br/>
 			- Tweak dùng để gõ lệnh Terminal. (VD: Tweak NewTerm)
