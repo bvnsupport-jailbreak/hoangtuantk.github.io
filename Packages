@@ -40,7 +40,7 @@ Icon: file:///Applications/Cydia.app/Sections/HTR-4.png
 Name: CyDown (Thêm tiếng Việt)
 
 Package: com.hoangtuan.cputool.tv
-Version: 1.2
+Version: 1.9
 Architecture: iphoneos-arm
 Section: Localization
 Description: Thêm ngôn ngữ tiếng Việt cho CPUTool
@@ -48,11 +48,11 @@ Author: Hoàng Tuân <trongtuan198@gmail.com>
 Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Filename: ./debs/com.hoangtuan.cputool.tv_1.2_iphoneos-arm.deb
-Size: 2538
-MD5sum: 51ce63e5aedc5962bfdb76786903c3ac
-SHA1: ab6d927d21df9d9e9057f25196fa9dcc26823265
-SHA256: f09db51188121e4d801ae3a3fcd10f0e6eeb0baf35999278834077cb94eb319d
-SHA512: f13266367aa04c05bd664d27e8b99a2ae63a45033932ed69f030df621930598029346cab0115e19588de43c0d7b76ce464c71008e25d45663fd3b1814ca1bc8a
+Size: 2650
+MD5sum: 0ba6d70ffd0c23360b31e2120d3bd5c7
+SHA1: d9e1f8120b9f1e661f87ec98d3364241c0b2abcf
+SHA256: a1bb7c69bcdc2c7046072bd50f5863cbd8ba6e8cecdc14386712d718c5ccd674
+SHA512: a5d2475c44f5efa6fd19b1056a9333db4b465f96c214768f8829f4ba57a281542d197a053932097a803f10270d14b08d23b67d54fc656d306cca6cb6ff9cd11f
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.cputool.tv
 Icon: file:///Applications/Cydia.app/Sections/HTR-4.png
