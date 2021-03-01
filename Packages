@@ -526,3 +526,23 @@ Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=me.tomt000.copylog
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: CopyLog
+
+Package: com.hoangtuan.dlgmemorinjected
+Version: 11.3.1
+Architecture: iphoneos-arm
+Section: Utilities
+Description: Cheat giá trị cho ứng dụng
+Author: AnonymousxiosdeV <aligamer889@gmail.com>
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.yourepo.ghacks.dlgmemorinjected
+Filename: ./debs/com.hoangtuan.dlgmemorinjected_11.3.1_iphoneos-arm.deb
+Size: 264276
+Installed-Size: 701
+MD5sum: 451d68746d1957829f086d08f4c1faa1
+SHA1: 3955367e25dc4ff4f02e2311a64410309d4404a6
+Homepage: https://hoangtuantk.github.io
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.dlgmemorinjected
+Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
+Name: DLGMemor Injected
