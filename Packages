@@ -499,10 +499,10 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.9)
 Filename: ./debs/com.foxfort.portraitxi_4.0.1-ht_iphoneos-arm.deb
-Size: 14383264
+Size: 14383294
 Installed-Size: 15328
-MD5sum: 207647dd236c22aa73d4295545dc29ac
-SHA1: 3d2276a777674281aa7604a8d0d2fb3b991e7f4a
+MD5sum: 637dfcbd51880b26168821b6670bb3be
+SHA1: 0acfbd22ca9f1a7fda17d01380237be03de1e317
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.foxfort.portraitxi
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
