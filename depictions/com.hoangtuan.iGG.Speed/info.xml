@@ -1,0 +1,18 @@
+<package>
+	<id>com.hoangtuan.iGG.Speed</id>
+	<name>Hoàng Tuân Repo</name>
+	<version>12.0.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>13.7</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>	
+	<descriptionlist>
+		<description>Hỗ trợ iOS 11.0 ~ iOS 13.7</description>
+		<description>Công cụ cho phép bạn thay đổi bộ nhớ trong ứng dụng</description>
+	</descriptionlist>
+</package>
