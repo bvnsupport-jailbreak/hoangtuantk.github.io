@@ -491,7 +491,7 @@ Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
 Name: FlyJB X (Việt Hoá)
 
 Package: com.foxfort.portraitxi
-Version: 4.0.1-ht
+Version: 4.0.2-ht
 Architecture: iphoneos-arm
 Section: Tweaks
 Description: Single camera portrait mode
@@ -499,11 +499,11 @@ Author: FoxfortMobile
 Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.9)
-Filename: ./debs/com.foxfort.portraitxi_4.0.1-ht_iphoneos-arm.deb
-Size: 14383294
-Installed-Size: 15328
-MD5sum: 637dfcbd51880b26168821b6670bb3be
-SHA1: 0acfbd22ca9f1a7fda17d01380237be03de1e317
+Filename: ./debs/com.foxfort.portraitxi_4.0.2-ht_iphoneos-arm.deb
+Size: 14343324
+Installed-Size: 15312
+MD5sum: 1cd5aec1c9f46b4557fb5b9d76632679
+SHA1: 1eee8ffc23bcdf9239c8c0cedb9916b3379d894a
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.foxfort.portraitxi
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
