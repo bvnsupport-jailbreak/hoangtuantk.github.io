@@ -16,7 +16,11 @@
 		<description>
 			<![CDATA[
 			- Đây là file deb chính thức từ nguồn Packix <br>
-			- Máy đã <b>Kích hoạt</b> bản quyền sẵn mới có thể dùng được <br><br>
+			- Máy đã <b>Kích hoạt</b> bản quyền sẵn mới có thể dùng được <br>
+			]]>
+		</description>
+		<description>
+			<![CDATA[
 			- Do để nguyên Package nên Mình thêm ký tự <b>-ht</b> vào phần phiên bản để phân biệt với nguồn Packix <br>
 			- Ấn vào Giảm cấp, phiên bản nào không có <b>-ht</b> thì đó là file của nguồn Packix
 			]]>
