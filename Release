@@ -6,9 +6,3 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: Kho lưu trữ Cydia của Hoàng Tuân
-MD5Sum:
- 194a4a59394581a414068aab3f4f6bd3 26855 Packages
- 959d035478d80d8c2090207a6aca1185 7966 Packages.bz2
-SHA1:
- eb8a3096452c841e6d7f0fcdcd535c6728776487 26855 Packages
- afb11ccf849aaef5f02b8a6b7faf89eb2815d8ad 7966 Packages.bz2
