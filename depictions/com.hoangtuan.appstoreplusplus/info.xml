@@ -16,11 +16,11 @@
 		<description>Hỗ trợ iOS 11.0 - 14.5</description>
 		<description>
 			<![CDATA[
-			<b>Các tính năng:</b><br/>
+			<b>Các tính năng:</b><br>
 			<ul>
-				<li>Cho phép bạn hạ cấp/nâng cấp ứng dụng trong AppStore.</li> <br/>
-				<li>Chặn cập nhật.</li> <br/>
-				<li>Vượt qua giới hạn tải xuống 200MB.</li> <br/>
+				<li>Cho phép bạn hạ cấp/nâng cấp ứng dụng trong AppStore.</li> <br>
+				<li>Chặn cập nhật ứng dụng.</li> <br>
+				<li>Không bị giới hạn tải xuống ứng dụng lớn hơn 200MB.</li> <br>
 				<li>Tắt quảng cáo tìm kiếm và tắt tính năng làm mỏng ứng dụng.</li>
 			</ul>
 			]]>

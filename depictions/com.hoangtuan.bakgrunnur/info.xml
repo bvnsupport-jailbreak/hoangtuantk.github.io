@@ -16,6 +16,11 @@
 		<package>mobilesubstrate (>= 0.9.5000)</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Tweak giúp ứng dụng luôn chạy kể cả khi tắt màn hình</description>
+		<description></description>
+		<description>
+			<![CDATA[
+			Tweak giúp ứng dụng luôn chạy kể cả khi tắt màn hình (Có thể chỉnh được thời gian chạy)
+			]]>
+		</description>
 	</descriptionlist>
 </package>

@@ -22,16 +22,16 @@
 		</description>
 		<description>
 			<![CDATA[
-			UserSpace Reboot - Khởi động lại không gian người dùng: kernel_task không được khởi động lại vì vậy thiết bị vẫn còn Jailbreak.<br/>
+			UserSpace Reboot - Khởi động lại không gian người dùng: kernel_task không được khởi động lại vì vậy thiết bị vẫn còn Jailbreak. <br>
 			<ul>
-				<li>chỉ hỗ trợ checkra1n, unc0ver và odysseyra1n (mặc định là tắt).</li>
+				<li>Chỉ hỗ trợ checkra1n, unc0ver và odysseyra1n (mặc định là tắt).</li>
 				<li>Nó có thể không hoạt động bình thường tùy thuộc vào tình trạng thiết bị.</li>
 			</ul>
 			]]>
 		</description>
 		<description>
 			<![CDATA[
-			Bật libhooker &amp; OpenSSH: libhoker và OpenSSH có thể bị vô hiệu hóa sau khi thực hiện UserSpace Reboot, vì vậy hãy bật từng cái từ ứng dụng.<br/>
+			Bật libhooker &amp; OpenSSH: libhoker và OpenSSH có thể bị vô hiệu hóa sau khi thực hiện UserSpace Reboot, vì vậy hãy bật từng cái từ ứng dụng. <br>
 			<ul>
 				<li>chỉ hỗ trợ  odysseyra1n.</li>
 			</ul>
