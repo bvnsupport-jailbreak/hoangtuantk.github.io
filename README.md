@@ -1,13 +1,13 @@
 # Hoàng Tuân Repo
 
-Cydia repository
+Kho lưu trữ Cydia - Jailbreak
 
-Add this url to Cydia sources to use my repository:
+Thêm url này vào nguồn Cydia để sử dụng kho lưu trữ của tôi:
 
 ```center
 https://hoangtuantk.github.io
 ```
 
-## [Click to Add repo to Cydia](https://cydia.saurik.com/api/share#?source=https://hoangtuantk.github.io)
+## [Nhấp để Thêm repo vào Cydia](https://cydia.saurik.com/api/share#?source=https://hoangtuantk.github.io)
 
 Copyright by Hoàng Tuân © 2021
