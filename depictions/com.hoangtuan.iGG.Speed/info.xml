@@ -14,5 +14,13 @@
 	<descriptionlist>
 		<description>Hỗ trợ iOS 11.0 ~ iOS 13.7</description>
 		<description>Công cụ cho phép bạn thay đổi bộ nhớ trong ứng dụng</description>
+		<description>
+			<![CDATA[
+			<ul>
+				<li>Bản Stable tối ưu về sự ổn định</li></br>
+				<li>Bản Speed tối ưu về tốc độ</li>	
+			</ul>
+			]]>
+		</description>
 	</descriptionlist>
 </package>
