@@ -69,12 +69,12 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: me.tomt000.copylog
 Filename: ./debs/com.hoangtuan.copylog.tv_1.5.3_iphoneos-arm.deb
-Size: 2804
+Size: 2792 
 Installed-Size: 3
-MD5sum: 78a2265862bb206354410a88cac93ed8
-SHA1: 1822718f77f0ec6848bbdc72a1d908ad90593fc3
-SHA256: 81c05f728dc7c9e3801152dee59b0009905a8a72fff8b8430140fabb3257a4a6
-SHA512: 312c71c10ec92fe7bc3ce2fbdba2f92a08497fea709000569d6a391422afa28f8f7a197806b09c9ba2d5347dd1fd89f15264e7c294fd4011623f218a89dea71f
+MD5sum: 0df67f2797627bc1c52dddde21465ed2
+SHA1: dafb666fcc3aac78e9fdc4190eb482afdb900f76
+SHA256: 34e0dfd22d5ceecb089bb744805985eecae9758312c593fed4d501b042d4811a
+SHA512: f7eeb33b4ba0a93a53ec992ef810f7b5a3389492af8d587def7bb8455b0d2c13fe1463f084d30874be15df7f795acab89e3b43c7db792b3eaa34b2ab28cd505a
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.copylog.tv
 Icon: file:///Applications/Cydia.app/Sections/HTR-4.png
