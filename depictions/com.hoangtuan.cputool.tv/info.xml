@@ -9,7 +9,6 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
-		<package>jp.soh.ct</package>
 	</dependencies>
 	<descriptionlist>
 		<description>Thêm ngôn ngữ tiếng Việt cho CPUTool.</description>

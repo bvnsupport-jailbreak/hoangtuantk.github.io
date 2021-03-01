@@ -9,7 +9,6 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
-		<package>me.tomt000.copylog</package>
 	</dependencies>
 	<descriptionlist>
 		<description>Thêm ngôn ngữ tiếng Việt cho CopyLog.</description>

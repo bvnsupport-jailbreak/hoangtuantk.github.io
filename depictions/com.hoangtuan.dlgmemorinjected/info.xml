@@ -1,0 +1,28 @@
+<package>
+	<id>com.hoangtuan.dlgmemorinjected</id>
+	<name>Hoàng Tuân Repo</name>
+	<version>11.3.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>13.7</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>applist</package>
+	</dependencies>	
+	<descriptionlist>
+		<description>
+			<![CDATA[
+			<b>DLGMemorInjected</b>
+			]]>
+		</description>
+		<description>
+			<![CDATA[
+			&emsp; Tiện ích cho phép bạn thay đổi bộ nhớ trong ứng dụng. Sau khi cài đặt, hãy vào <b>Cài đặt</b>, đi tới <b>DLGMemorInjected</b> và chọn ứng dụng bạn muốn hack bộ nhớ.
+			]]>
+		</description>
+	</descriptionlist>
+</package>
