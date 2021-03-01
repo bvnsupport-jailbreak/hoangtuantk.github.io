@@ -250,29 +250,6 @@ Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.cloneappcmd
 Icon: file:///Applications/Cydia.app/Sections/HTR-5.png
 Name: Clone App Command
 
-Package: com.hoangtuan.myinst
-Version: 5.6.0.3
-Architecture: iphoneos-arm
-Section: Archiving
-Description: Install your iPA. Using command myinst <path to .iPA>
-Author: shin-chan
-Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
-Sponsor: shin-chan
-Support: Hoàng Tuân
-Depends: mobilesubstrate, net.angelxwind.appsyncunified
-Priority: important
-Pre-Depends: firmware (>= 7.0)
-Filename: ./debs/com.hoangtuan.myinst_5.6.0.3_iphoneos-arm.deb
-Size: 91994
-MD5sum: 556ca30d84ef8193d58e6da9067d35e0
-SHA1: e0cee917e26e6a7da99cfbb74d6b377079f0c28c
-SHA256: e6aaa6fff49cae50c958ce96be5583d8fde4beb2ad9f3781dfc2b36529ea3487
-SHA512: a87877f73002508ef71b6d7b4e137e7e5d97c5f75cb22cd921bae3b1ba17a57c0b33c3e8e3b18416c4a1fba33a7b772b035d1b8f18787a5b29edec80eaa97c60
-Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.myinst
-Icon: file:///Applications/Cydia.app/Sections/HTR-3.png
-Name: myinst
-
 Package: com.hoangtuan.plutil
 Version: 0.2.1
 Architecture: iphoneos-arm
@@ -296,6 +273,29 @@ Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.plutil
 Icon: file:///Applications/Cydia.app/Sections/HTR-2.png
 Name: plutil
+
+Package: com.hoangtuan.myinst
+Version: 5.6.0.3
+Architecture: iphoneos-arm
+Section: Archiving
+Description: Install your iPA. Using command myinst <path to .iPA>
+Author: shin-chan
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Sponsor: shin-chan
+Support: Hoàng Tuân
+Depends: mobilesubstrate, net.angelxwind.appsyncunified
+Priority: important
+Pre-Depends: firmware (>= 7.0)
+Filename: ./debs/com.hoangtuan.myinst_5.6.0.3_iphoneos-arm.deb
+Size: 91994
+MD5sum: 556ca30d84ef8193d58e6da9067d35e0
+SHA1: e0cee917e26e6a7da99cfbb74d6b377079f0c28c
+SHA256: e6aaa6fff49cae50c958ce96be5583d8fde4beb2ad9f3781dfc2b36529ea3487
+SHA512: a87877f73002508ef71b6d7b4e137e7e5d97c5f75cb22cd921bae3b1ba17a57c0b33c3e8e3b18416c4a1fba33a7b772b035d1b8f18787a5b29edec80eaa97c60
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.myinst
+Icon: file:///Applications/Cydia.app/Sections/HTR-3.png
+Name: myinst
 
 Package: com.hoangtuan.bakgrunnur
 Version: 1.5.10
