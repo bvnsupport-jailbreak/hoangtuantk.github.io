@@ -89,12 +89,12 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 11.0), preferenceloader, ws.hbang.common (>= 1.11)
 Filename: ./debs/com.hoangtuan.videoswipes_1.4-2_iphoneos-arm.deb
-Size: 636866
+Size: 637010
 Installed-Size: 1059
-MD5sum: 7df397a51b22bec3e3e1e2055ed35b00
-SHA1: 842b5a4717fb576f8c412e106603a058517fed6a
-SHA256: 05399162f981f105140b5ec3dddda045f5cb61985a7491dec0fba7184e01f624
-SHA512: 0a032dac7b19883ef4ecc56c3551febadc1d38cd2b7ae61860393c63b75bab7532aa871f5caa1dc347c5360e7f8c77921609e9ecc4a1b003621ef3d889fc8d0d
+MD5sum: a55f189b6486ad72effcbbac5870c19f
+SHA1: 95695db00eaee26b12a4fa3f48f89a867f773918
+SHA256: 7cc1382eb90366839b9f68eb762cc42c757b868b08c0586f035539b9bcf7c95d
+SHA512: f5b63c102fcf9a15c2ecd2d773efe4ac05d7714a6d03f4d60ea8f7891efa09d4c4e2aeee4e14f2492227843645c00c9c0d95ff15596dff7338318bb2c1d7586b
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.videoswipes
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
