@@ -49,6 +49,7 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Filename: ./debs/com.hoangtuan.cputool.tv_1.9_iphoneos-arm.deb
 Size: 2650
+Installed-Size: 3
 MD5sum: 0ba6d70ffd0c23360b31e2120d3bd5c7
 SHA1: d9e1f8120b9f1e661f87ec98d3364241c0b2abcf
 SHA256: a1bb7c69bcdc2c7046072bd50f5863cbd8ba6e8cecdc14386712d718c5ccd674
