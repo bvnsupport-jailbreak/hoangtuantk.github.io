@@ -101,10 +101,10 @@ Support: Hoàng Tuân
 Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.9), applist
 Conflicts: me.pulandres.translomatic, me.pulandres.translomatice, co.xrepo.appletweakjailbreak.translomatic, net.kenhtao.translomatic, net.kenhtao.translomatic, sileoturkiye.translomatic, sileoturkiye.translomatic12, com.yourepo.mohadu31.translomatic, com.yourepo.mohadu31.translomatice, org.cydia.kiimo.translomatic, com.hackyouriphone.translomatic, com.hackyouriphone.translomatice, co.hurouftech.translomatic, me.sa3odka.translomatic
 Filename: ./debs/com.foxfort.translomatic_2.6.8-ht_iphoneos-arm.deb
-Size: 2906368
+Size: 2906520
 Installed-Size: 3064
-MD5sum: d3d6d01eb7c9aad1c4184019ef873c56
-SHA1: a5c961f71fbcb5e8162a2a6eb50f9bcacfc9a8a4
+MD5sum: e27a32779fd17a037045d5c00a486975
+SHA1: 48c430b394e32cf324dc339a6bc40f9e75d405d6
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.foxfort.translomatic
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
@@ -218,9 +218,9 @@ Sponsor: shin-chan
 Support: Hoàng Tuân
 Depends: com.hoangtuan.plutil, com.hoangtuan.myinst
 Filename: ./debs/com.hoangtuan.cloneappcmd_1.0~b5_iphoneos-arm.deb
-Size: 2658
-MD5sum: c4f5eb928a3b0ec5e69b0688aa79d692
-SHA1: c52ce1b580a38a650db2a39b7a9edc0112d2e7a2
+Size: 2794
+MD5sum: eb1006905e690a401287cdcd6061f7e4
+SHA1: 3d6fa0d380d6a8d546061bbd11c53264a01921cd
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.cloneappcmd
 Icon: file:///Applications/Cydia.app/Sections/HTR-5.png
@@ -279,10 +279,10 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.3), com.opa334.ccsupport, firmware(>=13.0), applist
 Filename: ./debs/com.hoangtuan.bakgrunnur_1.5.10_iphoneos-arm.deb
-Size: 494958
+Size: 495038
 Installed-Size: 1880
-MD5sum: 0143fd536280fa4c37ca84338b37f43f
-SHA1: 67860d512e4f3c1bf4a248ebbc802d823d595c68
+MD5sum: dc84a591c2385c7e7fd52466a6f3194c
+SHA1: 7dbcd611f374ecd22b7862983812df08b55a7103
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.bakgrunnur
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
@@ -356,10 +356,10 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: mobilesubstrate
 Filename: ./debs/com.hoangtuan.bypasstechcombank_0.0.6_iphoneos-arm.deb
-Size: 3334
+Size: 3386
 Installed-Size: 67
-MD5sum: 452bb657e431f829c61ce4be3befae8b
-SHA1: dbd761b80cb1a693db47d49d9a933433fde75937
+MD5sum: fe52750e807debff93ebeba00205db7e
+SHA1: 7b420643925506b678b744dbf0a70572a373323b
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.bypasstechcombank
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
@@ -499,10 +499,10 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.9)
 Filename: ./debs/com.foxfort.portraitxi_4.0.1-ht_iphoneos-arm.deb
-Size: 14383124
+Size: 14383264
 Installed-Size: 15328
-MD5sum: fa2319c8975084530ca6d7ccd6dacb1d
-SHA1: 99f95fdb8f41c3833d10b42f798beff275c7c211
+MD5sum: 207647dd236c22aa73d4295545dc29ac
+SHA1: 3d2276a777674281aa7604a8d0d2fb3b991e7f4a
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.foxfort.portraitxi
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
