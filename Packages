@@ -27,9 +27,9 @@ Author: Hoàng Tuân <trongtuan198@gmail.com>
 Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Filename: ./debs/com.hoangtuan.cydown.tv_1.0_iphoneos-arm.deb
-Size: 5994
-MD5sum: ba4cc913863b1649ce042e44fc6e758b
-SHA1: 623776074684d9138f09be92b032111b300a1212
+Size: 6126
+MD5sum: 8f6462d08be1e24b51b9499d9ab6a3f0
+SHA1: 50406e0b40022403f168ae99f0120af301c9d817
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.cydown.tv
 Icon: file:///Applications/Cydia.app/Sections/HTR-4.png
@@ -44,10 +44,10 @@ Author: Hoàng Tuân <trongtuan198@gmail.com>
 Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Filename: ./debs/com.hoangtuan.cputool.tv_1.9_iphoneos-arm.deb
-Size: 2650
+Size: 2712
 Installed-Size: 3
-MD5sum: 0ba6d70ffd0c23360b31e2120d3bd5c7
-SHA1: d9e1f8120b9f1e661f87ec98d3364241c0b2abcf
+MD5sum: 32e0294861ecd6d796dafb2aa89ed307
+SHA1: 25a4b73ea362ce8b03b20c61ed1a092918d9a931
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.cputool.tv
 Icon: file:///Applications/Cydia.app/Sections/HTR-4.png
@@ -62,10 +62,10 @@ Author: Hoàng Tuân <trongtuan198@gmail.com>
 Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Filename: ./debs/com.hoangtuan.copylog.tv_1.5.3_iphoneos-arm.deb
-Size: 2802
+Size: 2858
 Installed-Size: 3
-MD5sum: 7bf55a2347ba675ed98d2a1a4708307f
-SHA1: 104cf0e78451a306d5e910cd3bb7609febd7f7cb
+MD5sum: 8e1b21aa369bb2a5fd5c2a73bc387699
+SHA1: f9b856d0c9c53b8ef3776370a69f01ff9a23ef98
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.copylog.tv
 Icon: file:///Applications/Cydia.app/Sections/HTR-4.png
@@ -480,10 +480,10 @@ Support: Hoàng Tuân
 Depends: mobilesubstrate
 Conflicts: kr.xsf1re.flyjb
 Filename: ./debs/com.hoangtuan.flyjbx_1.1.11_iphoneos-arm.deb
-Size: 1779346
+Size: 1779440
 Installed-Size: 2796
-MD5sum: 4aa0331d772df0956b5ebb5da2f6976c
-SHA1: 93be53657fae779d46b2bbd5601f33bb700726a4
+MD5sum: 4e6446b8cc9a22267d73e3f575d12e0b
+SHA1: 9a3285748e656f232c156b88b11899569dd3ffc3
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.flyjbx
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
@@ -538,10 +538,10 @@ Support: Hoàng Tuân
 Depends: mobilesubstrate, preferenceloader, applist
 Conflicts: com.yourepo.ghacks.dlgmemorinjected
 Filename: ./debs/com.hoangtuan.dlgmemorinjected_11.3.1_iphoneos-arm.deb
-Size: 264276
+Size: 264410
 Installed-Size: 701
-MD5sum: 451d68746d1957829f086d08f4c1faa1
-SHA1: 3955367e25dc4ff4f02e2311a64410309d4404a6
+MD5sum: 54df7c01fb1e3fcf25c50915d8c593ea
+SHA1: 81285e542dda9b3f33e9ac30c1dba44c00cc7d5b
 Homepage: https://hoangtuantk.github.io
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.dlgmemorinjected
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
