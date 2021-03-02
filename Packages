@@ -622,3 +622,43 @@ Homepage: https://iosgods.com
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.Lightroom
 Icon: file:///Applications/Cydia.app/Sections/HTR-9.png
 Name: Adobe Lightroom Photo Editor Cheats
+
+Package: com.hoangtuan.filza
+Version: 3.8.1-30
+Architecture: iphoneos-arm
+Section: Utilities
+Description: Trình quản lý tập tin
+Author: TIGI Software
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit, com.hoangtuan.filza64bit
+Filename: ./debs/com.hoangtuan.filza_3.8.1-30_iphoneos-arm.deb
+Size: 12984998
+Installed-Size: 28463
+MD5sum: ca598f82ada7ef741ed2ec9c20bd80b9
+SHA1: a50678b70c8b56382a7f31202a103a799b662e43
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.filza
+Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
+Name: Filza File Manager
+
+Package: com.hoangtuan.filza64bit
+Version: 3.8.1-30
+Architecture: iphoneos-arm
+Section: Utilities
+Description: Trình quản lý tập tin
+Author: TIGI Software
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza, com.hoangtuan.filza
+Filename: ./debs/com.hoangtuan.filza64bit_3.8.1-30_iphoneos-arm.deb
+Size: 8424380
+Installed-Size: 18225
+MD5sum: 76e3c7e74bf2290f3276dec09223c296
+SHA1: 868970d1fa50f404077e971f38d51104c51867cb
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.filza64bit
+Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
+Name: Filza File Manager 64bit

@@ -4,7 +4,8 @@
 	<version>1.6.1-4</version>
 	<compatibility>
 		<firmware>
-			<miniOS>7.0</miniOS>
+			<miniOS>8.0</miniOS>
+			<maxiOS>14.5</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
