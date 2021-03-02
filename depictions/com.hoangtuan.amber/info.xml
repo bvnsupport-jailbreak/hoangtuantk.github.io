@@ -15,9 +15,13 @@
 	<descriptionlist>
 		<description>
 			<![CDATA[
-			Tinh chỉnh để cho phép cài đặt Đèn LED màu vàng hoặc cả Đèn LED màu trắng và vàng. . <br>
-			Vào <b>Cài đặt</b>, đi đến <b>Trung Tâm điều khiển</b> và thêm <b>Amber</b> để sử dụng
+			&emsp; Tinh chỉnh để cho phép cài đặt Đèn LED màu vàng hoặc cả Đèn LED màu trắng và vàng. .
 			]]>
 		</description>
+		<description>
+			<![CDATA[
+			&emsp; Vào <b>Cài đặt</b>, đi đến <b>Trung Tâm điều khiển</b> và thêm <b>Amber</b> để sử dụng
+			]]>
+		</description>			
 	</descriptionlist>
 </package>
