@@ -1,0 +1,20 @@
+<package>
+	<id>com.hoangtuan.appsmanager</id>
+	<name>Hoàng Tuân Repo</name>
+	<version>1.6.1-4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>	
+	<descriptionlist>
+		<description>
+			<![CDATA[
+			<b>Công cụ để SAO LƯU, KHÔI PHỤC Dữ liệu ứng dụng cho các Ứng dụng đã cài đặt.</b>
+			]]>
+		</description>
+	</descriptionlist>
+</package>

@@ -1,0 +1,22 @@
+<package>
+	<id>com.hoangtuan.amber</id>
+	<name>Hoàng Tuân Repo</name>
+	<version>0.0.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>com.opa334.ccsupport</package>
+	</dependencies>	
+	<descriptionlist>
+		<description>
+			<![CDATA[
+			<b>Amber-ify your LED torch.</b>
+			]]>
+		</description>
+	</descriptionlist>
+</package>
