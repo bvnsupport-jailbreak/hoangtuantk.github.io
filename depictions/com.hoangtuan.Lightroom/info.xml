@@ -1,0 +1,30 @@
+<package>
+	<id>com.hoangtuan.Lightroom</id>
+	<name>Hoàng Tuân Repo</name>
+	<version>6.0.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>	
+	<descriptionlist>
+		<description>
+			<![CDATA[
+			<b>Hack Premium cho Adobe Lightroom Photo Editor</b>
+			]]>
+		</description>
+		<description>
+			<![CDATA[
+			- Đây là bản hack của iosgods - Vì vậy cần phải có tài khoản iosgods để sử dụng hack <br>
+			- Nếu bạn không có thì có thể dùng tài khoản này <br>
+			<ul>
+				<li>ttk: accgghtt3</li>
+				<li>mk: HoangTuan@123</li>
+			</ul>
+			]]>
+		</description>
+	</descriptionlist>
+</package>
