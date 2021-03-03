@@ -1,0 +1,11 @@
+Origin: Hoàng Tuân Repo
+Label: Hoàng Tuân
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Kho lưu trữ Cydia của Hoàng Tuân
+MD5Sum:
+ 9da7d5257d372ae1da61eae9be9b8807 26483 Packages
+ effea52db24aedb19000b6d243823b72 5976 Packages.bz2
