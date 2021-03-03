@@ -8,10 +8,10 @@ Author: Hoàng Tuân <trongtuan198@gmail.com>
 Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Filename: ./debs/com.hoangtuantk.github.io.icon_3.1_iphoneos-arm.deb
-Size: 166428
+Size: 166434
 Installed-Size: 175
-MD5sum: 2590413e1c94df98d59e678314004825
-SHA1: 9623712f036bd08e2ce4228cb7c5998a4f94928c
+MD5sum: befdd87978411b6fbe7aca04ac67f6f4
+SHA1: 7c528e22c1e003c926576b7beab4b34d509c4526
 Homepage: https://hoangtuantk.github.io/
 Depiction: Biểu tượng Cydia cho kho lưu trữ Hoàng Tuân Repo
 Icon: file:///Applications/Cydia.app/Sections/HTR-7.png
@@ -26,9 +26,9 @@ Author: Hoàng Tuân <trongtuan198@gmail.com>
 Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Filename: ./debs/com.hoangtuan.cydown.tv_1.0_iphoneos-arm.deb
-Size: 6150
-MD5sum: 407ff0046d277aad66cd7a1361ad86c5
-SHA1: 9d2dbf501d2b6d1ce0a00c17dedfa8e63dbda762
+Size: 6156
+MD5sum: 5e1fa5502205ee2490f8b66e1c35a239
+SHA1: 927fdcfb5295ce9f36689dfc4ebe27876c3cae2e
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.cydown.tv
 Icon: file:///Applications/Cydia.app/Sections/HTR-4.png
@@ -43,10 +43,10 @@ Author: Hoàng Tuân <trongtuan198@gmail.com>
 Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Filename: ./debs/com.hoangtuan.cputool.tv_1.9_iphoneos-arm.deb
-Size: 2736
+Size: 2740
 Installed-Size: 3
-MD5sum: 174a85ff7224923f5f8f2f73b64a0509
-SHA1: 9cedd655476204149c15e303f26d0973ded4454e
+MD5sum: 5bba1f88ce1eed950f1486f72298c6f8
+SHA1: 9f519ede8bfbbeb2b56837fe5fb119b110a22749
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.cputool.tv
 Icon: file:///Applications/Cydia.app/Sections/HTR-4.png
@@ -61,10 +61,10 @@ Author: Hoàng Tuân <trongtuan198@gmail.com>
 Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Filename: ./debs/com.hoangtuan.copylog.tv_1.5.3_iphoneos-arm.deb
-Size: 2888
+Size: 2892
 Installed-Size: 3
-MD5sum: f6af002d7b9ebd60e380036f98044a34
-SHA1: 5ae056e79d562f7f4e9c1638109ae4d4dcab2e20
+MD5sum: 81ea55b775fbe00348bd755bbb259c86
+SHA1: 760c02b7c2d481a31573d907ee9029bab3d88c27
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.copylog.tv
 Icon: file:///Applications/Cydia.app/Sections/HTR-4.png
@@ -80,10 +80,10 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: mobilesubstrate(>= 0.9.5015), firmware (>= 11.0), preferenceloader, ws.hbang.common (>= 1.11)
 Filename: ./debs/com.hoangtuan.videoswipes_1.4-2_iphoneos-arm.deb
-Size: 637098
+Size: 637100
 Installed-Size: 1059
-MD5sum: ce6b862367f0f952e2d6dca93b6581f3
-SHA1: 6734880fab09c15f7db798b52703a3c24f99ace6
+MD5sum: 278901f1dcdfec4fc935bf985f152cb6
+SHA1: 1241bdeeae043f968e4743b073f0b0a0144390e6
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.videoswipes
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
@@ -119,9 +119,9 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: dpkg, firmware(>=12.3)
 Filename: ./debs/com.hoangtuan.substrated_0.9.7111_iphoneos-arm.deb
-Size: 2534784
-MD5sum: 0f4426921a8369540ef700406c442ed5
-SHA1: 66735cb5b2c9ed8c566d7781c8faeda9ef4c8c88
+Size: 2534794
+MD5sum: eb7055c30ca46e92b9b25e5f07222fed
+SHA1: fe6313851f322c55fe86377e6eb5724b7487fd7f
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.substrated
 Icon: file:///Applications/Cydia.app/Sections/HTR-2.png
@@ -138,10 +138,10 @@ Sponsor: iggnew
 Support: Hoàng Tuân
 Priority: optional
 Filename: ./debs/com.hoangtuan.iGG8.3_8.3_iphoneos-arm.deb
-Size: 1131994
+Size: 1132102
 Installed-Size: 15000
-MD5sum: c0ef7b0c25377221e3fa1ad0fe460b63
-SHA1: 85d29b76a326ec12b1ce01b1469dbd0d36fe8e1c
+MD5sum: 90fbccf445b253fdfb8bcbb4aca33220
+SHA1: 706a7efe37868a0942b372ce22ab47bc0f46d020
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.iGG8.3
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
@@ -157,10 +157,10 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Priority: optional
 Filename: ./debs/com.hoangtuan.iGG.Stable_12.0.4_iphoneos-arm.deb
-Size: 1168272
+Size: 1168380
 Installed-Size: 1372
-MD5sum: 414ab4079fcdc18e2de450223f5e6bd0
-SHA1: c23843d206fd8a3044113f0aa621a2fe7f56934c
+MD5sum: 0d16a7a97bcaf06d3beba30380eb79eb
+SHA1: a9d70dd66c06acceef9373a3e3b2c04340fd2eb4
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.iGG.Stable
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
@@ -176,10 +176,10 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Priority: optional
 Filename: ./debs/com.hoangtuan.iGG.Speed_12.0.4_iphoneos-arm.deb
-Size: 1168846
+Size: 1168948
 Installed-Size: 1372
-MD5sum: 243f0f630e58d33fb81ac61f596557f3
-SHA1: e8820a03edd905e256e0393c9ab9547df16c4bd7
+MD5sum: 668636a8b075c799543817c091bc6fd4
+SHA1: 55d0bdd13f7032f94408aaf827013de2355d8dba
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.iGG.Speed
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
@@ -198,10 +198,10 @@ Conflicts: ws.hbang.newterm, com.lint.ntarrows
 Replaces: ws.hbang.newterm, com.lint.ntarrows
 Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Filename: ./debs/com.hoangtuan.newterm2_2.4_iphoneos-arm.deb
-Size: 3201990 
+Size: 3202002 
 Installed-Size: 6792
-MD5sum: cac8adf751215136228d4b523718d21d
-SHA1: 8990dfc221c12a125c303227cfc4fa3338d77f63
+MD5sum: d0fd9dac691b0525240361aecd5950ff
+SHA1: e06b0b0a5dfc85a1a04a686cceeec7c7429b4a10
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.newterm2
 Icon: file:///Applications/Cydia.app/Sections/HTR-5.png
@@ -218,9 +218,9 @@ Sponsor: shin-chan
 Support: Hoàng Tuân
 Depends: com.hoangtuan.plutil, com.hoangtuan.myinst
 Filename: ./debs/com.hoangtuan.cloneappcmd_1.0~b5_iphoneos-arm.deb
-Size: 2820
-MD5sum: a8f154fd06e3ff0287efb4d45a40fb76
-SHA1: 88d681d81afea3836cd6bc14b5b29c3eed2329bf
+Size: 2828
+MD5sum: 63d02ee054296ea3a89cd0d8731fccba
+SHA1: 54969a1e5f7161b88e2f4f98c85f51f68ccf8e22
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.cloneappcmd
 Icon: file:///Applications/Cydia.app/Sections/HTR-5.png
@@ -239,10 +239,10 @@ Conflicts: com.ericasadun.utilities
 Tag: role::hacker
 Multi-Arch: foreign
 Filename: ./debs/com.hoangtuan.plutil_0.2.1_iphoneos-arm.deb
-Size: 34128
+Size: 34132
 Installed-Size: 144
-MD5sum: 744459d4b464f90f2e54bcb0f7f747f9
-SHA1: 383318d3304999de4e1392625e1a6b6f5268734a
+MD5sum: 7d7908887f5d899a4f210a9533e157a1
+SHA1: 98a134e80b55d65758d3231608a738b9d8b982e8
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.plutil
 Icon: file:///Applications/Cydia.app/Sections/HTR-2.png
@@ -261,9 +261,9 @@ Depends: mobilesubstrate, net.angelxwind.appsyncunified
 Priority: important
 Pre-Depends: firmware (>= 7.0)
 Filename: ./debs/com.hoangtuan.myinst_5.6.0.3_iphoneos-arm.deb
-Size: 92164
-MD5sum: 5817289c0ac5ee83d535b74ddedca36f
-SHA1: 15fdd36c12f7b60a8759215f3de26fa9ceaa7464
+Size: 92170
+MD5sum: 4931a27f697fec6838e8d8b3c32a1db9
+SHA1: 77d6eae4ba0b6053f0b5709ef53e33bff8452775
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.myinst
 Icon: file:///Applications/Cydia.app/Sections/HTR-3.png
@@ -279,10 +279,10 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.3), com.opa334.ccsupport, firmware(>=13.0), applist
 Filename: ./debs/com.hoangtuan.bakgrunnur_1.5.10_iphoneos-arm.deb
-Size: 495028
+Size: 495042
 Installed-Size: 1880
-MD5sum: 12460835416142ce384a215e722bdde4
-SHA1: 6698e5d0c85e27ce14eb81f32723f65068db49f3
+MD5sum: 6443be7cdf50abe4595fbbea7926f457
+SHA1: 54d41359ba4758c0377d9f9d40aeb29e1ad3c0b7
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.bakgrunnur
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
@@ -298,10 +298,10 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: mobilesubstrate
 Filename: ./debs/com.hoangtuan.hackArchero_2.7.1_iphoneos-arm.deb
-Size: 2422710
+Size: 2422718
 Installed-Size: 9216
-MD5sum: 5232055d42e7f4bbe6b8c2c271791d66
-SHA1: 88f662eb69ab77ca6c9130bb3ea8275e09f9bbdf
+MD5sum: 2eb285b4a2c73f8e501bbac4d96b791f
+SHA1: 74ef7378a624864f13c00e4da9f22d917aaf783d
 Homepage: https://iosgods.com
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.hackArchero
 Icon: file:///Applications/Cydia.app/Sections/HTR-9.png
@@ -317,10 +317,10 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
 Filename: ./debs/com.hoangtuan.localiapstore_1.4-5b_iphoneos-arm.deb
-Size: 71058
+Size: 71068
 Installed-Size: 235
-MD5sum: 3353d03121bbb0570fb377a6ce315901
-SHA1: fc0a3cd9b41c9d799050a4e481c56af37eb62404
+MD5sum: b99176f67f69daa33a22eaef0570f6a8
+SHA1: 7d17ff1169435cf482f4120d5baf0bd55cbdaba2
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.localiapstore
 Sileodepiction: https://hoangtuantk.github.io/sileo-depictions/?p=com.hoangtuan.localiapstore
@@ -337,10 +337,10 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.hoangtuan.localiapstore13_0.0.2_iphoneos-arm.deb
-Size: 3920
+Size: 3916
 Installed-Size: 136
-MD5sum: 6ac0fb632fea47859a43904923d0da01
-SHA1: 4153d0642c0a8845a7c1fca46b205591fd30d76c
+MD5sum: 2782066b7a2a3a2c6b9e1f5298a50b3b
+SHA1: fbd1647cfc9c79136e703119a3889f6da1149254
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.localiapstore13
 Sileodepiction: https://hoangtuantk.github.io/sileo-depictions/?p=com.hoangtuan.localiapstore13
@@ -357,10 +357,10 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: mobilesubstrate
 Filename: ./debs/com.hoangtuan.bypasstechcombank_0.0.6_iphoneos-arm.deb
-Size: 3418
+Size: 3422
 Installed-Size: 67
-MD5sum: d4ea40e096a68f47ce92bc727477755c
-SHA1: 051cd5a0d0bbfd93d296b70a848ee392da68bc4d
+MD5sum: acf5550a83113a9ea8291f2095110811
+SHA1: c9512fc51c6c19d116f222dda79aaf0a1c84399b
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.bypasstechcombank
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
@@ -398,10 +398,10 @@ Support: Hoàng Tuân
 Depends: firmware (>= 6.0)
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14,
 Filename: ./debs/com.hoangtuan.wifipasswords_3.0.1_iphoneos-arm.deb
-Size: 1270424
+Size: 1270428
 Installed-Size: 4112
-MD5sum: 1fef3e1f092799f4c9b63d44727ff6fd
-SHA1: ce779072f4a4360033361df9334414c818a7ecdf
+MD5sum: 51153c9a59193f1b876b6b09f6f82625
+SHA1: 8f7530aa578d426143f252c4f664ec6e6314b95c
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.wifipasswords
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
@@ -443,10 +443,10 @@ Replaces: com.ichitaso.powerselector11
 Pre-Depends: firmware (>= 11.0)
 Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
 Filename: ./debs/com.hoangtuan.powerselector11_1.3.0_iphoneos-arm.deb
-Size: 381930 
+Size: 381940 
 Installed-Size: 2292
-MD5sum: ef32bea6fc466254fe8d4f78ef6fa4d1
-SHA1: d19d63388524f7d0ee94b3ecc112d9ccbb107ddf
+MD5sum: 7dc41ce072d995a84b9cfe71a36744e7
+SHA1: 9c61a15d835c7375f3f9917c7f82ae80b9e771eb
 Homepage: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.powerselector11
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.powerselector11
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
@@ -462,10 +462,10 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: mobilesubstrate
 Filename: ./debs/com.hoangtuan.spotilife_1.3a_iphoneos-arm.deb
-Size: 200560
+Size: 200564
 Installed-Size: 626
-MD5sum: 4448e0d49b98f1bedc038ac8704a5f83
-SHA1: bb8503be74dc607b9268d34baaff41ccb73c4b87
+MD5sum: b9beaedb8b0cdc7772100426a9e13041
+SHA1: d63a666574378532192ca24a5753794d5e42215c
 Homepage: https://hoangtuantk.github.io
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.spotilife
 Icon: file:///Applications/Cydia.app/Sections/HTR-9.png
@@ -481,10 +481,10 @@ Support: Hoàng Tuân
 Depends: mobilesubstrate
 Conflicts: kr.xsf1re.flyjb
 Filename: ./debs/com.hoangtuan.flyjbx_1.1.13_iphoneos-arm.deb
-Size: 1779312
+Size: 1779332
 Installed-Size: 2796
-MD5sum: 8cfc2b8e337461c6b89cb0b39cf0c0d0
-SHA1: d9a778dd1c1995490b2052e00ffb21afbc4f339e
+MD5sum: b040f92f0f51a28d489b407ca1887ee8
+SHA1: 4234579fed19746e3a4102c06d2ca5423e74fb38
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.flyjbx
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
@@ -539,10 +539,10 @@ Support: Hoàng Tuân
 Depends: mobilesubstrate, preferenceloader, applist
 Conflicts: com.yourepo.ghacks.dlgmemorinjected
 Filename: ./debs/com.hoangtuan.dlgmemorinjected_11.3.1_iphoneos-arm.deb
-Size: 264438
+Size: 264442
 Installed-Size: 701
-MD5sum: b71872868f1f46e6d30730b162dedea6
-SHA1: e93f041c89205b98dacf4462349f74f637748ec4
+MD5sum: ef58373bfcc13c042f361c335085f694
+SHA1: d4a9b4ddf03e752b6336eca79c5f21c1db3eb452
 Homepage: https://hoangtuantk.github.io
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.dlgmemorinjected
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
@@ -558,10 +558,10 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: mobilesubstrate, ws.hbang.common
 Filename: ./debs/com.hoangtuan.appshacks_4.4_iphoneos-arm.deb
-Size: 3143488
+Size: 3143496
 Installed-Size: 5120
-MD5sum: 462540039376c0e233437b1850699cb8
-SHA1: a2242ed74f68152d5474a3a9e7d3bb226403a87d
+MD5sum: 1f80c56857ca9d9ba6072817d3e0ccea
+SHA1: ebac0afd87bf71d7559cc1b8b46d19017961ab78
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.appshacks
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
@@ -577,10 +577,10 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0), gsc.camera-flash, firmware (>= 11.0) | com.a3tweaks.flipswitch, firmware (<< 11.0) | com.opa334.ccsupport
 Filename: ./debs/com.hoangtuan.amber_0.0.4_iphoneos-arm.deb
-Size: 52668
+Size: 52684
 Installed-Size: 528
-MD5sum: b0e4e46484039575943e739516aa875d
-SHA1: 1c8446f48ed1c1784af23b8f7674346308c62f37
+MD5sum: 5d37c3fea25c00aeabfb936c8ce5881f
+SHA1: 4e78bd11c63011c13de9215de0aaba231b8744d1
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.amber
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
@@ -596,10 +596,10 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Filename: ./debs/com.hoangtuan.appsmanager_1.6.1-4_iphoneos-arm.deb
-Size: 5385620
+Size: 5385626
 Installed-Size: 9108
-MD5sum: 7781ac4de86ad952b1bb6addf6409eaa
-SHA1: cd36523d897104e29ac76fe8af57db04acb54d82
+MD5sum: 8712b6adbb8568869f538b168ac5bcfb
+SHA1: dad344ea1f8a4f7076a99df1aa3e314b14040dd0
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.appsmanager
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
@@ -614,10 +614,10 @@ Author: Laxus
 Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.hoangtuan.Lightroom_6.0.2_iphoneos-arm.deb
-Size: 2418288
+Size: 2418298
 Installed-Size: 8576
-MD5sum: 15c26388c8fae61c6abb6b30c494b9fe
-SHA1: 2e641500f0ee56495ec248d4f4bfdbc735d13479
+MD5sum: b4ea9efc3f165d47b7dee489ec49eb16
+SHA1: ce0b1b35db800e3a8a51cc4ab6838fc2b3826856
 Homepage: https://iosgods.com
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.Lightroom
 Icon: file:///Applications/Cydia.app/Sections/HTR-9.png
@@ -634,10 +634,10 @@ Support: Hoàng Tuân
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza64bit, com.hoangtuan.filza64bit
 Filename: ./debs/com.hoangtuan.filza_3.8.1-30_iphoneos-arm.deb
-Size: 12984998
+Size: 12985098
 Installed-Size: 28463
-MD5sum: ca598f82ada7ef741ed2ec9c20bd80b9
-SHA1: a50678b70c8b56382a7f31202a103a799b662e43
+MD5sum: e8ec771d137a20753619a9f21a64c039
+SHA1: a86f09d421aa723d10d329f99e99c3c6fb7691dc
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.filza
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
@@ -654,10 +654,10 @@ Support: Hoàng Tuân
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza, com.hoangtuan.filza
 Filename: ./debs/com.hoangtuan.filza64bit_3.8.1-30_iphoneos-arm.deb
-Size: 8424380
+Size: 8424472
 Installed-Size: 18225
-MD5sum: 76e3c7e74bf2290f3276dec09223c296
-SHA1: 868970d1fa50f404077e971f38d51104c51867cb
+MD5sum: a56693afbd47c9a2088e5ce969cffeb8
+SHA1: 0a398ce04c62228e9604df1f20a8f7564ead133f
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.filza64bit
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
