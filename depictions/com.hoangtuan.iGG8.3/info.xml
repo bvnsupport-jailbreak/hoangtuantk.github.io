@@ -14,5 +14,10 @@
 	<descriptionlist>
 		<description>Hỗ trợ iOS 8.x ~ iOS 11.x</description>
 		<description>Công cụ cho phép bạn thay đổi bộ nhớ trong ứng dụng</description>
+		<description>
+			<![CDATA[
+			Mở Tw mà bị văng thì vào <b>Cài đặt</b>, <b>Quyền riêng tư</b>, <b>Quảng cáo</b>, <b>Tắt giới hạn theo dõi quảng cáo</b>
+			]]>
+		</description>
 	</descriptionlist>
 </package>

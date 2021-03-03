@@ -22,5 +22,10 @@
 			</ul>
 			]]>
 		</description>	
+		<description>
+			<![CDATA[
+			Mở Tw mà bị văng thì vào <b>Cài đặt</b>, <b>Quyền riêng tư</b>, <b>Quảng cáo</b>, <b>Tắt giới hạn theo dõi quảng cáo</b>
+			]]>
+		</description>
 	</descriptionlist>
 </package>
