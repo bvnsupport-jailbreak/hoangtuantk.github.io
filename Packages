@@ -427,6 +427,26 @@ Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.appstoreplu
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: AppStore++
 
+Package: com.hoangtuan.appstoreplusplus
+Version: 0.9.14-11
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Cho phép bạn hạ cấp/nâng cấp ứng dụng trong AppStore trên iOS 11-14.
+Author: CokePokes
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools
+Priority: optional
+Filename: ./debs/com.hoangtuan.appstoreplusplus_0.9.14-11_iphoneos-arm.deb
+Size: 2995372
+MD5sum: cd60641720a5d631005841a2adf96a40
+SHA1: 2f60e5f6b8f70914a08d93d9050f37a1b44321ec
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.appstoreplusplus
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: AppStore++
+
 Package: com.hoangtuan.powerselector11
 Version: 1.3.0
 Architecture: iphoneos-arm
