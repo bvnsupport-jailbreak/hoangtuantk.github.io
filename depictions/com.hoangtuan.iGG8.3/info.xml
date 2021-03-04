@@ -19,5 +19,11 @@
 			Mở Tw mà bị văng thì vào <b>Cài đặt</b>, <b>Quyền riêng tư</b>, <b>Quảng cáo</b>, <b>Tắt giới hạn theo dõi quảng cáo</b>
 			]]>
 		</description>
+		<description>
+			<![CDATA[
+			- <b>Giới hạn theo dõi quảng cáo</b> mà bị ẩn thì vào <b>Cài đặt</b> đi đến <b>Thời gian sử dụng</b> và Tắt <b>Thời gian sử dụng</b> đi <br>
+			- Tắt xong <b>Giới hạn theo dõi quảng cáo</b> thì có thể bật lại <b>Thời gian sử dụng</b>
+			]]>
+		</description>
 	</descriptionlist>
 </package>
