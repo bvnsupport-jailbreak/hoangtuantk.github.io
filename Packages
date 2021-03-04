@@ -549,7 +549,7 @@ Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
 Name: DLGMemor Injected
 
 Package: com.hoangtuan.appshacks
-Version: 4.4
+Version: 4.5-1
 Architecture: iphoneos-arm
 Section: Tweaks
 Description: Hack Vip cho các ứng dụng
@@ -557,11 +557,11 @@ Author: hmodei96
 Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/com.hoangtuan.appshacks_4.4_iphoneos-arm.deb
+Filename: ./debs/com.hoangtuan.appshacks_4.5-1_iphoneos-arm.deb
 Size: 3143496
 Installed-Size: 5120
-MD5sum: 1f80c56857ca9d9ba6072817d3e0ccea
-SHA1: ebac0afd87bf71d7559cc1b8b46d19017961ab78
+MD5sum: ebebb3f551ab5a181ba8c90941db0d8f
+SHA1: f244a7c49bf8110c512d1d2acf323e4c9b93b3f4
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.appshacks
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
