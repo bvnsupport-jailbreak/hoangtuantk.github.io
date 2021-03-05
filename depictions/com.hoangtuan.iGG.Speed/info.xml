@@ -5,14 +5,14 @@
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
-			<maxiOS>13.7</maxiOS>
+			<maxiOS>12.5.1</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>	
 	<descriptionlist>
-		<description>Hỗ trợ iOS 11.0 ~ iOS 13.7 | Chưa thử trên ios14</description>
+		<description>Hỗ trợ iOS 11.0 ~ iOS 12.5.1</description>
 		<description>Công cụ cho phép bạn thay đổi bộ nhớ trong ứng dụng</description>
 		<description>
 			<![CDATA[
