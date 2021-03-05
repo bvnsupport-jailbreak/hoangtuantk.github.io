@@ -138,10 +138,10 @@ Sponsor: iggnew
 Support: Hoàng Tuân
 Priority: optional
 Filename: ./debs/com.hoangtuan.iGG8.3_8.3_iphoneos-arm.deb
-Size: 1132102
+Size: 1132012
 Installed-Size: 15000
-MD5sum: 90fbccf445b253fdfb8bcbb4aca33220
-SHA1: 706a7efe37868a0942b372ce22ab47bc0f46d020
+MD5sum: 4b73094d4802c10099704b689ccbd195
+SHA1: 3348d662e0b774ce4c39b75bbec38b1d379596ab
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.iGG8.3
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
@@ -157,10 +157,10 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Priority: optional
 Filename: ./debs/com.hoangtuan.iGG.Stable_12.0.4_iphoneos-arm.deb
-Size: 1168380
+Size: 1168266
 Installed-Size: 1372
-MD5sum: 0d16a7a97bcaf06d3beba30380eb79eb
-SHA1: a9d70dd66c06acceef9373a3e3b2c04340fd2eb4
+MD5sum: 07680f28de8614df63bdb243374f2ea4
+SHA1: 9e7519fcfbca28bf7296dd262d0e1d8f48a33812
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.iGG.Stable
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
@@ -176,10 +176,10 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Priority: optional
 Filename: ./debs/com.hoangtuan.iGG.Speed_12.0.4_iphoneos-arm.deb
-Size: 1168948
+Size: 1168842
 Installed-Size: 1372
-MD5sum: 668636a8b075c799543817c091bc6fd4
-SHA1: 55d0bdd13f7032f94408aaf827013de2355d8dba
+MD5sum: 35bf42bedb264ae3aa0f08e1e022283f
+SHA1: cd562d4a1130714b7cafa72a60fd3a4dc3ca6aef
 Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.iGG.Speed
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
