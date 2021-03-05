@@ -127,64 +127,6 @@ Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.substrated
 Icon: file:///Applications/Cydia.app/Sections/HTR-2.png
 Name: Unc0ver Support Package
 
-Package: com.hoangtuan.iGG8.3
-Version: 8.3
-Architecture: iphoneos-arm
-Section: iGG
-Description: Công cụ cho phép bạn thay đổi bộ nhớ trong ứng dụng
-Author: iggnew
-Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
-Sponsor: iggnew
-Support: Hoàng Tuân
-Priority: optional
-Filename: ./debs/com.hoangtuan.iGG8.3_8.3_iphoneos-arm.deb
-Size: 1132012
-Installed-Size: 15000
-MD5sum: 4b73094d4802c10099704b689ccbd195
-SHA1: 3348d662e0b774ce4c39b75bbec38b1d379596ab
-Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.iGG8.3
-Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
-Name: iGameGuardian 8.3
-
-Package: com.hoangtuan.iGG.Stable
-Version: 12.0.4
-Architecture: iphoneos-arm
-Section: iGG
-Description: Công cụ cho phép bạn thay đổi bộ nhớ trong ứng dụng
-Author: iggnew
-Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
-Support: Hoàng Tuân
-Priority: optional
-Filename: ./debs/com.hoangtuan.iGG.Stable_12.0.4_iphoneos-arm.deb
-Size: 1168266
-Installed-Size: 1372
-MD5sum: 07680f28de8614df63bdb243374f2ea4
-SHA1: 9e7519fcfbca28bf7296dd262d0e1d8f48a33812
-Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.iGG.Stable
-Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
-Name: iGG 12 Stable (Crack)
-
-Package: com.hoangtuan.iGG.Speed
-Version: 12.0.4
-Architecture: iphoneos-arm
-Section: iGG
-Description: Công cụ cho phép bạn thay đổi bộ nhớ trong ứng dụng
-Author: iggnew
-Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
-Support: Hoàng Tuân
-Priority: optional
-Filename: ./debs/com.hoangtuan.iGG.Speed_12.0.4_iphoneos-arm.deb
-Size: 1168842
-Installed-Size: 1372
-MD5sum: 35bf42bedb264ae3aa0f08e1e022283f
-SHA1: cd562d4a1130714b7cafa72a60fd3a4dc3ca6aef
-Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.iGG.Speed
-Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
-Name: iGG 12 Speed (Crack)
-
 Package: com.hoangtuan.newterm2
 Version: 2.4
 Architecture: iphoneos-arm
