@@ -605,3 +605,22 @@ Homepage: https://hoangtuantk.github.io/
 Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.filza64bit
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
 Name: Filza File Manager 64bit
+
+Package: com.hoangtuan.iosgodsiapcracker
+Version: 1.0-2+debug
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Free iAP Purchase for some apps and games, it doesn’t always work so don’t expect much. Turn on the tweak inside iOS Settings. This tweak is made by @Laxus for iOSGods.com, supported A12 / A13 devices
+Author: Laxus
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: mobilesubstrate
+Filename: ./debs/com.hoangtuan.iosgodsiapcracker_1.0-2+debug_iphoneos-arm.deb
+Size: 17788
+Installed-Size: 296
+MD5sum: 2770b08652b041c4a63e35c2e68a6f6a
+SHA1: bc8f1bc330e261c3d9ea37d9a70afbaceb3e0864
+Homepage: https://hoangtuantk.github.io/
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.iosgodsiapcracker
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: iOSGods iAP Cracker

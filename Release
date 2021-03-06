@@ -7,5 +7,5 @@ Architectures: iphoneos-arm
 Components: main
 Description: Kho lưu trữ Cydia của Hoàng Tuân
 MD5Sum:
- 25b7dce4b4bf157fa2cfda3ae8a6b3ea 24735 Packages
- 4cfff5ac53b509929be83faac97178c9 5673 Packages.bz2
+ c20f4466f03a24e03723ad0cad8d847b 25603 Packages
+ c9b75c8951e72acbb087a253d7134042 5856 Packages.bz2
