@@ -1,0 +1,9 @@
+{
+	"name": "myinst",
+	"desc_short": "Cài đặt iPA của bạn. Sử dụng lệnh myinst (đường dẫn đến .iPA)",
+	"desc_long": null,
+	"compatitle": "Appsync, CMD",
+	"changelog": "<strong>5.6.0.3</strong>",
+	"screenshot": null,
+	"open": true,
+}

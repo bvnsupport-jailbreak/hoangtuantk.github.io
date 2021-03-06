@@ -1,0 +1,9 @@
+{
+	"name": "Bypass MBBank",
+	"desc_short": "Chặn phát hiện Jailbreak cho App MBBank",
+	"desc_long": null,
+	"compatitle": "iOS 11 ~ 14",
+	"changelog": "<strong>1.2.3</strong>",
+	"screenshot": null,
+	"open": true,
+}

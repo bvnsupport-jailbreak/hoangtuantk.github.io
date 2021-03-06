@@ -1,0 +1,9 @@
+{
+	"name": "Filza File Manager 64bit",
+	"desc_short": "Trình quản lý tập tin cho thiết bị 64bit",
+	"desc_long": "Bấm <b>Kích hoạt</b> nếu có thông báo <b>Kích hoạt</b>",
+	"compatitle": null,
+	"changelog": "<strong>3.8.1-30</strong>",
+	"screenshot": null,
+	"open": true,
+}

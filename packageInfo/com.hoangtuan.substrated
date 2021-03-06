@@ -1,0 +1,9 @@
+{
+	"name": "Unc0ver Support Package",
+	"desc_short": null,
+	"desc_long": "Tiện ích đơn giản cho phép chuyển từ unc0ver sang checkra1n mà không cần phải cài đặt lại Cydia Substrate theo cách thủ công.",
+	"compatitle": "iOS >=12.3",
+	"changelog": "<strong>0.9.7111</strong>",
+	"screenshot": null,
+	"open": true,
+}

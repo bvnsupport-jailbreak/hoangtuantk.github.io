@@ -1,7 +1,7 @@
 {
 	"name": "Bakgrunnur",
-	"desc_short": "Name",
-	"desc_long": "Name",
+	"desc_short": null,
+	"desc_long": "Giúp cho ứng dụng luôn hoạt động kể cả khi khoá màn hình (Có thể chỉnh được thời gian hoạt động)",
 	"compatitle": "iOS 13 ~ 14",
 	"changelog": "<strong>1.5.11</strong><br>",
 	"screenshot": null,

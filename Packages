@@ -30,7 +30,7 @@ Size: 6156
 MD5sum: 5e1fa5502205ee2490f8b66e1c35a239
 SHA1: 927fdcfb5295ce9f36689dfc4ebe27876c3cae2e
 Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.cydown.tv
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.cydown.tv
 Icon: file:///Applications/Cydia.app/Sections/HTR-4.png
 Name: CyDown (Thêm tiếng Việt)
 
@@ -48,7 +48,7 @@ Installed-Size: 3
 MD5sum: 5bba1f88ce1eed950f1486f72298c6f8
 SHA1: 9f519ede8bfbbeb2b56837fe5fb119b110a22749
 Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.cputool.tv
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.cputool.tv
 Icon: file:///Applications/Cydia.app/Sections/HTR-4.png
 Name: CPUTool (Thêm tiếng Việt)
 
@@ -66,7 +66,7 @@ Installed-Size: 3
 MD5sum: 81ea55b775fbe00348bd755bbb259c86
 SHA1: 760c02b7c2d481a31573d907ee9029bab3d88c27
 Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.copylog.tv
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.copylog.tv
 Icon: file:///Applications/Cydia.app/Sections/HTR-4.png
 Name: CopyLog (Thêm tiếng Việt)
 
@@ -85,7 +85,7 @@ Installed-Size: 1059
 MD5sum: 278901f1dcdfec4fc935bf985f152cb6
 SHA1: 1241bdeeae043f968e4743b073f0b0a0144390e6
 Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.videoswipes
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.videoswipes
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: VideoSwipes (Việt hoá)
 
@@ -105,7 +105,7 @@ Installed-Size: 3080
 MD5sum: bdbf656d8281f6bd1fb79f068315b882
 SHA1: 405cc8ad69f6ab091df4d427f21f0f7b91919ae0
 Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.foxfort.translomatic
+Depiction: http://hoangtuantk.github.io/description.html?id=com.foxfort.translomatic
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: Translomatic
 
@@ -123,7 +123,7 @@ Size: 2534794
 MD5sum: eb7055c30ca46e92b9b25e5f07222fed
 SHA1: fe6313851f322c55fe86377e6eb5724b7487fd7f
 Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.substrated
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.substrated
 Icon: file:///Applications/Cydia.app/Sections/HTR-2.png
 Name: Unc0ver Support Package
 
@@ -145,7 +145,7 @@ Installed-Size: 6792
 MD5sum: d0fd9dac691b0525240361aecd5950ff
 SHA1: e06b0b0a5dfc85a1a04a686cceeec7c7429b4a10
 Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.newterm2
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.newterm2
 Icon: file:///Applications/Cydia.app/Sections/HTR-5.png
 Name: NewTerm 2 (iOS 10 – 14)
 
@@ -164,7 +164,7 @@ Size: 2828
 MD5sum: 63d02ee054296ea3a89cd0d8731fccba
 SHA1: 54969a1e5f7161b88e2f4f98c85f51f68ccf8e22
 Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.cloneappcmd
+Depiction:http://hoangtuantk.github.io/description.html?id=com.hoangtuan.cloneappcmd
 Icon: file:///Applications/Cydia.app/Sections/HTR-5.png
 Name: Clone App Command
 
@@ -186,7 +186,7 @@ Installed-Size: 144
 MD5sum: 7d7908887f5d899a4f210a9533e157a1
 SHA1: 98a134e80b55d65758d3231608a738b9d8b982e8
 Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.plutil
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.plutil
 Icon: file:///Applications/Cydia.app/Sections/HTR-2.png
 Name: plutil
 
@@ -207,12 +207,12 @@ Size: 92170
 MD5sum: 4931a27f697fec6838e8d8b3c32a1db9
 SHA1: 77d6eae4ba0b6053f0b5709ef53e33bff8452775
 Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.myinst
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.myinst
 Icon: file:///Applications/Cydia.app/Sections/HTR-3.png
 Name: myinst
 
 Package: com.hoangtuan.bakgrunnur
-Version: 1.5.10
+Version: 1.5.11
 Architecture: iphoneos-arm
 Section: Tweaks
 Description: Giúp ứng dụng luôn hoạt động cả khi khoá màn hình
@@ -220,13 +220,13 @@ Author: udevs
 Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.3), com.opa334.ccsupport, firmware(>=13.0), applist
-Filename: ./debs/com.hoangtuan.bakgrunnur_1.5.10_iphoneos-arm.deb
-Size: 495042
-Installed-Size: 1880
-MD5sum: 6443be7cdf50abe4595fbbea7926f457
-SHA1: 54d41359ba4758c0377d9f9d40aeb29e1ad3c0b7
+Filename: ./debs/com.hoangtuan.bakgrunnur_1.5.11_iphoneos-arm.deb
+Size: 373928
+Installed-Size: 1384
+MD5sum: 032163bc90485b9b5cf83a972f991216
+SHA1: 4d67b3b1130992096573844455aa1e73710d66bc
 Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.bakgrunnur
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.bakgrunnur
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: Bakgrunnur
 
@@ -245,7 +245,7 @@ Installed-Size: 9216
 MD5sum: 2eb285b4a2c73f8e501bbac4d96b791f
 SHA1: 74ef7378a624864f13c00e4da9f22d917aaf783d
 Homepage: https://iosgods.com
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.hackArchero
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.hackArchero
 Icon: file:///Applications/Cydia.app/Sections/HTR-9.png
 Name: Archero Cheats
 
@@ -264,7 +264,7 @@ Installed-Size: 235
 MD5sum: b99176f67f69daa33a22eaef0570f6a8
 SHA1: 7d17ff1169435cf482f4120d5baf0bd55cbdaba2
 Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.localiapstore
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.localiapstore
 Sileodepiction: https://hoangtuantk.github.io/sileo-depictions/?p=com.hoangtuan.localiapstore
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: LocaliAPStore
@@ -284,7 +284,7 @@ Installed-Size: 136
 MD5sum: 2782066b7a2a3a2c6b9e1f5298a50b3b
 SHA1: fbd1647cfc9c79136e703119a3889f6da1149254
 Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.localiapstore13
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.localiapstore13
 Sileodepiction: https://hoangtuantk.github.io/sileo-depictions/?p=com.hoangtuan.localiapstore13
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: LocaliAPStore13
@@ -304,7 +304,7 @@ Installed-Size: 67
 MD5sum: acf5550a83113a9ea8291f2095110811
 SHA1: c9512fc51c6c19d116f222dda79aaf0a1c84399b
 Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.bypasstechcombank
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.bypasstechcombank
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: Bypass Techcombank
 
@@ -323,7 +323,7 @@ Installed-Size: 644
 MD5sum: c8701bd1c0151cf436acccac46e45a14
 SHA1: aa25fecf1e1ce51775e8358c302c735eb6648af9
 Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.bypassmbbank
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.bypassmbbank
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: Bypass MBBank
 
@@ -345,7 +345,7 @@ Installed-Size: 4112
 MD5sum: 51153c9a59193f1b876b6b09f6f82625
 SHA1: 8f7530aa578d426143f252c4f664ec6e6314b95c
 Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.wifipasswords
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.wifipasswords
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
 Name: WiFi Passwords
 
@@ -365,7 +365,7 @@ Size: 2941722
 MD5sum: 6e0641618b200920f50a7cf890ebe625
 SHA1: e35475143d9d71e43f9b05ae6a6e05ec9d1575b6
 Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.appstoreplusplus
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.appstoreplusplus
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: AppStore++
 
@@ -385,7 +385,7 @@ Size: 2995372
 MD5sum: cd60641720a5d631005841a2adf96a40
 SHA1: 2f60e5f6b8f70914a08d93d9050f37a1b44321ec
 Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.appstoreplusplus
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.appstoreplusplus
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: AppStore++
 
@@ -409,8 +409,8 @@ Size: 381940
 Installed-Size: 2292
 MD5sum: 7dc41ce072d995a84b9cfe71a36744e7
 SHA1: 9c61a15d835c7375f3f9917c7f82ae80b9e771eb
-Homepage: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.powerselector11
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.powerselector11
+Homepage: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.powerselector11
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.powerselector11
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
 Name: PowerSelector (iOS 11 to 14)
 
@@ -429,7 +429,7 @@ Installed-Size: 626
 MD5sum: b9beaedb8b0cdc7772100426a9e13041
 SHA1: d63a666574378532192ca24a5753794d5e42215c
 Homepage: https://hoangtuantk.github.io
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.spotilife
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.spotilife
 Icon: file:///Applications/Cydia.app/Sections/HTR-9.png
 Name: Spotify Premium
 
@@ -448,7 +448,7 @@ Installed-Size: 2796
 MD5sum: b040f92f0f51a28d489b407ca1887ee8
 SHA1: 4234579fed19746e3a4102c06d2ca5423e74fb38
 Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.flyjbx
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.flyjbx
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
 Name: FlyJB X (Việt Hoá)
 
@@ -467,7 +467,7 @@ Installed-Size: 15312
 MD5sum: 5706dd78fe32a5e42088f9f349993606
 SHA1: b6a10d052c5cc7ac9b6ea966378583b3d0081a11
 Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.foxfort.portraitxi
+Depiction: http://hoangtuantk.github.io/description.html?id=com.foxfort.portraitxi
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: PortraitXI
 
@@ -486,7 +486,7 @@ Installed-Size: 4392
 MD5sum: a9985f5b46b3710028c5ba51517667e9
 SHA1: 65721f6f78a50862683397bd5e86a4965cd8a2e9
 Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=me.tomt000.copylog
+Depiction: http://hoangtuantk.github.io/description.html?id=me.tomt000.copylog
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: CopyLog
 
@@ -506,7 +506,7 @@ Installed-Size: 701
 MD5sum: ef58373bfcc13c042f361c335085f694
 SHA1: d4a9b4ddf03e752b6336eca79c5f21c1db3eb452
 Homepage: https://hoangtuantk.github.io
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.dlgmemorinjected
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.dlgmemorinjected
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
 Name: DLGMemor Injected
 
@@ -525,7 +525,7 @@ Installed-Size: 5120
 MD5sum: ebebb3f551ab5a181ba8c90941db0d8f
 SHA1: f244a7c49bf8110c512d1d2acf323e4c9b93b3f4
 Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.appshacks
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.appshacks
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: Apps Hacks
 
@@ -544,7 +544,7 @@ Installed-Size: 528
 MD5sum: 5d37c3fea25c00aeabfb936c8ce5881f
 SHA1: 4e78bd11c63011c13de9215de0aaba231b8744d1
 Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.amber
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.amber
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: Amber
 
@@ -563,7 +563,7 @@ Installed-Size: 9108
 MD5sum: 8712b6adbb8568869f538b168ac5bcfb
 SHA1: dad344ea1f8a4f7076a99df1aa3e314b14040dd0
 Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.appsmanager
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.appsmanager
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
 Name: Apps Manager
 
@@ -581,7 +581,7 @@ Installed-Size: 8576
 MD5sum: b4ea9efc3f165d47b7dee489ec49eb16
 SHA1: ce0b1b35db800e3a8a51cc4ab6838fc2b3826856
 Homepage: https://iosgods.com
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.Lightroom
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.Lightroom
 Icon: file:///Applications/Cydia.app/Sections/HTR-9.png
 Name: Adobe Lightroom Photo Editor Cheats
 
@@ -601,7 +601,7 @@ Installed-Size: 28463
 MD5sum: e8ec771d137a20753619a9f21a64c039
 SHA1: a86f09d421aa723d10d329f99e99c3c6fb7691dc
 Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.filza
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.filza
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
 Name: Filza File Manager
 
@@ -621,6 +621,6 @@ Installed-Size: 18225
 MD5sum: a56693afbd47c9a2088e5ce969cffeb8
 SHA1: 0a398ce04c62228e9604df1f20a8f7564ead133f
 Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/depictions/?p=com.hoangtuan.filza64bit
+Depiction: http://hoangtuantk.github.io/description.html?id=com.hoangtuan.filza64bit
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
 Name: Filza File Manager 64bit
