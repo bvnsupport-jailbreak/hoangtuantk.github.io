@@ -471,25 +471,6 @@ Depiction: https://hoangtuantk.github.io/description.html?id=com.foxfort.portrai
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: PortraitXI
 
-Package: me.tomt000.copylog
-Version: 1.5.3-ht
-Architecture: iphoneos-arm
-Section: Tweaks
-Description: Clipboard history manager for iOS!
-Author: TomT000
-Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
-Support: Hoàng Tuân
-Depends: mobilesubstrate, preferenceloader 
-Filename: ./debs/me.tomt000.copylog_1.5.3-ht_iphoneos-arm.deb
-Size: 2074020
-Installed-Size: 4392
-MD5sum: a9985f5b46b3710028c5ba51517667e9
-SHA1: 65721f6f78a50862683397bd5e86a4965cd8a2e9
-Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/description.html?id=me.tomt000.copylog
-Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
-Name: CopyLog
-
 Package: com.hoangtuan.dlgmemorinjected
 Version: 11.3.1
 Architecture: iphoneos-arm
