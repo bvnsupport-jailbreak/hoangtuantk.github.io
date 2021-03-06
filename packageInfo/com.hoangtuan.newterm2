@@ -1,7 +1,7 @@
 {
 	"name": "NewTerm 2 (iOS 10 – 14)",
 	"desc_short": "Một ứng dụng đầu cuối mạnh mẽ dành cho iOS",
-	"desc_long": "&emsp; NewTerm là phần tiếp theo của dự án Mobile Terminal, một trình giả lập thiết bị đầu cuối đa năng dành cho iOS. Nó bao gồm nhiều cải tiến so với Mobile Terminal, chẳng hạn như giao diện dựa trên tab, lựa chọn chủ đề và phông chữ, sao chép và dán, và nhiều bản sửa lỗi khác nhau. Nó là người bạn đồng hành hoàn hảo để chạy các lệnh nhanh trực tiếp trên iPhone của bạn hoặc làm việc trên các dự án trên iPad của bạn song song với các ứng dụng khác hoặc SSHing tới một máy chủ bị lỗi khi bạn đang đi nghỉ<br><br><li></li> Hiện NewTerm đang gặp sự cố trên iOS 14 với bộ giải mã trên các thiết bị trước A12",
+	"desc_long": "&emsp; NewTerm là phần tiếp theo của dự án Mobile Terminal, một trình giả lập thiết bị đầu cuối đa năng dành cho iOS. Nó bao gồm nhiều cải tiến so với Mobile Terminal, chẳng hạn như giao diện dựa trên tab, lựa chọn chủ đề và phông chữ, sao chép và dán, và nhiều bản sửa lỗi khác nhau. Nó là người bạn đồng hành hoàn hảo để chạy các lệnh nhanh trực tiếp trên iPhone của bạn hoặc làm việc trên các dự án trên iPad của bạn song song với các ứng dụng khác hoặc SSHing tới một máy chủ bị lỗi khi bạn đang đi nghỉ<br><br><li></li>&emsp; Hiện NewTerm đang gặp sự cố trên iOS 14 với bộ giải mã trên các thiết bị trước A12",
 	"compatitle": "iOS 10 ~ 14",
 	"changelog": "<strong>2.4</strong>",
 	"screenshot": null,

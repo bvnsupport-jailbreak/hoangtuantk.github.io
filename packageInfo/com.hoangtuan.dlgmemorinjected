@@ -1,7 +1,7 @@
 {
 	"name": "DLGMemor Injected",
 	"desc_short": "Thay đổi bộ nhớ",
-	"desc_long": "Tiện ích cho phép bạn thay đổi bộ nhớ trong ứng dụng. Sau khi cài đặt, hãy vào <b>Cài đặt</b>, đi tới <b>DLGMemorInjected</b> và chọn ứng dụng bạn muốn hack bộ nhớ.",
+	"desc_long": "&emsp; Tiện ích cho phép bạn thay đổi bộ nhớ trong ứng dụng. Sau khi cài đặt, hãy vào <b>Cài đặt</b>, đi tới <b>DLGMemorInjected</b> và chọn ứng dụng bạn muốn hack bộ nhớ.",
 	"compatitle": "iOS 11+",
 	"changelog": "<strong>11.3.1</strong>",
 	"screenshot": null,
