@@ -1,0 +1,9 @@
+{
+	"name": "Apps Manager",
+	"desc_short": "Sao lưu và khôi phục dữ liệu",
+	"desc_long": "Công cụ để <b>SAO LƯU</b>, <b>KHÔI PHỤC</b> Dữ liệu ứng dụng cho các Ứng dụng đã cài đặt.<br><br>Bấm <b>Kích Hoạt</b> nếu có thông báo <b>Kích Hoạt</b>",
+	"compatitle": "iOS 10 ~ 14",
+	"changelog": "<strong>1.6.1-4</strong>",
+	"screenshot": null,
+	"open": true,
+}

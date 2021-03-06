@@ -1,0 +1,9 @@
+{
+	"name": "Amber",
+	"desc_short": "Đèn LED màu vàng",
+	"desc_long": "Tinh chỉnh để cho phép cài đặt Đèn LED màu vàng hoặc cả Đèn LED màu trắng và vàng. .<br><br> Vào <b>Cài đặt</b>, đi đến <b>Trung Tâm điều khiển</b> và thêm <b>Amber</b> để sử dụng",
+	"compatitle": "iOS 11 ~ 14",
+	"changelog": "<strong>0.0.4</strong><br>+ Support H13 camera devices<br><strong>0.0.3.7</strong><br>+ Fixed Amber swipe gestures not working on iOS 11+",
+	"screenshot": null,
+	"open": true,
+}
