@@ -350,26 +350,6 @@ Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
 Name: WiFi Passwords
 
 Package: com.hoangtuan.appstoreplusplus
-Version: 0.9.14-8
-Architecture: iphoneos-arm
-Section: Tweaks
-Description: Cho phép bạn hạ cấp/nâng cấp ứng dụng trong AppStore trên iOS 11-14.
-Author: CokePokes
-Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
-Support: Hoàng Tuân
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: com.unlimapps.uaupdatetools
-Priority: optional
-Filename: ./debs/com.hoangtuan.appstoreplusplus_0.9.14-8_iphoneos-arm.deb
-Size: 2941722 
-MD5sum: 6e0641618b200920f50a7cf890ebe625
-SHA1: e35475143d9d71e43f9b05ae6a6e05ec9d1575b6
-Homepage: https://hoangtuantk.github.io/
-Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.appstoreplusplus
-Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
-Name: AppStore++
-
-Package: com.hoangtuan.appstoreplusplus
 Version: 0.9.14-11
 Architecture: iphoneos-arm
 Section: Tweaks
