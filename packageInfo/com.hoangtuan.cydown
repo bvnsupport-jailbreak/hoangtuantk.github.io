@@ -1,0 +1,9 @@
+{
+	"name": "CyDown (Việt hoá)",
+	"desc_short": "Thêm tính năng bổ sung cho Cydia, Zebra, Installer",
+	"desc_long": "✔️ Cài đặt gói miễn phí <br> ✔️ Tải xuống nhiều gói<br> ✔️ Tải xuống Chế độ Tăng tốc<br> ✔️ Mở tệp deb trong Ứng dụng CyDown (thông qua Chia sẻ / Mở trong) để cài đặt hoặc xem trực tiếp từ Cydia<br> ✔️ Chặn Quảng cáo<br> ✔️ Chia sẻ Wi-Fi<br> ✔️ Nhấn và giữ bất kỳ gói nào để bắt đầu tải xuống dưới nền<br>✔️ Sao lưu / Khôi phục tất cả các gói và nguồn của bạn một cách nhanh chóng<br> ✔️ Lưu vào bộ nhớ cache các gói của bạn với Xác minh Hash<br> ✔️ Hạ cấp bất kỳ gói nào được CyDown lưu vào bộ nhớ cache<br> ✔️ Tải tệp lên SendSpace<br> ✔️ Và nhiều tính năng khác",
+	"compatitle": "iOS 8 ~ 14",
+	"changelog": "<strong>7.1.1</strong>",
+	"screenshot": null,
+	"open": true,
+}
