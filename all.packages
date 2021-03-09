@@ -1,10 +1,10 @@
 [
 
-{"name":"Filza File Manager", "time":1615161600, "version":"3.8.2-4", "section":"Utilities", "size":12983482, "package":"com.hoangtuan.filza"}
+{"name":"FlyJB X (Việt Hoá)", "time":1615291200, "version":"1.1.15", "section":"Utilities", "size":754382, "package":"com.hoangtuan.flyjbx"}
+
+,{"name":"Filza File Manager", "time":1615161600, "version":"3.8.2-4", "section":"Utilities", "size":12983482, "package":"com.hoangtuan.filza"}
 
 ,{"name":"Filza File Manager 64bit", "time":1615161600, "version":"3.8.2-4", "section":"Utilities", "size":8422606, "package":"com.hoangtuan.filza64bit"}
-
-,{"name":"FlyJB X (Việt Hoá)", "time":1615161600, "version":"1.1.14", "section":"Utilities", "size":753984, "package":"com.hoangtuan.flyjbx"}
 
 ,{"name":"PortraitXI", "time":1614816000, "version":"4.0.2-ht", "section":"Tweaks", "size":14343348, "package":"com.foxfort.portraitxi"}
 
@@ -31,6 +31,8 @@
 ,{"name":"Bypass Techcombank", "time":1556323200, "version":"0.0.6", "section":"Tweaks", "size":3422, "package":"com.hoangtuan.bypasstechcombank"}
 
 ,{"name":"Clone App Command", "time":1582502400, "version":"1.0~b5", "section":"Development", "size":2828, "package":"com.hoangtuan.cloneappcmd"}
+
+,{"name":"CrackerXI+", "time":1568332800, "version":"1.1.16", "section":"Utilities", "size":9961080, "package":"com.hoangtuan.crackerxi"}
 
 ,{"name":"DLGMemor Injected", "time":1535587200, "version":"11.3.1", "section":"Utilities", "size":264442, "package":"com.hoangtuan.dlgmemorinjected"}
 

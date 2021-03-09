@@ -3,7 +3,7 @@
 	"desc_short": "Chế độ chân dung máy ảnh đơn",
 	"desc_long": "- Đây là file deb chính thức từ nguồn Packix <br>- Máy đã <b>Kích hoạt</b> bản quyền sẵn mới có thể dùng được <br><br><br>- Do để nguyên Package nên Mình thêm ký tự <b>-ht</b> vào phần phiên bản để phân biệt với nguồn Packix <br>- Ấn vào Giảm cấp, phiên bản nào không có <b>-ht</b> thì đó là file của nguồn Packix",
 	"compatitle": "iOS 11 ~ 14",
-	"changelog": "<strong>4.0.2-ht</strong><br>",
+	"changelog": null,
 	"screenshot": null,
 	"open": true,
 }

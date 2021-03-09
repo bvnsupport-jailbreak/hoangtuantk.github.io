@@ -3,7 +3,7 @@
 	"desc_short": "Nhân bản ứng dùng bằng Dấu nhắc lệnh/Command Prompt",
 	"desc_long": "<b>Yêu cầu:</b> <br> - Cài Tweak AppSync Unified nguồn: cydia.akemi.ai <br> - Tweak dùng để gõ lệnh Terminal. (VD: Tweak NewTerm)<br><br><li></li>  <b>Thực hiện:</b> <br><br>  - Mở Tweak gõ lệnh Termial và gõ <br>&emsp; su<br>&emsp; enter<br>&emsp; alpine<br>&emsp; enter<br> &emsp;cloneapp Tên App, Hoặc tên định danh <br><br>  - Tên định danh xem bằng cách vào Filza > Quản lý ứng dụng > biểu tượng (i) <br><br><li></li> <b>Ví Dụ:</b> <br>&emsp; cloneapp Facebook <br><br> <b>Hoặc:</b> <br>&emsp; cloneapp com.facebook.Facebook <br><br><li></li>  - Nhập xong cloneapp sẽ hiện phần Tên ứng dụng <br> - Đây là tên của app khi nhân bản xong, bạn có thể đặt tuỳ ý <br> - Giờ chỉ việc đợi thôi <br> - Lưu ý không được thoát ra ngoài hay tắt màn hình trong quá trình nhân bản",
 	"compatitle": "iOS 10 ~ 14",
-	"changelog": "<strong>1.0~b5</strong>",
+	"changelog": null,
 	"screenshot": null,
 	"open": true,
 }

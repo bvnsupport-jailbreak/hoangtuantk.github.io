@@ -3,7 +3,7 @@
 	"desc_short": "Mua In-App trong ứng dụng miễn phí",
 	"desc_long": "&emsp;Vào ứng dụng cần mua <b>In-App</b> và ấn mua hàng, khi hiện thông báo thanh toán thì bạn ấn huỷ là được",
 	"compatitle": "iOS 13",
-	"changelog": "<strong>0.0.2</strong>",
+	"changelog": null,
 	"screenshot": null,
 	"open": true,
 }

@@ -3,7 +3,7 @@
 	"desc_short": "Cài đặt iPA của bạn. Sử dụng lệnh myinst (đường dẫn đến .iPA)",
 	"desc_long": null,
 	"compatitle": "Appsync, CMD",
-	"changelog": "<strong>5.6.0.3</strong>",
+	"changelog": null,
 	"screenshot": null,
 	"open": true,
 }

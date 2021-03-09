@@ -3,7 +3,7 @@
 	"desc_short": "Hack game Archero",
 	"desc_long": "- Đây là bản hack của iosgods - Vì vậy cần phải có tài khoản iosgods để sử dụng hack <br> - Nếu bạn không có thì có thể dùng tài khoản này <br><br>&emsp; ttk: accgghtt3<br>&emsp;mk: HoangTuan@123<br><br><li></li> <b>Tính năng Hack</b> <br><br> - Multiply Defense - Tăng phòng thủ (Nhập giá trị và bật)<br> - Multiply Attack - Tăng sát thương (Nhập giá trị và bật)<br> - God Mode - Bất tử <br> - OHK - One Hit Kill (Phải sử dụng với God Mode hoặc sử dụng Multiply Attack để thay thế)<br> - Freeze Enemies - Đóng băng kẻ thù<br> - Nếu bạn muốn sử dụng chế độ God Mod và OHK hãy tắt tăng sát thương và phòng thủ trước để tránh bị ban",
 	"compatitle": "iOS 11 ~ 14",
-	"changelog": "<strong>2.7.1</strong>",
+	"changelog": null,
 	"screenshot": null,
 	"open": true,
 }

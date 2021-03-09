@@ -393,7 +393,7 @@ Icon: file:///Applications/Cydia.app/Sections/HTR-9.png
 Name: Spotify Premium
 
 Package: com.hoangtuan.flyjbx
-Version: 1.1.14
+Version: 1.1.15
 Architecture: iphoneos-arm
 Section: Utilities
 Author: XsF1re
@@ -401,10 +401,10 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: mobilesubstrate
 Conflicts: kr.xsf1re.flyjb
-Filename: ./debs/com.hoangtuan.flyjbx_1.1.14_iphoneos-arm.deb
-Size: 753984
-Installed-Size: 2796
-MD5sum: 410be473b50a3ec11ac38c6b753f79fe
+Filename: ./debs/com.hoangtuan.flyjbx_1.1.15_iphoneos-arm.deb
+Size: 754382
+Installed-Size: 1576
+MD5sum: 77daf9d06218c9c38f0b21cb076efaf9
 Homepage: https://facebook.com/qq.robert
 Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.flyjbx
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
@@ -744,3 +744,21 @@ Homepage: https://facebook.com/qq.robert
 Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.videoadsspeed
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: Tua nhanh video Quảng Cáo
+
+Package: com.hoangtuan.crackerxi
+Version: 1.1.16
+Architecture: iphoneos-arm
+Section: Utilities
+Description: Decrypts iOS Apps
+Author: c0pyn1nja
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: firmware (>= 11.0)
+Filename: ./debs/com.hoangtuan.crackerxi_1.1.16_iphoneos-arm.deb
+Size: 9961080
+Installed-Size: 29184
+MD5sum: d9b19e5ff6e43d2f23e32b5117091678
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.crackerxi
+Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
+Name: CrackerXI+
