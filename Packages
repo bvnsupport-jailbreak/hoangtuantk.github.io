@@ -393,7 +393,7 @@ Icon: file:///Applications/Cydia.app/Sections/HTR-9.png
 Name: Spotify Premium
 
 Package: com.hoangtuan.flyjbx
-Version: 1.1.15
+Version: 1.1.16
 Architecture: iphoneos-arm
 Section: Utilities
 Author: XsF1re
@@ -401,10 +401,10 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: mobilesubstrate
 Conflicts: kr.xsf1re.flyjb
-Filename: ./debs/com.hoangtuan.flyjbx_1.1.15_iphoneos-arm.deb
-Size: 754382
-Installed-Size: 1576
-MD5sum: 77daf9d06218c9c38f0b21cb076efaf9
+Filename: ./debs/com.hoangtuan.flyjbx_1.1.16_iphoneos-arm.deb
+Size: 755780
+Installed-Size: 1580
+MD5sum: 6682774c3d5e6312f95f652d9432d551
 Homepage: https://facebook.com/qq.robert
 Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.flyjbx
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
