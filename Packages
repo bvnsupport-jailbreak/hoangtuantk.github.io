@@ -729,7 +729,7 @@ Package: com.hoangtuan.videoadsspeed
 Version: 1.0.4-3
 Architecture: iphoneos-arm
 Section: Tweaks
-Description: Tua nhanh video Quảng Cáo
+Description: Tua nhanh video Quảng Cáo 
 Author: lenglengyu <lenglengyu@126.com>
 Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 dev: lenglengyu
@@ -762,3 +762,23 @@ Homepage: https://facebook.com/qq.robert
 Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.crackerxi
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
 Name: CrackerXI+
+
+Package: com.hoangtuan.ext3nder-installer
+Version: 022b
+Architecture: iphoneos-arm
+Section: Utilities
+Description: Cydia Extender Installer With Extra Features
+Author: julioverne
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: mobilesubstrate
+Conflicts: com.julioverne.ext3nder
+Pre-Depends: ldid, unzip, coreutils, zip, sed
+Filename: ./debs/com.hoangtuan.ext3nder-installer_022b_iphoneos-arm.deb
+Size: 1947700
+Installed-Size: 1571
+MD5sum: 1b8de1216f9b22186fc751eabc1153b8
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.ext3nder-installer
+Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
+Name: Ext3nder Installer
