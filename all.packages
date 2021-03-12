@@ -1,6 +1,8 @@
 [
 
-{"name":"FlyJB X (Việt Hoá)", "time":1615420800, "version":"1.1.16", "section":"Utilities", "size":755780, "package":"com.hoangtuan.flyjbx"}
+{"name":"FlyJB X (Việt Hoá)", "time":1615507200, "version":"1.1.18", "section":"Utilities", "size":1782724, "package":"com.hoangtuan.flyjbx"}
+
+,{"name":"NewTerm 2 (iOS 10 – 14)", "time":1615507200, "version":"2.5", "section":"Development", "size":2997592, "package":"com.hoangtuan.newterm2"}
 
 ,{"name":"Filza File Manager", "time":1615161600, "version":"3.8.2-4", "section":"Utilities", "size":12983482, "package":"com.hoangtuan.filza"}
 
@@ -47,8 +49,6 @@
 ,{"name":"LocaliAPStore13", "time":1547942400, "version":"0.0.2", "section":"Tweaks", "size":3916, "package":"com.hoangtuan.localiapstore13"}
 
 ,{"name":"myinst", "time":1538265600, "version":"5.6.0.3", "section":"Archiving", "size":92170, "package":"com.hoangtuan.myinst"}
-
-,{"name":"NewTerm 2 (iOS 10 – 14)", "time":1577232000, "version":"2.4", "section":"Development", "size":3202002, "package":"com.hoangtuan.newterm2"}
 
 ,{"name":"plutil", "time":1573689600, "version":"0.2.1", "section":"System", "size":34132, "package":"com.hoangtuan.plutil"}
 

@@ -121,9 +121,9 @@ Icon: file:///Applications/Cydia.app/Sections/HTR-2.png
 Name: Unc0ver Support Package
 
 Package: com.hoangtuan.newterm2
-Version: 2.4
+Version: 2.5
 Architecture: iphoneos-arm
-Section: Utilities
+Section: Development
 Description: Một ứng dụng đầu cuối mạnh mẽ dành cho iOS
 Author: HASHBANG Productions <support@hbang.ws>
 Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
@@ -131,11 +131,10 @@ Support: https://hashbang.productions/support/
 Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.13), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
 Conflicts: ws.hbang.newterm, com.lint.ntarrows
 Replaces: ws.hbang.newterm, com.lint.ntarrows
-Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
-Filename: ./debs/com.hoangtuan.newterm2_2.4_iphoneos-arm.deb
-Size: 3201974 
-Installed-Size: 6792
-MD5sum: 24a5f2f9e95f0523d4c209b417f8ef18
+Filename: ./debs/com.hoangtuan.newterm2_2.5_iphoneos-arm.deb
+Size: 2997592
+Installed-Size: 6664
+MD5sum: c788b78666a8811ed78054a60dbe96d8
 Homepage: https://facebook.com/qq.robert
 Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.newterm2
 Icon: file:///Applications/Cydia.app/Sections/HTR-5.png
@@ -393,7 +392,7 @@ Icon: file:///Applications/Cydia.app/Sections/HTR-9.png
 Name: Spotify Premium
 
 Package: com.hoangtuan.flyjbx
-Version: 1.1.16
+Version: 1.1.18
 Architecture: iphoneos-arm
 Section: Utilities
 Author: XsF1re
@@ -401,10 +400,10 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: mobilesubstrate
 Conflicts: kr.xsf1re.flyjb
-Filename: ./debs/com.hoangtuan.flyjbx_1.1.16_iphoneos-arm.deb
-Size: 755780
-Installed-Size: 1580
-MD5sum: 6682774c3d5e6312f95f652d9432d551
+Filename: ./debs/com.hoangtuan.flyjbx_1.1.18_iphoneos-arm.deb
+Size: 1782724
+Installed-Size: 2800
+MD5sum: 81444b6afd2efb8cb6a6aae5807c8e50
 Homepage: https://facebook.com/qq.robert
 Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.flyjbx
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
