@@ -781,3 +781,21 @@ Homepage: https://facebook.com/qq.robert
 Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.ext3nder-installer
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
 Name: Ext3nder Installer
+
+Package: com.hoangtuan.goodwifi
+Version: 0.0~beta6
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Better WiFi Preferences
+Author: julioverne
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.hoangtuan.goodwifi_0.0~beta6_iphoneos-arm.deb
+Size: 155992
+Installed-Size: 624
+MD5sum: b815d169cd7be146a559a92fd5684030
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.goodwifi
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: GoodWiFi
