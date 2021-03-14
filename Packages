@@ -200,7 +200,7 @@ Icon: file:///Applications/Cydia.app/Sections/HTR-3.png
 Name: myinst
 
 Package: com.hoangtuan.bakgrunnur
-Version: 1.5.11
+Version: 1.5.13
 Architecture: iphoneos-arm
 Section: Tweaks
 Description: Giúp ứng dụng luôn hoạt động cả khi khoá màn hình
@@ -208,10 +208,10 @@ Author: udevs
 Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.3), com.opa334.ccsupport, firmware(>=13.0), applist
-Filename: ./debs/com.hoangtuan.bakgrunnur_1.5.11_iphoneos-arm.deb
-Size: 373932
+Filename: ./debs/com.hoangtuan.bakgrunnur_1.5.13_iphoneos-arm.deb
+Size: 374066
 Installed-Size: 1384
-MD5sum: 164ea673879cf4eff49523a86bea6087
+MD5sum: f599d6db1c913387a0b552e144782f79
 Homepage: https://facebook.com/qq.robert
 Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.bakgrunnur
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
