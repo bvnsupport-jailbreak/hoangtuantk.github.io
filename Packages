@@ -799,3 +799,20 @@ Homepage: https://facebook.com/qq.robert
 Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.goodwifi
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: GoodWiFi
+
+Package: com.hoangtuan.assistivetouchx
+Version: 1.0
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: AssistiveTouchX thay thế các biểu tượng Assistive Touch mặc định bằng các biểu tượng của iPhone X (làm cho biểu tượng Assistive Touch tròn). QUAN TRỌNG: Tinh chỉnh này sửa đổi một ứng dụng hệ thống, trong khi nó an toàn và đã được thử nghiệm, hãy tự chịu rủi ro khi cài đặt.
+Author: jailbreak365
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân 
+Filename: ./debs/com.hoangtuan.assistivetouchx_1.0_iphoneos-arm.deb
+Size: 475078
+Installed-Size: 715
+MD5sum: fec31b64e88edaeb656dbec8cd130ba0
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.assistivetouchx
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: AssistiveTouchX
