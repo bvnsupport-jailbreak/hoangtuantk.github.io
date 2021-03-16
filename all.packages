@@ -62,6 +62,10 @@
 
 ,{"name":"LocaliAPStore13", "time":1547942400, "version":"0.0.2", "section":"Tweaks", "size":3916, "package":"com.hoangtuan.localiapstore13"}
 
+,{"name":"MilkyWay2", "time":1583452800, "version":"0.2.1", "section":"Tweaks", "size":84710, "package":"com.hoangtuan.milkyway2"}
+
+,{"name":"MilkyWay2 (Fix iOS14)", "time":1611532800, "version":"0.0.1", "section":"Tweaks", "size":4764, "package":"com.hoangtuan.milkyway2-ios14fix"}
+
 ,{"name":"myinst", "time":1538265600, "version":"5.6.0.3", "section":"Archiving", "size":92170, "package":"com.hoangtuan.myinst"}
 
 ,{"name":"plutil", "time":1573689600, "version":"0.2.1", "section":"System", "size":34132, "package":"com.hoangtuan.plutil"}

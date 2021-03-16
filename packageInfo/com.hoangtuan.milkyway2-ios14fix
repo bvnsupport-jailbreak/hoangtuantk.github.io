@@ -1,0 +1,9 @@
+{
+	"name": "MilkyWay2 (Fix iOS14)",
+	"desc_short": "Sửa lỗi Milkyway2 trên iOS14",
+	"desc_long": null,
+	"compatitle": "iOS 13 ~ 14",
+	"changelog": null,
+	"screenshot": null,
+	"open": true,
+}

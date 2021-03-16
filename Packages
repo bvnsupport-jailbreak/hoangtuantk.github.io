@@ -816,3 +816,39 @@ Homepage: https://facebook.com/qq.robert
 Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.assistivetouchx
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: AssistiveTouchX
+
+Package: com.hoangtuan.milkyway2
+Version: 0.2.1
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Tinh chỉnh nâng cao cho đa nhiệm
+Author: akusio <akusio-report@neko2.net>
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: mobilesubstrate, applist, preferenceloader
+Filename: ./debs/com.hoangtuan.milkyway2_0.2.1_iphoneos-arm.deb
+Size: 84710
+Installed-Size: 376
+MD5sum: 097ed44dff8e1eb75d8ead498cd5da7b
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.milkyway2
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: MilkyWay2
+
+Package: com.hoangtuan.milkyway2-ios14fix
+Version: 0.0.1
+Architecture: iphoneos-arm
+Section: Tweaks
+Description: Sửa lỗi Milkyway2 không hoạt động trên iOS14.
+Author: Brend0n
+Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
+Support: Hoàng Tuân
+Depends: com.hoangtuan.milkyway2
+Filename: ./debs/com.hoangtuan.milkyway2-ios14fix_0.0.1_iphoneos-arm.deb
+Size: 4764
+Installed-Size: 132
+MD5sum: 9fd733fed1061084cbc0bcee02cd4f35
+Homepage: https://facebook.com/qq.robert
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.milkyway2-ios14fix
+Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
+Name: MilkyWay2 (Fix iOS14)
