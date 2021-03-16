@@ -292,7 +292,7 @@ Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: Bypass Techcombank
 
 Package: com.hoangtuan.bypassmbbank
-Version: 1.2.3
+Version: 1.0-20
 Architecture: iphoneos-arm
 Section: Tweaks
 Description: Chặn phát hiện Jailbreak App Ngân Hàng MBBank
@@ -300,10 +300,10 @@ Author: IPALibrary
 Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: mobilesubstrate
-Filename: ./debs/com.hoangtuan.bypassmbbank_1.2.3_iphoneos-arm.deb
-Size: 258208 
+Filename: ./debs/com.hoangtuan.bypassmbbank_1.0-20_iphoneos-arm.deb
+Size: 258158
 Installed-Size: 644
-MD5sum: c8701bd1c0151cf436acccac46e45a14
+MD5sum: cf5a4ee0fae8e6ab5840142f5ace5610
 Homepage: https://facebook.com/qq.robert
 Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.bypassmbbank
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
@@ -392,7 +392,7 @@ Icon: file:///Applications/Cydia.app/Sections/HTR-9.png
 Name: Spotify Premium
 
 Package: com.hoangtuan.flyjbx
-Version: 1.1.18
+Version: 1.1.19
 Architecture: iphoneos-arm
 Section: Utilities
 Author: XsF1re
@@ -400,10 +400,10 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: mobilesubstrate
 Conflicts: kr.xsf1re.flyjb
-Filename: ./debs/com.hoangtuan.flyjbx_1.1.18_iphoneos-arm.deb
-Size: 1782724
-Installed-Size: 2800
-MD5sum: 81444b6afd2efb8cb6a6aae5807c8e50
+Filename: ./debs/com.hoangtuan.flyjbx_1.1.19_iphoneos-arm.deb
+Size: 754312
+Installed-Size: 1580
+MD5sum: 12886acdb2d4b1f360d92cce391a40da
 Homepage: https://facebook.com/qq.robert
 Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.flyjbx
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
