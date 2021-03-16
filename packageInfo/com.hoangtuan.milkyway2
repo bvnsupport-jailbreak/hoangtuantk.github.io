@@ -1,7 +1,7 @@
 {
 	"name": "MilkyWay2",
 	"desc_short": "Tinh chỉnh nâng cao cho đa nhiệm",
-	"desc_long": "<b>Cách dùng:</b>- Vuốt đa nhiệm và giữ vào app cần tạo cửa sổ <br><br>- <b>Lưu ý:</b> Để app không bị load lại khi dùng thì cần bật BackgrounderActions.<br>&nbsp;&nbsp;&nbsp;&nbsp; + Vào Control Center và thêm chức năng BackgrounderActions. &nbsp;&nbsp;&nbsp;&nbsp; + Mở app cần dùng rồi vuốt Control Center và ấn vào icon BackgrounderActions",
+	"desc_long": "<b>Cách dùng:</b>- Vuốt đa nhiệm và giữ vào app<br><br>- <b>Lưu ý:</b> Để app không bị load lại khi dùng thì cần bật Background Mode.<br>&nbsp;&nbsp;&nbsp;&nbsp; + Vào Control Center và thêm chức năng Toggle Background Mode. &nbsp;&nbsp;&nbsp;&nbsp; + Mở app cần dùng rồi vuốt Control Center và ấn vào icon vừa thêm<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Background Mode sẽ giúp ứng dụng luôn luôn hoạt động dưới nền",
 	"compatitle": "iOS 13",
 	"changelog": null,
 	"screenshot": null,
