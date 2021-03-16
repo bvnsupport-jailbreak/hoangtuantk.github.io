@@ -10,8 +10,6 @@
 
 ,{"name":"Filza File Manager", "time":1615161600, "version":"3.8.2-4", "section":"Utilities", "size":12983482, "package":"com.hoangtuan.filza"}
 
-,{"name":"Filza File Manager 64bit", "time":1615161600, "version":"3.8.2-4", "section":"Utilities", "size":8422606, "package":"com.hoangtuan.filza64bit"}
-
 
 
 ,{"name":"Adobe Lightroom Photo Editor Cheats", "time":1604966400, "version":"6.0.2", "section":"Hack Apps", "size":2418298, "package":"com.hoangtuan.Lightroom"}
@@ -45,6 +43,8 @@
 ,{"name":"DLGMemor Injected", "time":1535587200, "version":"11.3.1", "section":"Utilities", "size":264442, "package":"com.hoangtuan.dlgmemorinjected"}
 
 ,{"name":"Ext3nder Installer", "time":1503964800, "version":"022b", "section":"Utilities", "size":1947700, "package":"com.hoangtuan.ext3nder-installer"}
+
+,{"name":"Filza File Manager 64bit", "time":1615161600, "version":"3.8.2-4", "section":"Utilities", "size":8422606, "package":"com.hoangtuan.filza64bit"}
 
 ,{"name":"GoodWiFi", "time":1609200000, "version":"0.0~beta6", "section":"Tweaks", "size":155992, "package":"com.hoangtuan.goodwifi"}
 
