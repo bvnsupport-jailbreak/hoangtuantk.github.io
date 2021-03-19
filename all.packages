@@ -1,6 +1,8 @@
 [
 
-{"name":"FlyJB X (Việt Hoá)", "time":1615766400, "version":"1.1.19", "section":"Utilities", "size":1782724, "package":"com.hoangtuan.flyjbx"}
+{"name":"Translomatic", "time":1616112000, "version":"2.6.10-ht", "section":"Tweaks", "size":2877092, "package":"com.foxfort.translomatic"}
+
+,{"name":"FlyJB X (Việt Hoá)", "time":1615766400, "version":"1.1.19", "section":"Utilities", "size":1782724, "package":"com.hoangtuan.flyjbx"}
 
 ,{"name":"Archero Cheats", "time":1615680000, "version":"2.8.2", "section":"Hack Apps", "size":2422700, "package":"com.hoangtuan.hackArchero"}
 
@@ -8,7 +10,6 @@
 
 ,{"name":"Bakgrunnur", "time":1615248000, "version":"1.5.13", "section":"Tweaks", "size":374066, "package":"com.hoangtuan.bakgrunnur"}
 
-,{"name":"Filza File Manager", "time":1615161600, "version":"3.8.2-4", "section":"Utilities", "size":12983482, "package":"com.hoangtuan.filza"}
 
 
 
@@ -44,6 +45,8 @@
 
 ,{"name":"Ext3nder Installer", "time":1503964800, "version":"022b", "section":"Utilities", "size":1947700, "package":"com.hoangtuan.ext3nder-installer"}
 
+,{"name":"Filza File Manager", "time":1615161600, "version":"3.8.2-4", "section":"Utilities", "size":12983482, "package":"com.hoangtuan.filza"}
+
 ,{"name":"Filza File Manager 64bit", "time":1615161600, "version":"3.8.2-4", "section":"Utilities", "size":8422606, "package":"com.hoangtuan.filza64bit"}
 
 ,{"name":"GoodWiFi", "time":1609200000, "version":"0.0~beta6", "section":"Tweaks", "size":155992, "package":"com.hoangtuan.goodwifi"}
@@ -75,8 +78,6 @@
 ,{"name":"PowerSelector (iOS 11 to 14)", "time":1603756800, "version":"1.3.0", "section":"Utilities", "size":381940, "package":"com.hoangtuan.powerselector11"}
 
 ,{"name":"Spotify Premium", "time":1600905600, "version":"1.3a", "section":"Hack Apps", "size":200564, "package":"com.hoangtuan.spotilife"}
-
-,{"name":"Translomatic", "time":1614729600, "version":"2.6.9-ht", "section":"Tweaks", "size":2916222, "package":"com.foxfort.translomatic"}
 
 ,{"name":"Tua nhanh video Quảng Cáo", "time":1569715200, "version":"1.0.4-3", "section":"Tweaks", "size":205660, "package":"com.hoangtuan.videoadsspeed"}
 
