@@ -2,7 +2,7 @@
 	"name": "Bypass Techcombank",
 	"desc_short": "Chặn phát hiện Jailbreak cho App Techcombank - F@st Mobile",
 	"desc_long": null,
-	"compatitle": "iOS 11 ~ 14",
+	"compatitle": "iOS 11.0 đến iOS 14.5",
 	"changelog": null,
 	"screenshot": null,
 	"open": true,

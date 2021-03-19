@@ -2,7 +2,7 @@
 	"name": "CrackerXI+",
 	"desc_short": "Giải mã ứng dụng iOS",
 	"desc_long": "&nbsp;&nbsp;&nbsp;&nbsp;Giải mã ứng dụng iOS!  CrackerXI + là một ứng dụng bẻ khóa miễn phí cho phép bạn bẻ khóa các ứng dụng iOS được cài đặt trên thiết bị của mình.  Công cụ này thực sự dễ sử dụng.  Sau khi khởi chạy ứng dụng, bạn sẽ thấy danh sách tất cả các ứng dụng được liệt kê trên thiết bị của mình.  Nhấp vào tên ứng dụng để giải mã IPA nhị phân hoặc IPA đầy đủ.  Quá trình bẻ khóa ứng dụng sẽ mất vài giây.",
-	"compatitle": "iOS >=11",
+	"compatitle": "iOS 11.0 đến iOS 14.5",
 	"changelog": null,
 	"screenshot": "<div style='text-align:center;'><a href='https://i.ibb.co/VtRDz7G/screenshot1.png' target='_blank'><img width=95% src='https://i.ibb.co/VtRDz7G/screenshot1.png'/></a><a href='https://i.ibb.co/tzV4V0w/screenshot2.png' target='_blank'><img width=95% src='https://i.ibb.co/tzV4V0w/screenshot2.png'/></a><br></div>",
 	"open": true,

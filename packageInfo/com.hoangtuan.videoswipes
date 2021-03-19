@@ -2,7 +2,7 @@
 	"name": "VideoSwipes (Việt hoá)",
 	"desc_short": "Thêm thao tác vuốt trình phát video",
 	"desc_long": "<b>Chức năng:</b><br><br> - Thêm thao tác nhanh trình phát video<br> - Vuốt sang trái/phải: tua đi/tua lại video 15 giây (bạn có thể thay đổi số giây trong cài đặt)<br> - Vuốt lên/xuống bên trái màn hình: tăng/giảm âm lượng<br> - Vuốt lên/xuống bên phải màn hình: tăng/giảm độ sáng<br> - Vuốt xuống giữa màn hình: loại bỏ trình phát<br> - Nhấn và giữ ở mọi nơi: chuyển đổi phát/tạm dừng",
-	"compatitle": "iOS 11 ~ 13",
+	"compatitle": "iOS 11.0 đến iOS 13.7, Facebook 2.4.x",
 	"changelog": null,
 	"screenshot": "<div style='text-align:center;'><a href='https://i.ibb.co/F0T1VBh/screenshots1.png' target='_blank'><img width=95% src='https://i.ibb.co/F0T1VBh/screenshots1.png'/></a><a href='https://i.ibb.co/ThXgH43/screenshots2.png' target='_blank'><img width=95% src='https://i.ibb.co/ThXgH43/screenshots2.png'/></a><br></div>",
 	"open": true,

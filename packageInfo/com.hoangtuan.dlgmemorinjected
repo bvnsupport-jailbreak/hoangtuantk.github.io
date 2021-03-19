@@ -2,7 +2,7 @@
 	"name": "DLGMemor Injected",
 	"desc_short": "Thay đổi bộ nhớ ứng dụng",
 	"desc_long": "&emsp; Tiện ích cho phép bạn thay đổi bộ nhớ trong ứng dụng. Sau khi cài đặt, hãy vào <b>Cài đặt</b>, đi tới <b>DLGMemorInjected</b> và chọn ứng dụng bạn muốn hack bộ nhớ.",
-	"compatitle": "iOS 11+",
+	"compatitle": "iOS 11.0 đến iOS 14.5",
 	"changelog": null,
 	"screenshot": "<div style='text-align:center;'><a href='https://i.ibb.co/c8YrsWW/screenshot1.png' target='_blank'><img width=95% src='https://i.ibb.co/c8YrsWW/screenshot1.png'/></a><a href='https://i.ibb.co/qpQMs1J/screenshot2.png' target='_blank'><img width=95% src='https://i.ibb.co/qpQMs1J/screenshot2.png'/></a><a href='https://i.ibb.co/vPHv1c6/screenshot3.png' target='_blank'><img width=95% src='https://i.ibb.co/vPHv1c6/screenshot3.png'/></a><br></div>",
 	"open": true,
