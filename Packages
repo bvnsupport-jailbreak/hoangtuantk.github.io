@@ -309,26 +309,22 @@ Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.bypas
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: Bypass MBBank
 
-Package: com.hoangtuan.wifipasswords
-Version: 3.0.1
+Package: com.hoangtuan.wifikey
+Version: 1.8
 Architecture: iphoneos-arm
 Section: Utilities
-Description: hiển thị mật khẩu wifi đã nhập trước đó
-   Ứng dụng này hiển thị mọi mật khẩu WiFi bạn đã từng nhập.Rất tiện dụng nếu bạn quên mật khẩu và cần kết nối thiết bị khác, hoặc cho bạn bè biết mật khẩu của quán cà phê mà không cần hỏi lại câu hỏi đáng xấu hổ đó.Nhấn giữ vào mật khẩu để sao chép vào khay nhớ tạm.
-Author: Malcolm Hall <indiekiduk@gmail.com>
+Description: Xem và chia sẻ mật khẩu wifi
+Author: fahlnbg
 Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
-dev: malcolmhall
 Support: Hoàng Tuân
-Depends: firmware (>= 6.0)
-Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14,
-Filename: ./debs/com.hoangtuan.wifipasswords_3.0.1_iphoneos-arm.deb
-Size: 1270412
-Installed-Size: 4112
-MD5sum: c8b81b9386feab904ea16c06010eb982
+Filename: ./debs/com.hoangtuan.wifikey_1.8_iphoneos-arm.deb
+Size: 36010
+Installed-Size: 168
+MD5sum: eb102b3a07e60513b7f5d387c1c7de33
 Homepage: https://facebook.com/qq.robert
-Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.wifipasswords
+Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.wifikey
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
-Name: WiFi Passwords
+Name: WiFi Key
 
 Package: com.hoangtuan.appstoreplusplus
 Version: 0.9.14-11
