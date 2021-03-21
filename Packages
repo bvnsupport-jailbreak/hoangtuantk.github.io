@@ -396,13 +396,13 @@ Support: Hoàng Tuân
 Depends: mobilesubstrate
 Conflicts: kr.xsf1re.flyjb
 Filename: ./debs/com.hoangtuan.flyjbx_1.1.19_iphoneos-arm.deb
-Size: 754312
+Size: 756464
 Installed-Size: 1580
-MD5sum: 12886acdb2d4b1f360d92cce391a40da
+MD5sum: 83721918ccb32d8ca3edf989d16145b2
 Homepage: https://facebook.com/qq.robert
 Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.flyjbx
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
-Name: FlyJB X (Việt Hoá)
+Name: FlyJB X (Việt hoá)
 
 Package: com.foxfort.portraitxi
 Version: 4.0.2-ht
