@@ -17,16 +17,16 @@ Icon: file:///Applications/Cydia.app/Sections/HTR-7.png
 Name: Icon - Hoàng Tuân Repo
 
 Package: com.hoangtuan.cydown.tv
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Section: Localization
 Description: Thêm ngôn ngữ tiếng Việt cho Cydown
 Author: Hoàng Tuân <trongtuan198@gmail.com>
 Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
-Filename: ./debs/com.hoangtuan.cydown.tv_1.0_iphoneos-arm.deb
-Size: 6188
-MD5sum: 6357ae1981f32d519bcf9a07c6a0e733
+Filename: ./debs/com.hoangtuan.cydown.tv_1.1_iphoneos-arm.deb
+Size: 6200
+MD5sum: 4da010d8eeb2cef87543d29210caa9b7
 Homepage: https://facebook.com/qq.robert
 Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.cydown.tv
 Icon: file:///Applications/Cydia.app/Sections/HTR-4.png
@@ -711,9 +711,9 @@ Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
 Filename: ./debs/com.hoangtuan.cydown_7.1.1_iphoneos-arm.deb
-Size: 4362198
+Size: 4311632
 Installed-Size: 10957
-MD5sum: 777aae351a936462a9e50ac5651662ad
+MD5sum: eb5cee16493dcf55713d369535332a12
 Homepage: https://facebook.com/qq.robert
 Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.cydown
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
