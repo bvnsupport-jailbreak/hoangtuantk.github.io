@@ -346,7 +346,7 @@ Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
 Name: AppStore++
 
 Package: com.hoangtuan.powerselector11
-Version: 1.3.0
+Version: 1.3.1
 Architecture: iphoneos-arm
 Section: Utilities
 Description: The power supply relation of a device is operated.
@@ -359,12 +359,11 @@ Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
 Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
 Replaces: com.ichitaso.powerselector11
 Pre-Depends: firmware (>= 11.0)
-Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14
-Filename: ./debs/com.hoangtuan.powerselector11_1.3.0_iphoneos-arm.deb
-Size: 381930 
-Installed-Size: 2292
-MD5sum: b2053904f37be8608802c8bdf02d4bc1
-Homepage: https://facebook.com/qq.robertdescription.html?id=com.hoangtuan.powerselector11
+Filename: ./debs/com.hoangtuan.powerselector11_1.3.1_iphoneos-arm.deb
+Size: 386810
+Installed-Size: 2424
+MD5sum: 5ae38dc3c19886a826d743c0f88c0994
+Homepage: https://facebook.com/qq.robert
 Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.powerselector11
 Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
 Name: PowerSelector (iOS 11 to 14)
