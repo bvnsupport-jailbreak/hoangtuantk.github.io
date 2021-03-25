@@ -327,7 +327,7 @@ Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
 Name: WiFi Key
 
 Package: com.hoangtuan.appstoreplusplus
-Version: 0.9.14-11
+Version: 0.9.15
 Architecture: iphoneos-arm
 Section: Tweaks
 Description: Cho phép bạn hạ cấp/nâng cấp ứng dụng trong AppStore trên iOS 11-14.
@@ -337,9 +337,9 @@ Support: Hoàng Tuân
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools
 Priority: optional
-Filename: ./debs/com.hoangtuan.appstoreplusplus_0.9.14-11_iphoneos-arm.deb
-Size: 2995418
-MD5sum: 9824438cc478323a9843a189f8fc5a53
+Filename: ./debs/com.hoangtuan.appstoreplusplus_0.9.15_iphoneos-arm.deb
+Size: 3009916
+MD5sum: 1379b96a7e1c92ea8b1fb775de013eea
 Homepage: https://facebook.com/qq.robert
 Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.appstoreplusplus
 Icon: file:///Applications/Cydia.app/Sections/HTR-6.png
