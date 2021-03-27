@@ -1,14 +1,14 @@
 [
 
-{"name":"AppStore++", "time":1616716800, "version":"0.9.15", "section":"Tweaks", "size":3009916, "package":"com.hoangtuan.appstoreplusplus"}
+{"name":"Spotify Premium", "time":1616803200, "version":"1.4", "section":"Hack Apps", "size":203668, "package":"com.hoangtuan.spotilife"}
+
+,{"name":"AppStore++", "time":1616716800, "version":"0.9.15", "section":"Tweaks", "size":3009916, "package":"com.hoangtuan.appstoreplusplus"}
 
 ,{"name":"PowerSelector (iOS 11 to 14)", "time":1616630400, "version":"1.3.1", "section":"Utilities", "size":386810, "package":"com.hoangtuan.powerselector11"}
 
 ,{"name":"Translomatic", "time":1616500800, "version":"2.6.11-ht", "section":"Tweaks", "size":2905554, "package":"com.foxfort.translomatic"}
 
 ,{"name":"FlyJB X (Việt hoá)", "time":1616457600, "version":"1.2.0", "section":"Utilities", "size":762976, "package":"com.hoangtuan.flyjbx"}
-
-,{"name":"Archero Cheats", "time":1615939200, "version":"2.8.4", "section":"Hack Apps", "size":2422708, "package":"com.hoangtuan.hackArchero"}
 
 
 
@@ -21,6 +21,8 @@
 ,{"name":"Apps Hacks","time":1614816000, "version":"4.5-1", "section":"Tweaks", "size":3143496, "package":"com.hoangtuan.appshacks"}
 
 ,{"name":"Apps Manager", "time":1614470400, "version":"1.6.1-4", "section":"Utilities", "size":5385626, "package":"com.hoangtuan.appsmanager"}
+
+,{"name":"Archero Cheats", "time":1615939200, "version":"2.8.4", "section":"Hack Apps", "size":2422708, "package":"com.hoangtuan.hackArchero"}
 
 ,{"name":"AssistiveTouchX", "time":1523923200, "version":"1.0", "section":"Tweaks", "size":475078, "package":"com.hoangtuan.assistivetouchx"}
 
@@ -77,8 +79,6 @@
 ,{"name":"plutil", "time":1573689600, "version":"0.2.1", "section":"System", "size":34132, "package":"com.hoangtuan.plutil"}
 
 ,{"name":"PortraitXI", "time":1614816000, "version":"4.0.2-ht", "section":"Tweaks", "size":14343348, "package":"com.foxfort.portraitxi"}
-
-,{"name":"Spotify Premium", "time":1600905600, "version":"1.3a", "section":"Hack Apps", "size":200564, "package":"com.hoangtuan.spotilife"}
 
 ,{"name":"Tua nhanh video Quảng Cáo", "time":1569715200, "version":"1.0.4-3", "section":"Tweaks", "size":205660, "package":"com.hoangtuan.videoadsspeed"}
 

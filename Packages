@@ -369,7 +369,7 @@ Icon: file:///Applications/Cydia.app/Sections/HTR-8.png
 Name: PowerSelector (iOS 11 to 14)
 
 Package: com.hoangtuan.spotilife
-Version: 1.3a
+Version: 1.4
 Architecture: iphoneos-arm
 Section: Hack Apps
 Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
@@ -377,10 +377,10 @@ Author: julioverne
 Maintainer: Hoàng Tuân <trongtuan198@gmail.com>
 Support: Hoàng Tuân
 Depends: mobilesubstrate
-Filename: ./debs/com.hoangtuan.spotilife_1.3a_iphoneos-arm.deb
-Size: 200546
-Installed-Size: 626
-MD5sum: c5f252e5c5ba215043a0b651cdfe5bca
+Filename: ./debs/com.hoangtuan.spotilife_1.4_iphoneos-arm.deb
+Size: 203668
+Installed-Size: 612
+MD5sum: caa3448f9fd4b115d43443f09096338b
 Homepage: https://hoangtuantk.github.io
 Depiction: https://hoangtuantk.github.io/description.html?id=com.hoangtuan.spotilife
 Icon: file:///Applications/Cydia.app/Sections/HTR-9.png
